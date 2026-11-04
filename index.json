@@ -85,6 +85,13 @@
    "file": "books/12_열왕기하.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 13,
+   "name": "역대상",
+   "file": "books/13_역대상.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
