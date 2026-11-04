@@ -209,6 +209,80 @@
      "refs": [
       21
      ]
+    },
+    {
+     "text": "지명 좌표는 OpenBible.info의 성경 지명 자료(CC BY 4.0)를 바탕으로 했다. 이 자료는 지명마다 가능한 현재 위치 후보와 학계 자료에 근거한 신뢰도를 제시하며, 신뢰도 합이 100%에 못 미치면 현재 위치가 불확실하다는 뜻이라고 설명한다.",
+     "refs": [
+      22,
+      23
+     ]
+    },
+    {
+     "text": "라암셋은 칸티르(신뢰도 55%)와 텔 엘 다바(25%) 등이 후보이며, 몇몇 자료가 두 곳을 같은 곳처럼 다룬다고 적는다.",
+     "refs": [
+      24,
+      25,
+      26
+     ]
+    },
+    {
+     "text": "숙곳은 텔 엘 마스쿠타(25%)가 가장 앞선 후보이지만 신뢰도가 25%에 그친다. 좌표는 이 자료를 인용한 제3자 사이트의 값이다.",
+     "refs": [
+      27,
+      28
+     ]
+    },
+    {
+     "text": "마라는 아인 하와라(40%), 비르 마라(15%), 우윤 무사(15%) 등이 후보다.",
+     "refs": [
+      29,
+      30
+     ]
+    },
+    {
+     "text": "엘림은 와디 가란달(55%)이 가장 앞선 후보이고, ESV Reformation Study Bible도 엘림을 아마 아인 하와라에서 남쪽으로 약 7마일 떨어진 와디 가란델로 본다고 적는다. 좌표는 제3자 사이트가 인용한 값이다.",
+     "refs": [
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "text": "르비딤은 와디 루파이일(40%), 와디 페이란(20%) 등이 후보이고 나머지는 10% 미만이다.",
+     "refs": [
+      34,
+      35,
+      36
+     ]
+    },
+    {
+     "text": "시내산은 모두 14개 후보가 제시되며 예벨 무사(50%)가 가장 앞서고 하르 카르콤 등 나머지는 각각 10% 미만이다.",
+     "refs": [
+      37,
+      38
+     ]
+    },
+    {
+     "text": "호렙은 시내산의 다른 이름으로 보며, '시내 광야'는 시내산을 중심으로 한 약 50km 범위로 보는데 이 지명 자체에는 큰 이견이 없다고 OpenBible은 적는다.",
+     "refs": [
+      39,
+      40
+     ]
+    },
+    {
+     "text": "모세는 이집트에서 미디안 땅으로 피했다(출 2:15). 미디안 땅은 경계를 정할 수 없는 넓은 지역이라고 ISBE는 적고, 흔히 아카바만 동쪽 아라비아 북서부와 연결된다고 설명된다. 좌표는 대략적인 점이다.",
+     "refs": [
+      41,
+      42,
+      43,
+      44
+     ]
+    },
+    {
+     "text": "Utley의 출애굽기 지도 지명 목록에는 비돔(1:11), 라암셋(1:11), 미디안(2:15), 호렙산(3:1), 고센(8:22), 얌 수프(10:19), 블레셋 길(13:17) 등이 들어 있다.",
+     "refs": [
+      45
+     ]
     }
    ]
   },
@@ -226,13 +300,13 @@
     {
      "text": "Utley는 히브리어 본문에서 이 책 이름이 책 첫머리의 표현('그리고 이것들은 …이름들')에서 따온 것이라고 적는다.",
      "refs": [
-      22
+      46
      ]
     },
     {
      "text": "같은 글은 칠십인역이 '나가는 길'을 뜻하는 이름을 붙였고, 라틴어 불가타가 'exodus'라고 했다고 적는다.",
      "refs": [
-      22
+      46
      ]
     },
     {
@@ -257,7 +331,7 @@
     {
      "text": "Utley는 십계명과 닮은 고대 근동 법전의 예로 리피트이슈타르 법전 등을 들고, 메소포타미아 법전은 주로 민사 중심인 데 비해 성경의 법은 주로 종교·제의 중심이라고 비교한다.",
      "refs": [
-      23
+      47
      ]
     }
    ]
@@ -270,173 +344,375 @@
     {
      "text": "ESV 서론은 출애굽기의 전체 주제를 족장들에게 하신 하나님의 약속의 성취로 요약한다.",
      "refs": [
-      24
+      48
      ]
     },
     {
      "text": "핵심 주제로 언약의 약속, 언약의 중보자(모세), 언약의 임재(하나님이 백성과 함께하심)를 든다.",
      "refs": [
-      24
+      48
      ]
     },
     {
      "text": "언약의 약속은 이 책에서 주님이 아브라함에게 하신 언약을 기억하시는 것으로 묘사되며(출 2:24; 3:6, 14–17; 6:2–8), 약속에는 땅, 많은 자손, 복이 포함된다고 설명한다.",
      "refs": [
-      24
+      48
      ]
     },
     {
      "text": "Faithlife Study Bible은 이 책의 핵심 메시지를 하나님만이 사람을 속박에서 자유롭게 하실 수 있다는 것으로 요약하며, '나는 여호와'라는 자기 선언이 반복된다고 본다(6:6–8; 20:2; 34:10).",
      "refs": [
-      25
+      49
      ]
     },
     {
      "text": "같은 글은 모세가 밝히듯 백성에게는 율법만이 아니라 그들 가운데 거하시는 하나님의 임재가 필요하다고 설명한다(33:15–17; 40:36–38).",
      "refs": [
-      25
+      49
      ]
     }
    ]
   }
  ],
- "route": [
-  {
-   "order": 1,
-   "name": "라암셋",
-   "verses": "민 33:3, 33:5",
-   "refs": [
-    15
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 2,
-   "name": "숙곳",
-   "verses": "민 33:5–6",
-   "refs": [
-    15
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 3,
-   "name": "에담",
-   "verses": "민 33:6–7",
-   "refs": [
-    15
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 4,
-   "name": "비하히롯(믹돌·바알스본 근처)",
-   "verses": "민 33:7; 출 14:2",
-   "refs": [
-    15,
-    16
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 5,
-   "name": "마라",
-   "verses": "민 33:8",
-   "refs": [
-    17
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 6,
-   "name": "엘림",
-   "verses": "민 33:9",
-   "refs": [
-    17
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 7,
-   "name": "홍해 가",
-   "verses": "민 33:10",
-   "refs": [
-    17
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 8,
-   "name": "신 광야",
-   "verses": "민 33:11; 출 16:1",
-   "refs": [
-    17,
-    18
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 9,
-   "name": "돕가",
-   "verses": "민 33:12",
-   "refs": [
-    17
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 10,
-   "name": "알루스",
-   "verses": "민 33:13",
-   "refs": [
-    17
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 11,
-   "name": "르비딤",
-   "verses": "민 33:14; 출 17:1",
-   "refs": [
-    17,
-    19
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  },
-  {
-   "order": 12,
-   "name": "시내 광야",
-   "verses": "민 33:15",
-   "refs": [
-    17
-   ],
-   "lat": null,
-   "lng": null,
-   "locationNote": "정확한 위치는 이 문서에서 확인한 자료가 없어 비워 둠(경로·지명 위치는 학자들 사이에 불확실하다는 설명이 있음)"
-  }
- ],
+ "geo": {
+  "attribution": "지명 좌표·신뢰도: OpenBible.info Bible Geocoding Data(CC BY 4.0). 지도 바탕: OpenStreetMap contributors. 좌표는 '후보'이며 학계에서 위치가 확정되지 않은 곳이 많습니다.",
+  "places": [
+   {
+    "id": "rameses",
+    "name": "라암셋",
+    "nameEn": "Rameses",
+    "kind": "도시",
+    "verses": "출 1:11; 12:37; 민 33:3, 5",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "칸티르",
+      "lat": 30.79937,
+      "lng": 31.834217,
+      "confidencePct": 55,
+      "precision": "발굴 유적(현재 마을 안)",
+      "refs": [
+       25
+      ]
+     },
+     {
+      "label": "텔 엘 다바",
+      "lat": 30.786228,
+      "lng": 31.82253,
+      "confidencePct": 25,
+      "precision": "유적 지점",
+      "refs": [
+       26
+      ]
+     }
+    ],
+    "refs": [
+     24
+    ]
+   },
+   {
+    "id": "succoth",
+    "name": "숙곳",
+    "nameEn": "Succoth",
+    "kind": "도시·지역",
+    "verses": "출 12:37; 13:20; 민 33:5–6",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "텔 엘 마스쿠타",
+      "lat": 30.5527,
+      "lng": 32.099,
+      "confidencePct": 25,
+      "precision": "제3자 사이트가 인용한 좌표",
+      "refs": [
+       28
+      ]
+     }
+    ],
+    "refs": [
+     27
+    ]
+   },
+   {
+    "id": "etham",
+    "name": "에담",
+    "nameEn": "Etham",
+    "kind": "광야 끝",
+    "verses": "출 13:20; 민 33:6–7",
+    "mapped": false,
+    "primary": null,
+    "candidates": [],
+    "refs": [
+     15
+    ]
+   },
+   {
+    "id": "pihahiroth",
+    "name": "비하히롯(믹돌·바알스본 근처)",
+    "nameEn": "Pi-hahiroth",
+    "kind": "진 친 곳",
+    "verses": "출 14:2; 민 33:7–8",
+    "mapped": false,
+    "primary": null,
+    "candidates": [],
+    "refs": [
+     16,
+     15
+    ]
+   },
+   {
+    "id": "marah",
+    "name": "마라",
+    "nameEn": "Marah",
+    "kind": "샘",
+    "verses": "출 15:23; 민 33:8",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "아인 하와라",
+      "lat": 29.34604,
+      "lng": 32.94284,
+      "confidencePct": 40,
+      "precision": "샘, 약 100m 정밀도",
+      "refs": [
+       30
+      ]
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   {
+    "id": "elim",
+    "name": "엘림",
+    "nameEn": "Elim",
+    "kind": "오아시스",
+    "verses": "출 15:27; 민 33:9",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "와디 가란달",
+      "lat": 29.2547,
+      "lng": 32.9158,
+      "confidencePct": 55,
+      "precision": "제3자 사이트가 인용한 좌표",
+      "refs": [
+       33
+      ]
+     }
+    ],
+    "refs": [
+     31,
+     32
+    ]
+   },
+   {
+    "id": "redsea",
+    "name": "홍해 가",
+    "nameEn": "by the Red Sea",
+    "kind": "진 친 곳",
+    "verses": "민 33:10–11",
+    "mapped": false,
+    "primary": null,
+    "candidates": [],
+    "refs": [
+     17
+    ]
+   },
+   {
+    "id": "sin",
+    "name": "신 광야",
+    "nameEn": "Wilderness of Sin",
+    "kind": "광야",
+    "verses": "출 16:1; 민 33:11–12",
+    "mapped": false,
+    "primary": null,
+    "candidates": [],
+    "refs": [
+     18,
+     17
+    ]
+   },
+   {
+    "id": "dophkah",
+    "name": "돕가",
+    "nameEn": "Dophkah",
+    "kind": "진 친 곳",
+    "verses": "민 33:12–13",
+    "mapped": false,
+    "primary": null,
+    "candidates": [],
+    "refs": [
+     17
+    ]
+   },
+   {
+    "id": "alush",
+    "name": "알루스",
+    "nameEn": "Alush",
+    "kind": "진 친 곳",
+    "verses": "민 33:13–14",
+    "mapped": false,
+    "primary": null,
+    "candidates": [],
+    "refs": [
+     17
+    ]
+   },
+   {
+    "id": "rephidim",
+    "name": "르비딤",
+    "nameEn": "Rephidim",
+    "kind": "진 친 곳",
+    "verses": "출 17:1; 민 33:14–15",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "와디 루파이일",
+      "lat": 28.623056,
+      "lng": 33.880278,
+      "confidencePct": 40,
+      "precision": "와디 입구",
+      "refs": [
+       35
+      ]
+     },
+     {
+      "label": "와디 페이란",
+      "lat": 28.7125,
+      "lng": 33.611944,
+      "confidencePct": 20,
+      "precision": "페이란 오아시스 부근",
+      "refs": [
+       36
+      ]
+     }
+    ],
+    "refs": [
+     34
+    ]
+   },
+   {
+    "id": "sinai",
+    "name": "시내산(호렙) · 시내 광야",
+    "nameEn": "Mount Sinai (Horeb)",
+    "kind": "산",
+    "verses": "출 19:1–2; 민 33:15",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "예벨 무사",
+      "lat": 28.539722,
+      "lng": 33.973333,
+      "confidencePct": 50,
+      "precision": "산 위의 한 점",
+      "refs": [
+       38
+      ]
+     }
+    ],
+    "refs": [
+     37,
+     39,
+     40
+    ]
+   },
+   {
+    "id": "midian",
+    "name": "미디안(땅)",
+    "nameEn": "Midian",
+    "kind": "지역",
+    "verses": "출 2:15–16",
+    "mapped": true,
+    "primary": 0,
+    "candidates": [
+     {
+      "label": "아카바만 동쪽(대략)",
+      "lat": 28.4947,
+      "lng": 35.0122,
+      "confidencePct": null,
+      "precision": "넓은 지역 안의 대략적인 점",
+      "refs": [
+       44
+      ]
+     }
+    ],
+    "refs": [
+     41,
+     42,
+     43
+    ]
+   }
+  ],
+  "unlocatedOther": [
+   {
+    "name": "비돔",
+    "nameEn": "Pithom",
+    "verses": "출 1:11",
+    "refs": [
+     45
+    ]
+   },
+   {
+    "name": "고센",
+    "nameEn": "Goshen",
+    "verses": "출 8:22",
+    "refs": [
+     45
+    ]
+   },
+   {
+    "name": "얌 수프(갈대 바다·홍해)",
+    "nameEn": "Yam Suph",
+    "verses": "출 10:19",
+    "refs": [
+     45
+    ]
+   },
+   {
+    "name": "블레셋 땅으로 가는 길",
+    "nameEn": "The Way of the Sea (Philistines)",
+    "verses": "출 13:17",
+    "refs": [
+     45
+    ]
+   }
+  ],
+  "routes": [
+   {
+    "id": "exodus",
+    "name": "출애굽 여정(라암셋 → 시내 광야)",
+    "color": "#2979C8",
+    "lineStyle": "dashed",
+    "note": "실제 이동 경로는 알려져 있지 않아, 위치 후보가 있는 지점을 순서대로 이은 참고용 점선입니다. 에담·비하히롯·홍해 가·신 광야·돕가·알루스는 위치 자료를 확인하지 못해 선에서 빠졌습니다.",
+    "stops": [
+     "rameses",
+     "succoth",
+     "etham",
+     "pihahiroth",
+     "marah",
+     "elim",
+     "redsea",
+     "sin",
+     "dophkah",
+     "alush",
+     "rephidim",
+     "sinai"
+    ],
+    "refs": [
+     15,
+     17
+    ]
+   }
+  ]
+ },
  "refs": [
   {
    "n": 1,
@@ -629,6 +905,223 @@
   },
   {
    "n": 22,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Rephidim' 페이지",
+   "where": "페이지 맨 아래 'About'",
+   "url": "https://www.openbible.info/geo/ancient/a05ebb7/rephidim",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 23,
+   "cite": "OpenBible.info, 'Bible Geocoding Data' 저장소 안내(GitHub)",
+   "where": "'License' 항목",
+   "url": "https://github.com/openbibleinfo/Bible-Geocoding-Data",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "note": "This data is licensed under a Creative Commons Attribution 4.0 license.",
+   "evidence": []
+  },
+  {
+   "n": 24,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Rameses' 페이지",
+   "where": "'4 Possible Identifications'와 'Notes'",
+   "url": "https://www.openbible.info/geo/ancient/a079b21/rameses",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 25,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 현재 위치 'Qantir' 페이지",
+   "where": "'Latitude, Longitude'와 'Point Precision'",
+   "url": "https://www.openbible.info/geo/modern/m53b227/qantir",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 26,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 현재 위치 'Tell el Daba' 페이지",
+   "where": "'Latitude, Longitude'",
+   "url": "https://www.openbible.info/geo/modern/ma868d6/tell-el-daba",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 27,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Succoth 2' 페이지",
+   "where": "'4 Possible Identifications'",
+   "url": "https://www.openbible.info/geo/ancient/aa28709/succoth-2",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 28,
+   "cite": "biblemaximum.com, 'Succoth 2'(OpenBible.info 데이터를 인용한 제3자 사이트)",
+   "where": "상단 정보 상자(Coordinates)",
+   "url": "",
+   "accessed": "2026-11-04",
+   "level": "secondary",
+   "evidence": []
+  },
+  {
+   "n": 29,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Marah' 페이지",
+   "where": "'4 Possible Identifications'",
+   "url": "https://www.openbible.info/geo/ancient/ad3970d/marah",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 30,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 현재 위치 'Ain Hawarah' 페이지",
+   "where": "'Latitude, Longitude'와 'Point Precision'",
+   "url": "https://www.openbible.info/geo/modern/md8dd4a/ain-hawarah",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 31,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Elim' 페이지",
+   "where": "'Possible Identifications'",
+   "url": "https://www.openbible.info/geo/ancient/a2410c1/elim",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 32,
+   "cite": "ESV Reformation Study Bible, 출애굽기 15:27 주석(BibleGateway 자료실)",
+   "where": "Ex 15:27 'Elim' 주석",
+   "url": "https://search.biblegateway.com/resources/reformation-study-bible/Exod.15.27",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 33,
+   "cite": "biblemaximum.com, 'Elim'(OpenBible.info 데이터를 인용한 제3자 사이트)",
+   "where": "상단 정보 상자(Coordinates)",
+   "url": "",
+   "accessed": "2026-11-04",
+   "level": "secondary",
+   "evidence": []
+  },
+  {
+   "n": 34,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Rephidim' 페이지",
+   "where": "'5 Possible Identifications'",
+   "url": "https://www.openbible.info/geo/ancient/a05ebb7/rephidim",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 35,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 현재 위치 'Wadi Rufaiyil' 페이지",
+   "where": "'Latitude, Longitude'와 'Point Precision'",
+   "url": "https://www.openbible.info/geo/modern/md06df2/wadi-rufaiyil",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 36,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 현재 위치 'Wadi Feiran' 페이지",
+   "where": "'Latitude, Longitude'와 'Precise Coordinates Notes'",
+   "url": "https://www.openbible.info/geo/modern/m26cac6/wadi-feiran",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 37,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Mount Sinai' 페이지",
+   "where": "'14 Possible Identifications'",
+   "url": "https://www.openbible.info/geo/ancient/abfba2a/mount-sinai",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 38,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 현재 위치 'Jebel Musa' 페이지",
+   "where": "'Latitude, Longitude'와 'Point Precision'",
+   "url": "https://www.openbible.info/geo/modern/mb374b4/jebel-musa",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 39,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Mount Horeb' 페이지",
+   "where": "'1 Identification'",
+   "url": "https://www.openbible.info/geo/ancient/a9bb03e/mount-horeb",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 40,
+   "cite": "OpenBible.info, Bible Geocoding Data (CC BY 4.0), 지명 'Wilderness of Sinai' 페이지",
+   "where": "'1 Identification'과 'About'",
+   "url": "https://www.openbible.info/geo/ancient/ae50cf1/wilderness-of-sinai",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 41,
+   "cite": "출애굽기 2:15 (영어 번역 본문), BibleHub 'Midian' 지도 페이지의 구절 인용",
+   "where": "출 2:15",
+   "url": "https://biblehub.com/atlas/midian.htm",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 42,
+   "cite": "International Standard Bible Encyclopedia, 'Midian; Midianites'(W. Ewing)",
+   "where": "'5. Territory'",
+   "url": "",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 43,
+   "cite": "BibleHub, 'Midian'(Berean Study Bible 사전 항목)",
+   "where": "첫 문단",
+   "url": "https://biblehub.com/topical/m/midian.htm",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 44,
+   "cite": "biblemaximum.com, 'Midian in Exodus 2:16'(OpenBible.info 데이터를 인용한 제3자 사이트)",
+   "where": "상단 정보 상자(Coordinates)",
+   "url": "",
+   "accessed": "2026-11-04",
+   "level": "secondary",
+   "evidence": []
+  },
+  {
+   "n": 45,
+   "cite": "Bob Utley, 'Exodus Introduction'(Bible Lessons International, 2014)",
+   "where": "'XI. MAP LOCATIONS (by number)'",
+   "url": "https://www.freebiblecommentary.org/old_testament_studies/OTSurvey/Exodus_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 46,
    "cite": "Bob Utley, 'Exodus Introduction'(Bible Lessons International, 2014)",
    "where": "'I. NAME OF THE BOOK' A–C",
    "url": "https://www.freebiblecommentary.org/old_testament_studies/OTSurvey/Exodus_introduction.html",
@@ -637,7 +1130,7 @@
    "evidence": []
   },
   {
-   "n": 23,
+   "n": 47,
    "cite": "Bob Utley, 'Exodus Introduction'(Bible Lessons International, 2014)",
    "where": "'VII. SOURCES CORROBORATING THE HISTORICAL SETTING' B",
    "url": "https://www.freebiblecommentary.org/old_testament_studies/OTSurvey/Exodus_introduction.html",
@@ -646,7 +1139,7 @@
    "evidence": []
   },
   {
-   "n": 24,
+   "n": 48,
    "cite": "ESV Global Study Bible(Crossway, 2012), 'Introduction to Exodus'",
    "where": "'Theme'와 'Key Themes' 1–3",
    "url": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-exodus/",
@@ -655,7 +1148,7 @@
    "evidence": []
   },
   {
-   "n": 25,
+   "n": 49,
    "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Exodus'",
    "where": "'Themes' 첫 두 문단 이후",
    "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOEXODUS",

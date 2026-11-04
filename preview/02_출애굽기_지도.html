@@ -1,0 +1,46 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>출애굽기 지도 미리보기</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+html,body{height:100%;margin:0;font-family:sans-serif}
+#m{position:absolute;inset:0 0 86px 0}
+#f{position:absolute;left:0;right:0;bottom:0;height:86px;box-sizing:border-box;padding:8px 12px;font-size:12px;line-height:1.45;background:#fafafa;border-top:1px solid #ccc;overflow:auto;color:#333}
+.lb{background:rgba(255,255,255,.93);border:1px solid #777;border-radius:4px;padding:1px 5px;font:bold 12px sans-serif;color:#222;box-shadow:none}
+.lb2{background:rgba(255,255,255,.8);border:1px dashed #888;border-radius:4px;padding:0 4px;font:11px sans-serif;color:#555;box-shadow:none}
+</style></head><body><div id="m"></div>
+<div id="f">● 가장 유력한 후보 &nbsp; ○ 다른 후보 &nbsp; ┅ 위치 후보가 있는 지점을 순서대로 이은 <b>참고용 점선(실제 이동 경로 아님)</b> &nbsp; 점선 원: 범위가 넓은 지역(시내 광야 약 50km, 미디안은 대략). 좌표는 확정이 아닌 후보입니다.<br>
+지명 좌표·신뢰도: OpenBible.info Bible Geocoding Data (CC BY 4.0) · 지도 바탕: OpenStreetMap contributors</div>
+<script>
+var G={"attribution": "지명 좌표·신뢰도: OpenBible.info Bible Geocoding Data(CC BY 4.0). 지도 바탕: OpenStreetMap contributors. 좌표는 '후보'이며 학계에서 위치가 확정되지 않은 곳이 많습니다.", "places": [{"id": "rameses", "name": "라암셋", "nameEn": "Rameses", "kind": "도시", "verses": "출 1:11; 12:37; 민 33:3, 5", "mapped": true, "primary": 0, "candidates": [{"label": "칸티르", "lat": 30.79937, "lng": 31.834217, "confidencePct": 55, "precision": "발굴 유적(현재 마을 안)", "refs": [25]}, {"label": "텔 엘 다바", "lat": 30.786228, "lng": 31.82253, "confidencePct": 25, "precision": "유적 지점", "refs": [26]}], "refs": [24]}, {"id": "succoth", "name": "숙곳", "nameEn": "Succoth", "kind": "도시·지역", "verses": "출 12:37; 13:20; 민 33:5–6", "mapped": true, "primary": 0, "candidates": [{"label": "텔 엘 마스쿠타", "lat": 30.5527, "lng": 32.099, "confidencePct": 25, "precision": "제3자 사이트가 인용한 좌표", "refs": [28]}], "refs": [27]}, {"id": "etham", "name": "에담", "nameEn": "Etham", "kind": "광야 끝", "verses": "출 13:20; 민 33:6–7", "mapped": false, "primary": null, "candidates": [], "refs": [15]}, {"id": "pihahiroth", "name": "비하히롯(믹돌·바알스본 근처)", "nameEn": "Pi-hahiroth", "kind": "진 친 곳", "verses": "출 14:2; 민 33:7–8", "mapped": false, "primary": null, "candidates": [], "refs": [16, 15]}, {"id": "marah", "name": "마라", "nameEn": "Marah", "kind": "샘", "verses": "출 15:23; 민 33:8", "mapped": true, "primary": 0, "candidates": [{"label": "아인 하와라", "lat": 29.34604, "lng": 32.94284, "confidencePct": 40, "precision": "샘, 약 100m 정밀도", "refs": [30]}], "refs": [29]}, {"id": "elim", "name": "엘림", "nameEn": "Elim", "kind": "오아시스", "verses": "출 15:27; 민 33:9", "mapped": true, "primary": 0, "candidates": [{"label": "와디 가란달", "lat": 29.2547, "lng": 32.9158, "confidencePct": 55, "precision": "제3자 사이트가 인용한 좌표", "refs": [33]}], "refs": [31, 32]}, {"id": "redsea", "name": "홍해 가", "nameEn": "by the Red Sea", "kind": "진 친 곳", "verses": "민 33:10–11", "mapped": false, "primary": null, "candidates": [], "refs": [17]}, {"id": "sin", "name": "신 광야", "nameEn": "Wilderness of Sin", "kind": "광야", "verses": "출 16:1; 민 33:11–12", "mapped": false, "primary": null, "candidates": [], "refs": [18, 17]}, {"id": "dophkah", "name": "돕가", "nameEn": "Dophkah", "kind": "진 친 곳", "verses": "민 33:12–13", "mapped": false, "primary": null, "candidates": [], "refs": [17]}, {"id": "alush", "name": "알루스", "nameEn": "Alush", "kind": "진 친 곳", "verses": "민 33:13–14", "mapped": false, "primary": null, "candidates": [], "refs": [17]}, {"id": "rephidim", "name": "르비딤", "nameEn": "Rephidim", "kind": "진 친 곳", "verses": "출 17:1; 민 33:14–15", "mapped": true, "primary": 0, "candidates": [{"label": "와디 루파이일", "lat": 28.623056, "lng": 33.880278, "confidencePct": 40, "precision": "와디 입구", "refs": [35]}, {"label": "와디 페이란", "lat": 28.7125, "lng": 33.611944, "confidencePct": 20, "precision": "페이란 오아시스 부근", "refs": [36]}], "refs": [34]}, {"id": "sinai", "name": "시내산(호렙) · 시내 광야", "nameEn": "Mount Sinai (Horeb)", "kind": "산", "verses": "출 19:1–2; 민 33:15", "mapped": true, "primary": 0, "candidates": [{"label": "예벨 무사", "lat": 28.539722, "lng": 33.973333, "confidencePct": 50, "precision": "산 위의 한 점", "refs": [38]}], "refs": [37, 39, 40]}, {"id": "midian", "name": "미디안(땅)", "nameEn": "Midian", "kind": "지역", "verses": "출 2:15–16", "mapped": true, "primary": 0, "candidates": [{"label": "아카바만 동쪽(대략)", "lat": 28.4947, "lng": 35.0122, "confidencePct": null, "precision": "넓은 지역 안의 대략적인 점", "refs": [44]}], "refs": [41, 42, 43]}], "unlocatedOther": [{"name": "비돔", "nameEn": "Pithom", "verses": "출 1:11", "refs": [45]}, {"name": "고센", "nameEn": "Goshen", "verses": "출 8:22", "refs": [45]}, {"name": "얌 수프(갈대 바다·홍해)", "nameEn": "Yam Suph", "verses": "출 10:19", "refs": [45]}, {"name": "블레셋 땅으로 가는 길", "nameEn": "The Way of the Sea (Philistines)", "verses": "출 13:17", "refs": [45]}], "routes": [{"id": "exodus", "name": "출애굽 여정(라암셋 → 시내 광야)", "color": "#2979C8", "lineStyle": "dashed", "note": "실제 이동 경로는 알려져 있지 않아, 위치 후보가 있는 지점을 순서대로 이은 참고용 점선입니다. 에담·비하히롯·홍해 가·신 광야·돕가·알루스는 위치 자료를 확인하지 못해 선에서 빠졌습니다.", "stops": ["rameses", "succoth", "etham", "pihahiroth", "marah", "elim", "redsea", "sin", "dophkah", "alush", "rephidim", "sinai"], "refs": [15, 17]}]};
+var map=L.map('m');
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',{maxZoom:12,attribution:'&copy; OpenStreetMap contributors &copy; CARTO'}).addTo(map);
+var all=[],byId={};
+G.places.forEach(function(p){byId[p.id]=p;});
+function cand(c){return c.label+(c.confidencePct?' · 신뢰도 '+c.confidencePct+'%':' · 신뢰도 미상')+' · '+c.precision;}
+G.places.forEach(function(p){
+  if(!p.candidates.length)return;
+  var tip=p.name, pop='<b>'+p.name+'</b> ('+p.nameEn+')<br>'+p.verses+'<br>'+p.candidates.map(cand).join('<br>');
+  p.candidates.forEach(function(c,i){
+    var ll=[c.lat,c.lng]; all.push(ll);
+    if(i===0){
+      L.circleMarker(ll,{radius:7,color:'#1a4f8b',weight:2,fillColor:'#2979C8',fillOpacity:1}).addTo(map)
+        .bindTooltip(p.name+(c.confidencePct?' ('+c.confidencePct+'%)':''),{permanent:true,direction:'right',className:'lb',offset:[8,0]}).bindPopup(pop);
+    }else{
+      L.circleMarker(ll,{radius:5,color:'#666',weight:1.5,dashArray:'3 3',fillColor:'#fff',fillOpacity:.9}).addTo(map)
+        .bindTooltip(c.label+(c.confidencePct?' ('+c.confidencePct+'%)':''),{permanent:true,direction:'left',className:'lb2',offset:[-6,0]}).bindPopup(pop);
+    }
+  });
+});
+var sinai=byId['sinai'];
+if(sinai&&sinai.candidates.length){L.circle([sinai.candidates[0].lat,sinai.candidates[0].lng],{radius:50000,color:'#999',weight:1,dashArray:'6 6',fill:false}).addTo(map);}
+var mid=byId['midian'];
+if(mid&&mid.candidates.length){L.circle([mid.candidates[0].lat,mid.candidates[0].lng],{radius:60000,color:'#b36b00',weight:1,dashArray:'6 6',fillColor:'#e08a00',fillOpacity:.08}).addTo(map);}
+G.routes.forEach(function(r){
+  var pts=[];
+  r.stops.forEach(function(id){var p=byId[id];if(p&&p.candidates.length){pts.push([p.candidates[0].lat,p.candidates[0].lng]);}});
+  if(pts.length>1){L.polyline(pts,{color:r.color,weight:3,opacity:.8,dashArray:'2 8'}).addTo(map);}
+});
+if(all.length){map.fitBounds(L.latLngBounds(all),{padding:[30,30],maxZoom:9});}else{map.setView([29.5,33],6);}
+</script></body></html>
