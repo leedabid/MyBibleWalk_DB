@@ -106,6 +106,13 @@
    "file": "books/15_에스라.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 16,
+   "name": "느헤미야",
+   "file": "books/16_느헤미야.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
