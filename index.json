@@ -274,6 +274,13 @@
    "file": "books/39_말라기.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 40,
+   "name": "마태복음",
+   "file": "books/40_마태복음.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
