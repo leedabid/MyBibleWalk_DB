@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "updated": "2026-11-04",
+  "books": [
+    {
+      "book": 2,
+      "name": "출애굽기",
+      "file": "books/02_출애굽기.json",
+      "status": "draft",
+      "updated": "2026-11-04"
+    }
+  ]
+}
