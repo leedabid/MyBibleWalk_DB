@@ -43,6 +43,13 @@
    "file": "books/06_여호수아.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 7,
+   "name": "사사기",
+   "file": "books/07_사사기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [

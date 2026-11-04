@@ -1,0 +1,1095 @@
+{
+ "schema": 1,
+ "book": 7,
+ "name": "사사기",
+ "status": "draft",
+ "updated": "2026-11-04",
+ "framework": "보스 4분과(넓은 의미의 주경신학 안에 성경개론·성경신학·본문 주해)",
+ "notes": [
+  "문장마다 근거 번호가 있으며, 근거 번호의 출처는 refs에서 확인할 수 있다. 근거 확인은 2026-11-04에 해당 페이지를 직접 열어 읽는 방식으로 했다.",
+  "출처가 '연구 성경(스터디 바이블) 서론'인 내용은 해당 성경의 해설이며 특정 신학 전통의 관점일 수 있다.",
+  "Encyclopedia of the Bible의 'Judges, Book of' 항목은 보수적 입장에서 쓰였고, 비평 학설을 평가하는 문장은 그 항목의 평가이다. 열람한 페이지에서 필자 이름은 확인하지 못했다. Utley도 같은 쪽의 입장이다.",
+  "비평학계의 입장(문서가설, 신명기계 역사 등)은 위 두 자료의 소개로만 확인했으며, 비평학자 본인의 글은 직접 열어 보지 못했다.",
+  "사사 시대의 연대(출애굽 이른/늦은 연대와 사사 연수의 겹침), 드보라 전투의 연대, 입다의 서원과 같은 쟁점은 자료마다 서술이 다르며, 이 개관은 열람한 자료의 서술을 출처별로 옮긴 것이지 결론을 내린 것이 아니다.",
+  "사사기 안의 장소(오브라·다아낙·므깃도·세겜·소라 등)는 공용 지리 자료(shared/geo.json)에 아직 여정이 없어 이 책의 `geo`를 비워 두었다. 지도 자료가 추가되면 연결한다.",
+  "문화·언어 섹션은 일부 항목만 작성되었다. 개별 본문의 의미는 본문 주해에서 다룬다.",
+  "구약 후대 권에서의 회상과 신약 인용·암시의 전체 목록은 아직 작성되지 않았다(읽기 도움 섹션도 미작성).",
+  "'다른 권과의 연결' 섹션의 수치는 OpenBible.info 상호참조 자료를 기계적으로 센 것이다. 해석적 설명은 성경신학 섹션에 별도로 각주와 함께 썼다."
+ ],
+ "sections": [
+  {
+   "id": "overview",
+   "heading": "한눈에 보기",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 사사기를 하나님 없는 삶의 고통과 하나님이 개입하시는 놀라움에 관한 충격적인 이야기라고 소개한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "같은 자료에 따르면 이야기는 여호수아가 죽은 직후에 시작하고, 백성은 모세나 여호수아 같은 지도자가 없이 야웨와의 관계를 소홀히 하며, 그 결과 죄·형벌·회개·'사사'(하나님이 보내신 지도자)를 통한 구원이 되풀이된다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "사사기 1:1은 여호수아가 죽은 뒤에 이스라엘 자손이 야웨께 가나안 사람과 싸우러 누가 먼저 올라갈지 물었다고 한다.",
+     "refs": [
+      20
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 이 책의 주제를 이스라엘의 민족적·영적 생활이 혼돈과 하나님께 대한 반역으로 떨어져 가는 것이라고 하며, 의로운 왕의 필요를 보여 준다고 적는다(17:6; 21:25).",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 책이 신실하지 못함의 결과를 보이고, 의로운 왕이 백성을 하나님께 인도할 길을 가리키기 위해 쓰였다고 설명한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 저자(편집자)의 관심이 그 시대의 정치적·도덕적·종교적 쇠퇴를 설명하고 묘사하며 그것이 공동체 생활에 준 영향을 보이는 데 있었다고 설명한다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "Utley는 이 책이 주로 역사 서사이며 히브리 정경에서 '선지서'의 두 번째 책이라고 설명한다.",
+     "refs": [
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "heading": "구조와 개요",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 책을 땅의 불완전한 점령(1:1–3:6), 사사들의 구원(3:7–16:31), 사사 시대 이스라엘의 타락(17:1–21:25)으로 나눈다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 같은 범위를 이스라엘의 불신실의 뿌리(1:1–3:6), 불신실의 하향 곡선(3:7–16:31), 불신실의 밑바닥(17:1–21:25)으로 부른다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Utley는 짧은 정복 기사(1:1–2:5), 하나님 백성의 죄·심판·구원(2:6–16:31), 그 시대의 도덕적 분위기를 보여 주는 죄의 세 사례(삼손 13–16장, 미가의 우상 17장, 단의 이주 18장, 기브아의 성적 죄 19–21장)로 나눈다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 책을 세 부분으로 나누며 1:1–2:5는 가나안 정착, 2:6–16:31은 사사들, 17–21장은 마지막 두 사건(미가의 성소와 단의 이주, 기브아의 사건)을 다룬다고 설명한다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 각 사사 이야기에 같은 유형이 나타난다고 한다: 이스라엘이 죄에 빠지고, 하나님이 외국 민족에게 억압당하게 하시며, 이스라엘이 회개하고, 하나님이 사사를 보내 구원하신다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 옷니엘·에훗·드보라·기드온·입다·삼손 이야기가 표준적인 도입 형식으로 시작하고, 2:6–3:6의 서론이 배교·심판·회개·구원의 순환을 개괄한다고 설명한다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 마지막 다섯 장이 외부의 적과의 갈등보다 이스라엘 내부의 사회적·도덕적 쇠퇴를 강조한다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 이 마지막 부분에는 2:6–16:31을 특징짓는 종교적 평가가 없고, 무질서의 이유를 왕정이라는 중앙 권위의 부재에서 찾는다고 적는다(17:6; 18:1; 19:1; 21:25).",
+     "refs": [
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "id": "history",
+   "heading": "역사 배경",
+   "discipline": "성경개론·성경 배경",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 사건들이 가나안 정복 직후부터 사울이 첫 왕으로 세워지기 전, 대략 기원전 1250–1050년에 일어났다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 책의 배경 시기를 기원전 약 1375년으로 표시한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Utley는 시작 연대가 출애굽 연대(기원전 1445년 또는 1290년)에 달렸고 끝 연대는 사울의 통치 시작인 약 기원전 1020년이라고 적는다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "Utley는 사사들의 연수를 다 더하면 390–410년이 되지만 열왕기상 6:1이 출애굽에서 솔로몬 성전까지 480년이라 하므로 사사들은 주로 지역 지도자였고 연대가 겹쳤을 것이라고 설명한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "Utley는 17–21장의 반역 사건이 시대 초기에 일어났으므로 책이 연대순이 아니라고 본다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "Utley는 여호수아의 정복이 얼마나 제한적이었는지를 첫 장들이 보여 주며, 점령이라는 어려운 일을 하나님이 각 지파에게 맡기셨고(2:6) 출애굽을 보지 못한 새 세대를 시험하신 것이라고 설명한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "사사기 2:10–19는 여호수아 세대가 죽은 뒤 야웨도 그가 이스라엘을 위해 하신 일도 알지 못하는 다른 세대가 일어났고, 야웨가 사사들을 일으켜 구원하셨으나 사사가 죽으면 백성이 돌이켜 더 타락했다고 한다.",
+     "refs": [
+      21
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 이 시대의 폭력과 도덕적 쇠퇴를 중앙 지도력의 부재로 인한 책임과 연합의 결여로 돌린다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 고고학적으로 이스라엘이 땅에 곧바로 정착했고 가나안의 잘 지은 건축과 더 단순한 이스라엘의 거주 방식이 구별된다고 적는다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "같은 항목은 지하 저수조의 널리 퍼진 사용이 산지 중부 정착을 가능하게 했고, 이스라엘 성소로 확인된 유적은 아직 없다고 적는다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "같은 항목은 블레셋이 지배 계급이었고 다곤이 그 신이었으며, 실로가 기원전 약 1050년경 불탔다는 고고학적 증거가 있다고 설명한다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 드보라와 바락의 승리를 기원전 약 1125년으로 거의 확실하다고 평가한다. 이는 그 항목의 평가이다.",
+     "refs": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "heading": "지리와 여정",
+   "discipline": "성경 배경(지리)",
+   "sentences": [
+    {
+     "text": "사사기 1:19–21은 유다가 산지 주민은 쫓아냈으나 철 병거 때문에 골짜기 주민은 쫓아내지 못했고, 베냐민 자손이 예루살렘의 여부스 사람을 쫓아내지 못했다고 한다.",
+     "refs": [
+      20
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 가나안 사람이 병거를 쓸 수 있는 저지대를 드보라와 바락 때까지 차지했다고 설명한다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "사사기 2:1–5는 야웨의 천사가 길갈에서 보김으로 올라와 말씀하자 백성이 울었고 그곳을 보김이라 불렀다고 한다.",
+     "refs": [
+      21
+     ]
+    },
+    {
+     "text": "사사기 4:4–7은 드보라가 에브라임 산지 라마와 벧엘 사이 종려나무 아래에 살았고, 야웨가 시스라를 기손 강으로 이끌어 오겠다고 하셨다고 한다. 5:19는 가나안 왕들이 므깃도 물가 다아낙에서 싸웠다고 한다.",
+     "refs": [
+      22
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 다아낙과 므깃도 두 곳에 동시에 사람이 살지는 않았다는 고고학적 추론이 드보라 전투의 연대 추정에 쓰였다고 설명한다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "사사기 6:11은 야웨의 천사가 아비에셀 사람 요아스의 오브라 상수리나무 아래 앉았고 기드온이 포도주 틀에서 밀을 타작하고 있었다고 한다.",
+     "refs": [
+      23
+     ]
+    },
+    {
+     "text": "사사기 9:6은 세겜 사람들이 세겜의 기둥 곁 상수리나무 아래에서 아비멜렉을 왕으로 삼았다고 한다.",
+     "refs": [
+      23
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 아비멜렉 이야기가 세겜 근처에서 이스라엘과 가나안 요소의 충돌을 보여 준다고 설명한다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "사사기 13:1은 야웨가 이스라엘을 블레셋 손에 사십 년 넘기셨다고 하며, 16:31은 삼손이 소라와 에스다올 사이 아버지 마노아의 묘지에 묻혔다고 한다.",
+     "refs": [
+      24
+     ]
+    },
+    {
+     "text": "사사기 18:30–31은 단 자손이 미가의 새긴 우상을 세웠고 그것이 하나님의 집이 실로에 있던 모든 때 동안 있었다고 한다.",
+     "refs": [
+      25
+     ]
+    },
+    {
+     "text": "Utley는 단 지파가 하나님이 블레셋을 이기시리라 믿는 대신 극북으로 이주했다고 설명한다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 하솔이 불에 파괴된 것이 여호수아 11장의 침입 무렵의 일임을 고고학이 확인한다고 적는다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "이 책의 장소들을 담은 공용 지리 자료의 여정은 아직 없으므로 이 개관의 `geo`는 비워 두었다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "heading": "언어와 이름",
+   "discipline": "주경신학(원어·본문)",
+   "sentences": [
+    {
+     "text": "Utley는 책 이름이 '분쟁을 해결하다, 재판하다'를 뜻하는 히브리어 동사에서 왔으며, 비슷한 낱말이 가나안의 '지도자', 페니키아의 '섭정', 아카드의 '통치자'를 뜻했다고 적는다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Utley는 영어 제목이 오해하기 쉽다고 하는데, 이 사람들이 사법적으로 행동하지 않고 하나님의 영으로 능력을 받아 외국 압제자에게서 백성을 구원하러 일으켜진 지역 지도자이기 때문이며, '구원자'가 더 나은 제목일 수 있다고 한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 이 이야기가 사사(judge)라 부르는 군사 지도자들을 중심으로 하며, 모세가 분쟁을 중재하도록 세운 지도자와 관련되지만 드보라만 분명히 그 역할을 한다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "사사기 3:9–10은 이스라엘이 부르짖자 야웨가 구원자를 일으키셨으며, 옷니엘에게 야웨의 영이 임해 그가 이스라엘을 판단했다고 한다.",
+     "refs": [
+      22
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 사사기 2:9의 '딤낫헤레스'를 필사자가 자음을 뒤바꾼 것으로 보고 '딤낫세라'로 읽어야 한다고 설명한다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 히브리어 본문이 매우 잘 보존되었으며, 칠십인역에 서로 독립적으로 보이는 두 본문이 있다고 설명한다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "같은 항목은 5장(드보라의 노래)이 사건과 같은 시대의 것으로 여겨지며 고풍스러운 시 형식이 번역에 문제를 준다고 적는다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 삼갈의 이름이 비이스라엘적이며 히타이트나 후리 계통일 수 있다고 설명한다.",
+     "refs": [
+      19
+     ]
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "heading": "문화(일부): 가나안 종교와 사사 시대의 삶",
+   "discipline": "성경 배경(문화)",
+   "sentences": [
+    {
+     "text": "Encyclopedia of the Bible은 바알을 폭풍우와 비의 신으로 가나안 신들 가운데 활동적인 중심 인물이라 설명하고, 이 신들이 사람·짐승·농사의 풍요를 맡는다고 여겨졌다고 설명한다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "Utley는 각 세대가 언약을 어기고 가나안의 풍요의 신들을 따랐다고 적는다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "사사기 2:11–13은 백성이 바알들과 아스다롯을 섬겼다고 하고, 3:7은 바알들과 아세라들을 섬겼다고 한다.",
+     "refs": [
+      21,
+      22
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 이스라엘이 이 지역 거주민과 혼인한 것이 배교의 주된 원인의 하나였고(삿 3:6) 이를 영적 간음이라 부른다고 설명한다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 블레셋이 에게해 계통의 사람들로 가사·아스글론·아스돗·에그론·가드의 다섯 도시에 살았다고 설명한다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 이스라엘의 사사 시대 성소가 아직 발견되지 않은 것을 건축 기술의 열등함 때문일 수도, 아무 곳에나 성소를 세우지 말라는 금령 때문일 수도 있다고 두 가지로 설명한다.",
+     "refs": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "id": "interpretation",
+   "heading": "해석 쟁점",
+   "discipline": "성경개론·조직신학 접점",
+   "sentences": [
+    {
+     "text": "저작: ESV 글로벌 스터디 바이블과 Utley는 성경이 저자를 밝히지 않는다고 적는다.",
+     "refs": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "Utley는 탈무드(바바 바트라 14b)가 사무엘이 이 책을 썼다고 한다고 소개하며, 이 책이 긴 기간을 다루므로 한 명의 목격자 저자일 수 없다고 한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 이 책이 왕정에 호의적이라는 점 때문에 사무엘 저작이라는 탈무드 전승이 가능성이 낮다고 평가한다. 이는 그 항목의 평가이다.",
+     "refs": [
+      15
+     ]
+    },
+    {
+     "text": "Utley는 원 편집자가 통일 왕국 초기에 썼다고 보고 근거로 베들레헴 언급, '왕이 없던 때' 표현, 예부스 사람이 여전히 예루살렘 요새를 차지한 일(1:21), 두로가 아니라 시돈이 주요 도시로 기록된 것(3:3)을 든다.",
+     "refs": [
+      8,
+      9
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 책 대부분이 다윗 시대(기원전 1010–970년)까지 쓰였을 가능성이 높다고 적는다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 초기 왕정 시대가 가장 가능성 높고, 다윗 통치기에 편집되었을 가능성이 가장 크다고 보며 베들레헴이 세 번째 부분에도 나오는 것을 약한 근거로 든다.",
+     "refs": [
+      15
+     ]
+    },
+    {
+     "text": "Utley는 사사기 18:30이 앗수르의 북이스라엘 포로(기원전 722년)를 반영하는 후대 편집자의 증거일 수 있다고 한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 최종 마무리가 포로기 초에 이루어졌을 것이라고 보며, 비평 이론의 일부(9·16·17–21장을 이차적으로 보는 견해, 7세기와 6세기의 두 편집설)를 소개한다.",
+     "refs": [
+      15
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 문서가설(엘로힘 자료·야웨 자료)이 사사기에서 추적된다고 널리 받아들여지지 않는다고 평가한다. 이는 그 항목의 평가이며 비평학자 본인의 글은 이 개관에서 확인하지 못했다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "사사들의 도덕적 평가: Encyclopedia of the Bible은 에훗은 자객으로, 입다는 복수심 있는 산적 두목으로, 삼손은 진정한 헌신이 부족한 인물로 묘사된다고 설명한다.",
+     "refs": [
+      17
+     ]
+    },
+    {
+     "text": "같은 항목은 이 시대 사사들의 은사가 제한되고 정해진 목적을 위한 것이었으며 신약의 성령 교리와 같지 않다고 설명하고, 이스라엘이 모세 율법의 기준대로 살았어야 한다고 강조한다. 이는 그 항목의 해석이다.",
+     "refs": [
+      17
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 기드온(8:24–27), 입다(11:30–31, 34–40), 삼손(14–16장)이 상당한 죄에 연루되었고 드보라가 눈에 띄는 예외라고 적는다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "사사기 11:30–31은 입다가 야웨께 승리를 구하며 '내 집 문에서 나를 맞으러 나오는 것'을 번제로 드리겠다고 서원했다고 한다. 이 서원의 결과와 해석은 이 개관에서 다루지 않았다.",
+     "refs": [
+      24
+     ]
+    },
+    {
+     "text": "왕정: Faithlife Study Bible은 사사기가 이스라엘의 왕을 필요로 하는 것을 지지하면서 동시에 비판하며, 기드온이 왕 되기를 거절하고(8:23) 아비멜렉의 시도가 재앙으로 끝난 점을 든다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "사사기 8:22–27은 사람들이 기드온에게 다스려 달라 하자 그가 거절하며 '야웨께서 다스리실 것'이라 했고, 그가 금 에봇을 만들자 이스라엘이 그것을 섬겨 기드온과 그 집에 올무가 되었다고 한다.",
+     "refs": [
+      23
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 하나님이 처음부터 왕들이 있으리라 약속하셨고(창 17:6, 16; 35:11; 49:10) 선한 왕이 어떠할지 설명하셨다고 하며, 사사기가 의로운 왕이 없을 때의 깊은 타락을 보여 준다고 적는다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 왕정이 사사 시대의 연합 체제가 이루지 못한 정복과 법·안정을 이루었음을 보이려는 인간적 동기가 책의 편찬 뒤에 있었다고 본다. 이는 그 항목의 해석이다.",
+     "refs": [
+      15
+     ]
+    }
+   ]
+  },
+  {
+   "id": "theology",
+   "heading": "성경신학적 위치와 주제",
+   "discipline": "성경신학",
+   "sentences": [
+    {
+     "text": "ESV 글로벌 스터디 바이블은 핵심 주제로 이스라엘이 땅을 완전히 정복하지 못한 것이 불신실 때문(2:1–3, 20–22)이라는 점을 들고, 반복되는 죄와 그에 따른 억압·혼돈을 말한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "같은 자료는 하나님이 반복되는 배반에도 이스라엘을 건지신 것은 이스라엘의 공로나 회개 때문이 아니라 그분의 긍휼과 아브라함에게 한 약속에 대한 신실하심 때문이라고 설명한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Utley는 이 책이 타락의 지속적인 결과를 보여 주며, 야웨는 이스라엘이 신실하지 못할 때에도 신실하시다고 설명한다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 이스라엘 쇠퇴의 근본 원인이 주님과의 언약 관계가 깨진 것이라고 하며, 하나님이 반복되는 불신실에도 언약에 신실하셔서 백성을 끝내지 않으셨다고 설명한다.",
+     "refs": [
+      18
+     ]
+    },
+    {
+     "text": "사사기 2:16–19는 야웨가 사사들을 일으켜 구원하셨으나 백성은 사사가 죽으면 돌이켜 조상들보다 더 타락했다고 한다.",
+     "refs": [
+      21
+     ]
+    },
+    {
+     "text": "사사기 3:9–11은 옷니엘이 이스라엘을 구원했고 땅이 사십 년 평안했다고 한다. 13:5는 삼손이 '이스라엘을 블레셋 손에서 구원하기를 시작할 것'이라고 한다.",
+     "refs": [
+      22,
+      24
+     ]
+    },
+    {
+     "text": "사사기 16:28–30은 삼손이 야웨께 부르짖어 힘을 구했고 죽을 때 죽인 자가 살았을 때 죽인 자보다 많았다고 한다.",
+     "refs": [
+      24
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 사사기 이야기가 '자기 눈에 옳은 대로 행하는' 삶의 무질서를 보여 주며, 하나님이 참된 왕이시라는 점을 강조한다고 설명한다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "앞 권과의 연결: Faithlife Study Bible은 사사기가 1:1에서 여호수아서를 되돌아보며 시작해 여호수아 끝의 정착 뒤에도 적들이 많았음을 밝히고, 신명기의 틀에 따라 외국의 압제를 백성의 죄와 연결한다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 1장의 정복 기사가 여호수아서와 밀접히 연결되어 여호수아 기사의 보완이라 하고, 여호수아 14장의 목록이 이상적이었음을 보여 준다고 평가한다. 이는 그 항목의 평가이다.",
+     "refs": [
+      14,
+      19
+     ]
+    },
+    {
+     "text": "뒤 권과의 연결: Encyclopedia of the Bible은 사사기를 '전기 예언서'의 두 번째 책이라 하며 룻기는 칠십인역에서 사사기 바로 뒤에 놓였다고 설명한다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 책의 마지막 부분이 룻기의 전혀 다른 그림으로 균형이 잡혀야 한다고 말한다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "신약과의 연결: Encyclopedia of the Bible은 히브리서 11:32가 기드온·바락·삼손·입다를 믿음의 영웅으로 열거한다고 적는다.",
+     "refs": [
+      18
+     ]
+    },
+    {
+     "text": "이 책이 신약에서 인용·암시되는 전체 본문의 목록과 구약 후대 권이 사사기를 회상하는 곳 전체는 이름 있는 자료로 확인하지 못해 이 개관에 쓰지 않았다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "canon-links",
+   "heading": "다른 권과의 연결(상호참조 그물)",
+   "discipline": "성경신학(정경 안의 연결) — 자료 기반 부분",
+   "sentences": [
+    {
+     "text": "OpenBible.info 상호참조 자료(득표가 0보다 큰 항목)에서 사사기 구절을 다른 권의 구절과 잇는 연결은 모두 5,794건이다.",
+     "refs": [
+      26
+     ]
+    },
+    {
+     "text": "이 가운데 구약의 다른 권과의 연결은 4,975건, 신약과의 연결은 819건이다.",
+     "refs": [
+      26
+     ]
+    },
+    {
+     "text": "연결이 가장 많은 책은 사무엘상(552건), 시편(483건), 여호수아(454건), 창세기(443건), 신명기(332건), 이사야(254건), 사무엘하(221건), 예레미야(219건) 순이다.",
+     "refs": [
+      26
+     ]
+    },
+    {
+     "text": "사사기 안에서 다른 권과의 연결이 가장 많이 몰린 장은 6장(479건), 5장(429건), 2장(423건), 9장(386건), 20장(360건), 11장(357건) 순이다.",
+     "refs": [
+      26
+     ]
+    },
+    {
+     "text": "득표가 가장 많은 연결은 삿 15:15 ↔ 수 23:10(167표), 삿 7:19 ↔ 수 23:10(135표), 삿 3:31 ↔ 수 23:10(132표), 삿 16:28 ↔ 사 40:31(59표), 삿 6:14 ↔ 수 1:9(56표), 삿 9:15 ↔ 시 91:1(49표) 등이다.",
+     "refs": [
+      26
+     ]
+    },
+    {
+     "text": "이 득표는 사용자들이 두 구절을 함께 읽을 연결로 지지한 정도이며, 인용이나 영향의 크기를 판정한 값이 아니다.",
+     "refs": [
+      26
+     ]
+    }
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "n": 1,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Judges'",
+   "where": "도입 첫 문단과 'Background'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOJUDGES",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 2,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Judges'",
+   "where": "'Structure'와 'Outline'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOJUDGES",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 3,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Judges'",
+   "where": "'Themes'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOJUDGES",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 4,
+   "cite": "ESV Global Study Bible(Crossway, 2012), 'Introduction to Judges'",
+   "where": "'Author and Date', 'Theme', 'Purpose and Pattern'",
+   "url": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-judges/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 5,
+   "cite": "ESV Global Study Bible(Crossway, 2012), 'Introduction to Judges'",
+   "where": "'Key Themes'",
+   "url": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-judges/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 6,
+   "cite": "ESV Global Study Bible(Crossway, 2012), 'Introduction to Judges'",
+   "where": "'Outline'과 'The Setting of Judges'",
+   "url": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-judges/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 7,
+   "cite": "Bob Utley, 'Introduction to Judges'(Bible Lessons International, 2014)",
+   "where": "'NAME OF THE BOOK', 'CANONIZATION', 'GENRE'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL04BOT/VOL04BAOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 8,
+   "cite": "Bob Utley, 'Introduction to Judges'(Bible Lessons International, 2014)",
+   "where": "'AUTHORSHIP'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL04BOT/VOL04BAOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 9,
+   "cite": "Bob Utley, 'Introduction to Judges'(Bible Lessons International, 2014)",
+   "where": "'DATE'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL04BOT/VOL04BAOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 10,
+   "cite": "Bob Utley, 'Introduction to Judges'(Bible Lessons International, 2014)",
+   "where": "'HISTORICAL SETTING'와 'LITERARY UNITS'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL04BOT/VOL04BAOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 11,
+   "cite": "Bob Utley, 'Introduction to Judges'(Bible Lessons International, 2014)",
+   "where": "'Brief Outline'의 사사 표",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL04BOT/VOL04BAOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 12,
+   "cite": "Bob Utley, 'Introduction to Judges'(Bible Lessons International, 2014)",
+   "where": "'MAIN TRUTHS'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL04BOT/VOL04BAOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 13,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'I. Archeological background'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 14,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'II. Purpose'와 'III. A. Composition'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 15,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'III. B. Unity'와 'C. Date'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 16,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'IV. Place in canon'과 'V. Text'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 17,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'VI. The moral problem of Israel’s judges'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 18,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'VII. Permanent value'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 19,
+   "cite": "Encyclopedia of the Bible, 'Judges, Book of' 항목(BibleGateway 자료실; 필자명은 열람한 페이지에서 확인하지 못함)",
+   "where": "'VIII. Contents'",
+   "url": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Judges",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 20,
+   "cite": "World English Bible(ebible.org) 사사기 1:1–4, 1:19–21",
+   "where": "삿 1:1–4; 1:19–21",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 21,
+   "cite": "World English Bible(ebible.org) 사사기 2:1–5, 2:6–19",
+   "where": "삿 2:1–5; 2:6–19",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 22,
+   "cite": "World English Bible(ebible.org) 사사기 3:7–11, 4:4–7, 5:19–21",
+   "where": "삿 3:7–11; 4:4–7; 5:19–21",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 23,
+   "cite": "World English Bible(ebible.org) 사사기 6:11–16, 8:22–27, 9:1–6",
+   "where": "삿 6:11–16; 8:22–27; 9:1–6",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 24,
+   "cite": "World English Bible(ebible.org) 사사기 11:30–31, 13:1–5, 16:28–31",
+   "where": "삿 11:30–31; 13:1–5; 16:28–31",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 25,
+   "cite": "World English Bible(ebible.org) 사사기 17:6, 18:30–31, 19:1, 21:25",
+   "where": "삿 17:6; 18:30–31; 19:1; 21:25",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 26,
+   "cite": "OpenBible.info, Cross-references(CC BY, 2026-11-02판) — 구절 사이 상호참조 344,800행(성경 전체)",
+   "where": "cross_references.txt 전체. 한 행 = 출발 구절, 도착 구절(범위일 수 있음), 득표수",
+   "url": "https://www.openbible.info/labs/cross-references/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  }
+ ],
+ "geo": null,
+ "links": {
+  "source": 26,
+  "total": 5794,
+  "ot": 4975,
+  "nt": 819,
+  "byBook": [
+   {
+    "book": 9,
+    "name": "사무엘상",
+    "count": 552,
+    "votes": 1809
+   },
+   {
+    "book": 19,
+    "name": "시편",
+    "count": 483,
+    "votes": 1698
+   },
+   {
+    "book": 6,
+    "name": "여호수아",
+    "count": 454,
+    "votes": 1894
+   },
+   {
+    "book": 1,
+    "name": "창세기",
+    "count": 443,
+    "votes": 1412
+   },
+   {
+    "book": 5,
+    "name": "신명기",
+    "count": 332,
+    "votes": 1081
+   },
+   {
+    "book": 23,
+    "name": "이사야",
+    "count": 254,
+    "votes": 846
+   },
+   {
+    "book": 10,
+    "name": "사무엘하",
+    "count": 221,
+    "votes": 668
+   },
+   {
+    "book": 24,
+    "name": "예레미야",
+    "count": 219,
+    "votes": 636
+   },
+   {
+    "book": 2,
+    "name": "출애굽기",
+    "count": 218,
+    "votes": 824
+   },
+   {
+    "book": 4,
+    "name": "민수기",
+    "count": 218,
+    "votes": 706
+   },
+   {
+    "book": 11,
+    "name": "열왕기상",
+    "count": 212,
+    "votes": 557
+   },
+   {
+    "book": 20,
+    "name": "잠언",
+    "count": 184,
+    "votes": 581
+   }
+  ],
+  "topChapters": [
+   {
+    "chapter": 6,
+    "count": 479
+   },
+   {
+    "chapter": 5,
+    "count": 429
+   },
+   {
+    "chapter": 2,
+    "count": 423
+   },
+   {
+    "chapter": 9,
+    "count": 386
+   },
+   {
+    "chapter": 20,
+    "count": 360
+   },
+   {
+    "chapter": 11,
+    "count": 357
+   },
+   {
+    "chapter": 1,
+    "count": 354
+   },
+   {
+    "chapter": 16,
+    "count": 329
+   },
+   {
+    "chapter": 3,
+    "count": 296
+   },
+   {
+    "chapter": 7,
+    "count": 272
+   }
+  ],
+  "topPairs": [
+   {
+    "here": "삿 15:15",
+    "there": "수 23:10",
+    "votes": 167
+   },
+   {
+    "here": "삿 7:19",
+    "there": "수 23:10",
+    "votes": 135
+   },
+   {
+    "here": "삿 3:31",
+    "there": "수 23:10",
+    "votes": 132
+   },
+   {
+    "here": "삿 16:28",
+    "there": "사 40:31",
+    "votes": 59
+   },
+   {
+    "here": "삿 6:14",
+    "there": "수 1:9",
+    "votes": 56
+   },
+   {
+    "here": "삿 9:15",
+    "there": "시 91:1",
+    "votes": 49
+   },
+   {
+    "here": "삿 6:15",
+    "there": "삼하 7:18",
+    "votes": 46
+   },
+   {
+    "here": "삿 6:10",
+    "there": "수 24:15",
+    "votes": 43
+   },
+   {
+    "here": "삿 6:24",
+    "there": "창 22:14",
+    "votes": 43
+   },
+   {
+    "here": "삿 6:24",
+    "there": "출 17:15",
+    "votes": 42
+   },
+   {
+    "here": "삿 5:20",
+    "there": "출 14:14",
+    "votes": 30
+   },
+   {
+    "here": "삿 10:6",
+    "there": "삼상 7:3",
+    "votes": 29
+   },
+   {
+    "here": "삿 6:17",
+    "there": "시 86:17",
+    "votes": 27
+   },
+   {
+    "here": "삿 6:24",
+    "there": "출 17:15",
+    "votes": 26
+   },
+   {
+    "here": "삿 16:15",
+    "there": "잠 23:7",
+    "votes": 26
+   },
+   {
+    "here": "삿 6:12",
+    "there": "눅 1:28",
+    "votes": 26
+   },
+   {
+    "here": "삿 13:18",
+    "there": "사 9:6",
+    "votes": 23
+   },
+   {
+    "here": "삿 6:24",
+    "there": "창 22:14",
+    "votes": 22
+   },
+   {
+    "here": "삿 21:25",
+    "there": "신 12:8",
+    "votes": 20
+   },
+   {
+    "here": "삿 20:23",
+    "there": "삼상 30:8",
+    "votes": 20
+   }
+  ],
+  "todo": "정경 안의 위치 중 구약 후대 권의 회상·재진술과 신약 인용·암시 목록은 이름 있는 학술 자료(성경신학 사전·주석)로 별도 작성 예정. 이 자료 기반 수치와 섞지 않는다."
+ }
+}
