@@ -379,6 +379,13 @@
    "file": "books/54_디모데전서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 55,
+   "name": "디모데후서",
+   "file": "books/55_디모데후서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
