@@ -323,6 +323,13 @@
    "file": "books/46_고린도전서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 47,
+   "name": "고린도후서",
+   "file": "books/47_고린도후서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
