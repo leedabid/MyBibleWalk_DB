@@ -50,6 +50,13 @@
    "file": "books/07_사사기.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 8,
+   "name": "룻기",
+   "file": "books/08_룻기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
