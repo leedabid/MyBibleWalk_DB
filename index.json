@@ -344,6 +344,13 @@
    "file": "books/49_에베소서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 50,
+   "name": "빌립보서",
+   "file": "books/50_빌립보서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
