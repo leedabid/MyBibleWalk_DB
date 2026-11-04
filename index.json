@@ -29,6 +29,13 @@
    "file": "books/04_민수기.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 5,
+   "name": "신명기",
+   "file": "books/05_신명기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
