@@ -309,6 +309,13 @@
    "file": "books/44_사도행전.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 45,
+   "name": "로마서",
+   "file": "books/45_로마서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
