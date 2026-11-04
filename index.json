@@ -1,20 +1,27 @@
 {
-  "schema": 1,
-  "updated": "2026-11-04",
-  "books": [
-    {
-      "book": 2,
-      "name": "출애굽기",
-      "file": "books/02_출애굽기.json",
-      "status": "draft",
-      "updated": "2026-11-04"
-    }
-  ],
-  "shared": [
-    {
-      "id": "geo",
-      "file": "shared/geo.json",
-      "updated": "2026-11-04"
-    }
-  ]
+ "schema": 1,
+ "updated": "2026-11-04",
+ "books": [
+  {
+   "book": 1,
+   "name": "창세기",
+   "file": "books/01_창세기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
+  },
+  {
+   "book": 2,
+   "name": "출애굽기",
+   "file": "books/02_출애굽기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
+  }
+ ],
+ "shared": [
+  {
+   "id": "geo",
+   "file": "shared/geo.json",
+   "updated": "2026-11-04"
+  }
+ ]
 }

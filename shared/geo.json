@@ -2,7 +2,7 @@
  "schema": 1,
  "id": "geo",
  "updated": "2026-11-04",
- "note": "여러 권이 함께 쓰는 지명·여정 자료. 출애굽→가나안 여정은 출애굽기·민수기·신명기·여호수아에 걸쳐 있어 권마다 따로 두지 않고 한 곳에 둡니다.",
+ "note": "여러 권이 함께 쓰는 지명·여정 자료. 출애굽→가나안 여정은 출애굽기·민수기·신명기·여호수아에 걸쳐 있고, 족장 여정(아브라함·야곱·요셉)은 창세기에서 시작해 출애굽기로 이어지므로 권마다 따로 두지 않고 한 곳에 둡니다.",
  "attribution": "지명 좌표·점수: OpenBible.info Bible Geocoding Data(CC BY 4.0). 지도 바탕: OpenStreetMap contributors. 좌표는 '후보'이며, 점수는 여러 성경 사전·주석·지도책이 그 후보를 지지한 정도입니다(높음 400 이상, 보통 150–399, 낮음 150 미만은 이 앱이 나눈 구간). 학계에서 위치가 확정되지 않은 곳이 많습니다.",
  "refs": [
   {
@@ -266,6 +266,26 @@
    "accessed": "2026-11-04",
    "level": "reference",
    "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것",
+   "evidence": []
+  },
+  {
+   "n": 100,
+   "cite": "OpenBible.info, Bible Geocoding Data(CC BY 4.0), data/ancient.jsonl·modern.jsonl (GitHub 저장소를 내려받아 직접 열어 확인)",
+   "where": "지명별 identifications·resolutions의 best_path_score(후보 위치 점수)와 verses(그 지명이 나오는 구절)",
+   "url": "https://github.com/openbibleinfo/Bible-Geocoding-Data",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "note": "점수는 여러 성경 사전·주석·지도책이 그 후보를 지지한 정도를 합산한 값(OpenBible 설명)",
+   "evidence": []
+  },
+  {
+   "n": 101,
+   "cite": "성경 본문(각 사건의 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(창세기)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-04",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 창세기 본문을 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것",
    "evidence": []
   }
  ],
@@ -2399,6 +2419,621 @@
    "refs": [
     50
    ]
+  },
+  {
+   "id": "ur",
+   "name": "우르",
+   "nameEn": "Ur 1",
+   "kind": "도시",
+   "verses": "창 11:28, 31; 15:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 엘 무카이야르(이라크 남부)",
+     "lat": 30.962222,
+     "lng": 46.104444,
+     "score": 673,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "바이부르트",
+     "lat": 40.254639,
+     "lng": 40.226,
+     "score": 259,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "우르파",
+     "lat": 37.147778,
+     "lng": 38.784444,
+     "score": 31,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "haran",
+   "name": "하란",
+   "nameEn": "Haran",
+   "kind": "도시",
+   "verses": "창 11:31–32; 12:4–5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "하란(오늘의 하란)",
+     "lat": 36.864444,
+     "lng": 39.032778,
+     "score": 837,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "shechem",
+   "name": "세겜",
+   "nameEn": "Shechem",
+   "kind": "도시",
+   "verses": "창 12:6–7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 발라타",
+     "lat": 32.213611,
+     "lng": 35.281944,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "bethel",
+   "name": "벧엘",
+   "nameEn": "Bethel 1",
+   "kind": "도시",
+   "verses": "창 12:8; 13:3–4",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "베이틴",
+     "lat": 31.922778,
+     "lng": 35.241389,
+     "score": 965,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "알 비라",
+     "lat": 31.905142,
+     "lng": 35.214958,
+     "score": 91,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "부르즈 베이틴",
+     "lat": 31.921866,
+     "lng": 35.245478,
+     "score": 10,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "egypt",
+   "name": "이집트",
+   "nameEn": "Egypt",
+   "kind": "나라(대표 지점)",
+   "verses": "창 12:10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "아인 샴스(이집트 대표 지점)",
+     "lat": 30.129444,
+     "lng": 31.3075,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "hebron",
+   "name": "헤브론",
+   "nameEn": "Hebron",
+   "kind": "도시",
+   "verses": "창 13:18",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 루메이다(헤브론)",
+     "lat": 31.525087,
+     "lng": 35.10222,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "sodom",
+   "name": "소돔",
+   "nameEn": "Sodom",
+   "kind": "도시",
+   "verses": "창 13:12; 14장",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "사해 남쪽",
+     "lat": 31.20849,
+     "lng": 35.449223,
+     "score": 617,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "사해 북쪽",
+     "lat": 31.795,
+     "lng": 35.595278,
+     "score": 112,
+     "tier": "낮음",
+     "precision": "point in region",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "밥 에드 드라",
+     "lat": 31.248729,
+     "lng": 35.523005,
+     "score": 109,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "salem",
+   "name": "살렘",
+   "nameEn": "Salem",
+   "kind": "도시",
+   "verses": "창 14:18–20",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "예루살렘",
+     "lat": 31.776667,
+     "lng": 35.234167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "gerar",
+   "name": "그랄",
+   "nameEn": "Gerar",
+   "kind": "도시",
+   "verses": "창 20:1–2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 하로르",
+     "lat": 31.3821,
+     "lng": 34.6065,
+     "score": 628,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "텔 에쉬 샤리아",
+     "lat": 31.3912,
+     "lng": 34.6816,
+     "score": 30,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "텔 투웨이일",
+     "lat": 31.183861,
+     "lng": 34.567048,
+     "score": 10,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "beersheba",
+   "name": "브엘세바",
+   "nameEn": "Beersheba 2",
+   "kind": "도시",
+   "verses": "창 21:31–33",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 브엘세바",
+     "lat": 31.244722,
+     "lng": 34.840833,
+     "score": 815,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "비르 에스 세바",
+     "lat": 31.237225,
+     "lng": 34.793078,
+     "score": 196,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "moriah",
+   "name": "모리아 땅",
+   "nameEn": "Moriah",
+   "kind": "산(지역)",
+   "verses": "창 22:2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "모리아 산(예루살렘)",
+     "lat": 31.777778,
+     "lng": 35.235556,
+     "score": 380,
+     "tier": "보통",
+     "precision": "point on hill",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "텔 발라타",
+     "lat": 32.213611,
+     "lng": 35.281944,
+     "score": 332,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "라마트 엘 할릴",
+     "lat": 31.556536,
+     "lng": 35.105336,
+     "score": 275,
+     "tier": "보통",
+     "precision": "point in visible remains",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "machpelah",
+   "name": "막벨라 굴(헤브론)",
+   "nameEn": "Machpelah",
+   "kind": "굴(무덤)",
+   "verses": "창 23:9, 17–19",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "족장들의 동굴(헤브론)",
+     "lat": 31.524672,
+     "lng": 35.110758,
+     "score": 442,
+     "tier": "높음",
+     "precision": "traditional site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "mahanaim",
+   "name": "마하나임",
+   "nameEn": "Mahanaim",
+   "kind": "도시",
+   "verses": "창 32:1–2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 에드 다하브 엘 가르비",
+     "lat": 32.18575,
+     "lng": 35.68667,
+     "score": 552,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "텔 헤자즈",
+     "lat": 32.149521,
+     "lng": 35.69241,
+     "score": 107,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "키르벳 메흐나",
+     "lat": 32.363911,
+     "lng": 35.748791,
+     "score": 34,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "penuel",
+   "name": "브니엘",
+   "nameEn": "Penuel",
+   "kind": "도시",
+   "verses": "창 32:22–32",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 에드 다하브 에쉬 셰르키예",
+     "lat": 32.187016,
+     "lng": 35.69211,
+     "score": 641,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "텔 에드 다하브 엘 가르비",
+     "lat": 32.18575,
+     "lng": 35.68667,
+     "score": 136,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "succoth-g",
+   "name": "숙곳",
+   "nameEn": "Succoth 1",
+   "kind": "도시",
+   "verses": "창 33:17",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 데이르 알라",
+     "lat": 32.1966,
+     "lng": 35.62118,
+     "score": 648,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    },
+    {
+     "label": "텔 엘 에크사스",
+     "lat": 32.19321,
+     "lng": 35.59396,
+     "score": 104,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "ephrath",
+   "name": "에브랏",
+   "nameEn": "Ephrath",
+   "kind": "도시",
+   "verses": "창 35:16–20",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "베들레헴",
+     "lat": 31.704306,
+     "lng": 35.207639,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "dothan",
+   "name": "도단",
+   "nameEn": "Dothan",
+   "kind": "도시",
+   "verses": "창 37:17–28",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "텔 도탄",
+     "lat": 32.413528,
+     "lng": 35.239861,
+     "score": 886,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
+  },
+  {
+   "id": "goshen",
+   "name": "고센",
+   "nameEn": "Goshen 1",
+   "kind": "지역",
+   "verses": "창 46:28–29; 47:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "칸티르",
+     "lat": 30.79937,
+     "lng": 31.834217,
+     "score": 747,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      100
+     ]
+    }
+   ],
+   "refs": [
+    100
+   ]
   }
  ],
  "unlocatedOther": [
@@ -2406,14 +3041,6 @@
    "name": "비돔",
    "nameEn": "Pithom",
    "verses": "출 1:11",
-   "refs": [
-    45
-   ]
-  },
-  {
-   "name": "고센",
-   "nameEn": "Goshen",
-   "verses": "출 8:22",
    "refs": [
     45
    ]
@@ -3075,6 +3702,396 @@
    ],
    "books": [
     6
+   ]
+  },
+  {
+   "id": "abraham",
+   "title": "아브라함의 여정(우르 → 가나안)",
+   "period": "창세기 11:27–25:11",
+   "note": "우르에서 하란을 거쳐 가나안으로, 그곳에서 이집트까지 다녀오고 헤브론에 머무는 여정. 점선은 본문에 이름이 나오는 순서대로 이은 참고용 선입니다.",
+   "color": "#8E44AD",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "ur",
+     "name": "우르",
+     "time": "",
+     "event": "아브람의 고향. 데라의 가족이 여기서 가나안으로 가려고 떠남",
+     "verses": "창 11:28, 31; 15:7",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "haran",
+     "name": "하란",
+     "time": "75세(창 12:4)",
+     "event": "데라의 가족이 머문 곳. 아브람이 여기서 떠남",
+     "verses": "창 11:31–32; 12:4–5",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "shechem",
+     "name": "세겜",
+     "time": "",
+     "event": "가나안 땅에 들어와 처음 이른 곳",
+     "verses": "창 12:6–7",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "bethel",
+     "name": "벧엘",
+     "time": "",
+     "event": "벧엘 동쪽에 장막을 치고 제단을 쌓음",
+     "verses": "창 12:8; 13:3–4",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "가나안에 기근이 들어 잠시 내려감",
+     "verses": "창 12:10",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "hebron",
+     "name": "헤브론",
+     "time": "",
+     "event": "마므레 근처에 거주하며 제단을 쌓음",
+     "verses": "창 13:18",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "sodom",
+     "name": "소돔",
+     "time": "",
+     "event": "롯이 소돔 가까이 살았고, 아브람이 롯을 구하러 나섬",
+     "verses": "창 13:12; 14장",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "salem",
+     "name": "살렘",
+     "time": "",
+     "event": "멜기세덱이 떡과 포도주를 가지고 나와 아브람을 축복",
+     "verses": "창 14:18–20",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "gerar",
+     "name": "그랄",
+     "time": "",
+     "event": "아비멜렉 왕과 얽힌 일(20장)",
+     "verses": "창 20:1–2",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "beersheba",
+     "name": "브엘세바",
+     "time": "",
+     "event": "아비멜렉과 맹세를 나눈 곳",
+     "verses": "창 21:31–33",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "moriah",
+     "name": "모리아 땅",
+     "time": "",
+     "event": "이삭을 바치라는 명령을 받고 간 곳",
+     "verses": "창 22:2",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "machpelah",
+     "name": "막벨라 굴(헤브론)",
+     "time": "",
+     "event": "아내 사라를 이 굴에 장사함",
+     "verses": "창 23:9, 17–19",
+     "refs": [
+      100,
+      101
+     ]
+    }
+   ],
+   "books": [
+    1
+   ]
+  },
+  {
+   "id": "jacob",
+   "title": "야곱의 여정(하란 왕복)",
+   "period": "창세기 28–35장",
+   "note": "브엘세바에서 하란으로 갔다가 돌아와 세겜·벧엘·헤브론에 이르기까지.",
+   "color": "#E67E22",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "beersheba",
+     "name": "브엘세바",
+     "time": "",
+     "event": "야곱이 여기서 떠나 하란으로 감",
+     "verses": "창 28:10",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "bethel",
+     "name": "벧엘",
+     "time": "",
+     "event": "돌을 베개 삼아 꿈을 꾸고, 그곳 이름을 벧엘이라 함",
+     "verses": "창 28:10–19",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "haran",
+     "name": "하란",
+     "time": "",
+     "event": "라반의 집에서 지냄. 레아와 라헬을 아내로 맞음",
+     "verses": "창 29장",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "mahanaim",
+     "name": "마하나임",
+     "time": "",
+     "event": "돌아오는 길에 하나님의 사자들을 만남",
+     "verses": "창 32:1–2",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "penuel",
+     "name": "브니엘",
+     "time": "",
+     "event": "밤새 씨름하여 이스라엘이라는 이름을 받음",
+     "verses": "창 32:22–32",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "succoth-g",
+     "name": "숙곳",
+     "time": "",
+     "event": "집을 짓고 가축의 우리를 만듦. 이름의 유래",
+     "verses": "창 33:17",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "shechem",
+     "name": "세겜",
+     "time": "",
+     "event": "성 앞에 장막을 침",
+     "verses": "창 33:18–20",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "bethel",
+     "name": "벧엘",
+     "time": "",
+     "event": "하나님이 벧엘로 올라가 제단을 쌓으라고 하심",
+     "verses": "창 35:1–15",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "ephrath",
+     "name": "에브랏",
+     "time": "",
+     "event": "라헬이 베냐민을 낳다 죽음. 에브랏 길 곁에 장사함",
+     "verses": "창 35:16–20",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "hebron",
+     "name": "헤브론",
+     "time": "",
+     "event": "아버지 이삭이 있는 곳에 이름. 이삭이 이곳에서 죽음",
+     "verses": "창 35:27–29",
+     "refs": [
+      100,
+      101
+     ]
+    }
+   ],
+   "books": [
+    1
+   ]
+  },
+  {
+   "id": "joseph-family",
+   "title": "요셉과 야곱 가족(이집트로)",
+   "period": "창세기 37–50장",
+   "note": "헤브론에서 도단으로, 이집트로 팔려 간 요셉과 이후 고센으로 내려간 야곱의 가족.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "hebron",
+     "name": "헤브론",
+     "time": "",
+     "event": "야곱이 요셉을 형들에게 보냄",
+     "verses": "창 37:14",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "shechem",
+     "name": "세겜",
+     "time": "",
+     "event": "형들이 양을 치던 곳",
+     "verses": "창 37:12–14",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "dothan",
+     "name": "도단",
+     "time": "",
+     "event": "형들이 요셉을 구덩이에 던지고 상인들에게 팖",
+     "verses": "창 37:17–28",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "요셉이 종으로 팔려 감",
+     "verses": "창 37:28, 36; 39:1",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "beersheba",
+     "name": "브엘세바",
+     "time": "",
+     "event": "이스라엘이 이집트로 내려가던 길에 제사를 드림",
+     "verses": "창 46:1",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "goshen",
+     "name": "고센",
+     "time": "",
+     "event": "야곱의 가족이 정착한 땅",
+     "verses": "창 46:28–29; 47:1",
+     "refs": [
+      100,
+      101
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "machpelah",
+     "name": "막벨라 굴(헤브론)",
+     "time": "",
+     "event": "야곱을 이 굴에 장사함",
+     "verses": "창 50:13",
+     "refs": [
+      100,
+      101
+     ]
+    }
+   ],
+   "books": [
+    1
    ]
   }
  ]

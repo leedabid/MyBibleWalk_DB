@@ -1,0 +1,762 @@
+{
+ "schema": 1,
+ "book": 1,
+ "name": "창세기",
+ "status": "draft",
+ "updated": "2026-11-04",
+ "framework": "보스 4분과(넓은 의미의 주경신학 안에 성경개론·성경신학·본문 주해)",
+ "notes": [
+  "문장마다 근거 번호가 있으며, 근거 번호의 출처는 refs에서 확인할 수 있다. 근거 확인은 2026-11-04에 해당 페이지를 열어 읽는 방식으로 했으며, 페이지 내용은 요약 도구를 거쳐 받았으므로 '원문 발췌'에는 도구가 글자 그대로 돌려준 문장만 적었다.",
+  "출처가 '연구 성경(스터디 바이블) 서론'인 내용은 해당 성경의 해설이며 특정 신학 전통의 관점일 수 있다.",
+  "ESV 글로벌 스터디 바이블 서론은 이번에 열리지 않아, 같은 출판사의 ESV Study Bible 서론(Blue Letter Bible 게시본)을 대신 사용했다.",
+  "문화 섹션은 아직 쓰지 않았다(자료 미확보). 언어 섹션도 책 이름 풀이만 있고 주요 낱말 분석은 미작성이다.",
+  "지리의 이동 순서·사건 설명은 구절 위치만 확인한 것(본문 미확인)이며, 본문과 대조하기 전까지 초안으로 둔다.",
+  "'다른 권과의 연결' 섹션의 수치는 OpenBible.info 상호참조 자료를 기계적으로 센 것이다. 신약의 인용·암시, 후대 권에 준 영향 같은 해석적 설명은 아직 쓰지 않았다(미작성)."
+ ],
+ "sections": [
+  {
+   "id": "overview",
+   "heading": "한눈에 보기",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "본문 자체는 저자의 이름을 밝히지 않는다고 Faithlife Study Bible은 설명하며, 유대교와 기독교 전통은 이 책을 모세의 것으로 돌린다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Utley도 성경 자체는 저자의 이름을 말하지 않는다고 적는다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "ESV Study Bible 서론은 전통적으로 모세가 창세기와 나머지 오경의 저자로 여겨져 왔다고 쓴다.",
+     "refs": [
+      1
+     ],
+     "br": true
+    },
+    {
+     "text": "Faithlife Study Bible은 '모세의 저작'이라는 말이 모세가 모든 낱말을 직접 썼다는 뜻이 아니라, 모세가 전승을 형성했다는 뜻일 수도 있다고 덧붙인다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "같은 서론은 오경이 여러 자료와 편집자를 거쳐 기원전 5세기에 최종 형태에 이르렀다고도 적는다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Utley는 모세가 오경의 대부분을 모으고 기록한 사람이라고 믿으면서도, 서기관과 앞선 기록, 구전 전승, 후대의 갱신이 있었을 가능성을 인정한다.",
+     "refs": [
+      10
+     ],
+     "br": true
+    },
+    {
+     "text": "그는 19세기에 나온 JEDP 가설(오경이 오랜 기간 여러 자료로 이루어진 합성 문서라는 주장)을 소개하고, 이 가설이 본문의 증거보다 현대의 문학적 분류를 더 반영한다고 비판한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "ESV Study Bible 서론은 모세 저작을 뒷받침하는 구절로 요한복음 5:46, 민수기 33:2, 신명기 31:24를 든다.",
+     "refs": [
+      1
+     ],
+     "br": true
+    },
+    {
+     "text": "이 서론은 이 책의 첫 독자를 모세가 광야로 인도한 이스라엘 백성으로 본다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "문학 유형으로 Utley는 창세기를 주로 신학적 역사 서사로 보며, 그 안에 시(2:23; 4:23–24; 8:22)와 예언(3:15; 49:1 이하)이 섞여 있다고 분류한다.",
+     "refs": [
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "heading": "구조와 개요",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "ESV Study Bible 서론은 창세기를 크게 원역사(1:1–11:26)와 족장 역사(11:27–50:26)로 나눈다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "원역사는 하늘과 땅의 창조(1:1–2:3), 첫 사람들(2:4–4:26), 아담의 후손(5:1–6:8), 노아의 후손(6:9–9:29), 노아 아들들의 후손(10:1–11:9), 셈의 후손(11:10–26)으로 나뉜다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "족장 역사는 데라의 후손(11:27–25:18), 이삭의 후손(25:19–37:1), 야곱의 후손(37:2–50:26)으로 나뉜다.",
+     "refs": [
+      3
+     ],
+     "br": true
+    },
+    {
+     "text": "Faithlife Study Bible은 이 책을 네 부분으로 나눈다. 창조·죄·민족들의 초기 역사(1:1–11:32), 아브라함의 생애(12:1–25:18), 이삭과 야곱의 생애(25:19–36:43), 요셉과 형제들의 생애(37:1–50:26)이다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Utley는 신학적 줄거리로 창조(1–2장), 타락(3장), 타락의 결과(4–11장: 가인, 홍수, 바벨), 온 인류를 위한 한 사람(12–50장)을 제시한다.",
+     "refs": [
+      12
+     ],
+     "br": true
+    },
+    {
+     "text": "또한 '…의 계보(톨레도트)'로 시작하는 문학 단위를 시작점으로 꼽으며 1:1–3; 2:4; 5:1; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1, 9; 37:1 부근을 든다.",
+     "refs": [
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "id": "history",
+   "heading": "역사 배경",
+   "discipline": "성경개론·성경 배경",
+   "sentences": [
+    {
+     "text": "Utley는 아브라함의 생애를 기원전 2000년경, 곧 기원전 2천 년기로 잡는다.",
+     "refs": [
+      11
+     ]
+    },
+    {
+     "text": "창세기 1–11장의 사건은 연대를 매길 수 없는 선사 시대에 속한다고 본다.",
+     "refs": [
+      11
+     ]
+    },
+    {
+     "text": "그는 모세 아래의 출애굽 연대를 기원전 1445년 또는 1290년으로 본다.",
+     "refs": [
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "heading": "지리와 여정",
+   "discipline": "성경 배경(지리)",
+   "sentences": [
+    {
+     "text": "위 지도의 세 여정(아브라함, 야곱, 요셉과 야곱의 가족)은 창세기 본문에 이름이 나오는 곳을 본문의 차례대로 이은 것이다.",
+     "refs": [
+      15
+     ]
+    },
+    {
+     "text": "각 곳의 좌표와 후보 점수는 OpenBible.info 성경 지명 자료에서 가져왔다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "이동 순서와 사건 설명은 구절 위치를 기준으로 정리한 것이며, 이번 작업에서 본문 전체를 열어 확인하지는 못했다.",
+     "refs": [
+      15
+     ],
+     "br": true
+    },
+    {
+     "text": "ESV Study Bible 서론은 '유랑과 땅'을 창세기의 주제 가운데 하나로 들며, 악한 자들은 땅 위에 흩어지고 하나님은 택하신 백성에게 그들의 땅을 약속하신다고 설명한다(3:22–24; 12:1–7; 15:7–21; 28:13–14; 50:24).",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "갈대아 우르는 후보가 여럿이다. OpenBible 자료에서 가장 높은 점수(673)는 오늘의 이라크 남부 텔 엘 무카이야르이고, 바이부르트(259)와 우르파(31)도 후보로 올라 있다.",
+     "refs": [
+      14
+     ],
+     "br": true
+    },
+    {
+     "text": "하란은 후보가 오늘의 하란(튀르키예 남동부) 한 곳뿐이며 점수는 837이다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "소돔은 사해 남쪽(617)이 가장 유력한 후보이고, 사해 북쪽(112)과 밥 에드 드라(109)도 후보로 올라 있다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "막벨라 굴은 OpenBible 자료에서 창 23:9, 17, 19; 25:9; 49:30; 50:13에 나오는 곳으로 기록되며, 가장 유력한 후보는 헤브론의 '족장들의 동굴'(442)이다.",
+     "refs": [
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "heading": "언어",
+   "discipline": "주경신학(원어·본문)",
+   "sentences": [
+    {
+     "text": "Utley는 히브리어 본문에서 이 책의 첫 낱말 '베레쉬트'가 '태초에' 또는 '시작하면서'를 뜻한다고 적는다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "칠십인역의 제목 '게네시스'는 '시작' 또는 '기원'을 뜻하며 창세기 2:4a에서 따왔다고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Utley는 이 표현이 서론이라기보다 요약하는 구절에 가깝다고 본다.",
+     "refs": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "theology",
+   "heading": "성경신학적 위치와 주제",
+   "discipline": "성경신학",
+   "sentences": [
+    {
+     "text": "ESV Study Bible 서론은 창세기의 주제를 '창조, 죄, 재창조'로 요약한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "하나님이 세상을 선하게 지으셨으나 사람의 불순종이 저주와 홍수를 불렀고, 홍수 뒤에도 인간의 죄가 세상을 다시 망쳤으며, 하나님이 아브라함을 택하여 그의 가문을 통해 모든 민족이 복을 받게 하겠다고 약속하셨다고 풀이한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "이 서론은 창세기를 성경의 나머지를 이해하는 데 꼭 필요한 입문이라고 부른다.",
+     "refs": [
+      1
+     ],
+     "br": true
+    },
+    {
+     "text": "같은 서론이 꼽는 주요 주제에는 사람이 땅을 돌보고 다스리도록 위임받음(1:1–2:25), 타락(3:1–24; 6:5–6), 구원의 약속(3:15; 12:1–3), 땅과의 관계(3:17–19; 5:29; 50:19–21)가 있다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "그 밖에 불임과 그 극복(11:30; 21:1–7; 25:21), 가족 사이의 갈등과 화해(4:1–16; 13:5–11; 33:1–11; 45:1–28), 유랑과 땅의 약속(12:1–7; 15:7–21; 28:13–14; 50:24), 심판과 보존(6:7; 18:17–33; 9:1)을 든다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 아담과 하와의 선택이 하나님의 형상으로 살 우리의 능력을 손상시켰다고 설명하고, 창세기에서 그 형상을 새롭게 하시려는 하나님의 일이 시작된다고 본다.",
+     "refs": [
+      7
+     ],
+     "br": true
+    },
+    {
+     "text": "또한 족장들의 실패는 하나님의 복이 그들의 공로에 달려 있지 않음을 보여 주며, 이는 사람을 올바른 관계로 되돌리시려는 하나님의 뜻을 나타낸다고 본다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Utley는 창세기의 주요 진리를 셋으로 정리한다. 모든 것의 기원이신 하나님, 세상에 악이 있는 이유(아담과 하와의 죄에서 가인의 살인, 홍수, 바벨까지), 그리고 하나님의 응답이다.",
+     "refs": [
+      13
+     ],
+     "br": true
+    },
+    {
+     "text": "하나님의 응답으로 그는 메시아의 약속(3:15), 한 가문을 부르심(12:1–3), 은혜·약속·언약·제사·예배를 통해 타락한 사람과 일하심을 든다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "3:15를 ESV Study Bible 서론은 하와의 후손이 뱀의 지배에서 사람을 풀어 줄 것이라는 '구원의 약속'으로 설명하고, Utley는 같은 구절을 메시아의 약속으로 든다.",
+     "refs": [
+      4,
+      13
+     ]
+    },
+    {
+     "text": "Utley는 사람이 믿음으로 하나님께 응답한다는 점을 창세기 15:6과 로마서 4장을 들어 말한다.",
+     "refs": [
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "id": "canon-links",
+   "heading": "다른 권과의 연결(상호참조 그물)",
+   "discipline": "성경신학(정경 안의 연결) — 자료 기반 부분",
+   "sentences": [
+    {
+     "text": "OpenBible.info 상호참조 자료(득표가 0보다 큰 항목)에서 창세기 구절을 다른 권의 구절과 잇는 연결은 모두 15,910건이다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "이 가운데 구약의 다른 권과의 연결은 11,560건, 신약과의 연결은 4,350건이다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "연결이 가장 많은 책은 시편(1,478건), 출애굽기(849건), 이사야(792건), 신명기(653건), 민수기(651건), 욥기(632건), 잠언(579건), 사무엘상(575건) 순이다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "창세기 안에서 다른 권과의 연결이 가장 많이 몰린 장은 49장(686건), 3장(591건), 18장(558건), 1장(536건), 19장(532건), 24장(504건) 순이다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "득표가 가장 많은 연결은 창 50:20 ↔ 롬 8:28(391표), 창 1:1 ↔ 요 1:1(387표), 창 28:15 ↔ 수 1:9(282표), 창 1:1 ↔ 히 11:3(279표), 창 1:1 ↔ 사 45:18(255표), 창 1:1 ↔ 계 4:11(209표) 등이다.",
+     "refs": [
+      16
+     ]
+    },
+    {
+     "text": "이 수치는 '함께 읽을 연결'이 많고 적음을 보여 줄 뿐, 그 구절이 창세기를 인용했는지, 신학적으로 얼마나 큰 영향을 주었는지는 이 자료만으로 알 수 없다.",
+     "refs": [
+      16
+     ]
+    }
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "n": 1,
+   "cite": "ESV Study Bible(Crossway, 2008), 'Introduction to Genesis'",
+   "where": "'Author, Date, and Recipients'",
+   "url": "https://www.esv.org/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 2,
+   "cite": "ESV Study Bible(Crossway, 2008), 'Introduction to Genesis'",
+   "where": "'Theme'",
+   "url": "https://www.esv.org/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 3,
+   "cite": "ESV Study Bible(Crossway, 2008), 'Introduction to Genesis'",
+   "where": "'Structure/Outline'(1. Primeval History 1:1–11:26, 2. Patriarchal History 11:27–50:26)",
+   "url": "https://www.esv.org/",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 4,
+   "cite": "ESV Study Bible(Crossway, 2008), 'Introduction to Genesis'",
+   "where": "'Key Themes' 목록(여덟 항목)",
+   "url": "https://www.esv.org/",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 5,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Genesis'",
+   "where": "저자·연대를 다룬 부분(소제목 이름은 확인하지 못함)",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOGENESIS",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 6,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Genesis'",
+   "where": "'Outline'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOGENESIS",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 7,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Genesis'",
+   "where": "'Themes'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOGENESIS",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 8,
+   "cite": "Bob Utley, 'Genesis Introduction'(Bible Lessons International)",
+   "where": "'I. NAME OF THE BOOK'",
+   "url": "https://www.freebiblecommentary.org/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 9,
+   "cite": "Bob Utley, 'Genesis Introduction'(Bible Lessons International)",
+   "where": "'III. GENRE'",
+   "url": "https://www.freebiblecommentary.org/",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 10,
+   "cite": "Bob Utley, 'Genesis Introduction'(Bible Lessons International)",
+   "where": "'IV. AUTHORSHIP'",
+   "url": "https://www.freebiblecommentary.org/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 11,
+   "cite": "Bob Utley, 'Genesis Introduction'(Bible Lessons International)",
+   "where": "'V. DATE'",
+   "url": "https://www.freebiblecommentary.org/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 12,
+   "cite": "Bob Utley, 'Genesis Introduction'(Bible Lessons International)",
+   "where": "'VI. OUTLINE'(신학적 개요와 toledoth 단위)",
+   "url": "https://www.freebiblecommentary.org/",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 13,
+   "cite": "Bob Utley, 'Genesis Introduction'(Bible Lessons International)",
+   "where": "'VII. MAIN THEMES'",
+   "url": "https://www.freebiblecommentary.org/",
+   "accessed": "2026-11-04",
+   "level": "abstract",
+   "evidence": []
+  },
+  {
+   "n": 14,
+   "cite": "OpenBible.info, Bible Geocoding Data(CC BY 4.0), data/ancient.jsonl·modern.jsonl (GitHub 저장소를 내려받아 직접 열어 확인)",
+   "where": "지명별 identifications·resolutions의 best_path_score(후보 위치 점수)와 verses(그 지명이 나오는 구절)",
+   "url": "https://github.com/openbibleinfo/Bible-Geocoding-Data",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "note": "점수는 여러 성경 사전·주석·지도책이 그 후보를 지지한 정도를 합산한 값(OpenBible 설명)",
+   "evidence": []
+  },
+  {
+   "n": 15,
+   "cite": "성경 본문(각 사건의 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(창세기)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-04",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 창세기 본문을 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것",
+   "evidence": []
+  },
+  {
+   "n": 16,
+   "cite": "OpenBible.info, Cross-references(CC BY, 2026-11-02판) — 구절 사이 상호참조 344,800행(성경 전체)",
+   "where": "cross_references.txt 전체. 한 행 = 출발 구절, 도착 구절(범위일 수 있음), 득표수",
+   "url": "https://www.openbible.info/labs/cross-references/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  }
+ ],
+ "geo": {
+  "shared": "geo",
+  "journeys": [
+   "abraham",
+   "jacob",
+   "joseph-family"
+  ],
+  "focus": "abraham"
+ },
+ "links": {
+  "source": 16,
+  "total": 15910,
+  "ot": 11560,
+  "nt": 4350,
+  "byBook": [
+   {
+    "book": 19,
+    "name": "시편",
+    "count": 1478,
+    "votes": 9445
+   },
+   {
+    "book": 2,
+    "name": "출애굽기",
+    "count": 849,
+    "votes": 3736
+   },
+   {
+    "book": 23,
+    "name": "이사야",
+    "count": 792,
+    "votes": 4924
+   },
+   {
+    "book": 5,
+    "name": "신명기",
+    "count": 653,
+    "votes": 2877
+   },
+   {
+    "book": 4,
+    "name": "민수기",
+    "count": 651,
+    "votes": 2177
+   },
+   {
+    "book": 18,
+    "name": "욥기",
+    "count": 632,
+    "votes": 2958
+   },
+   {
+    "book": 20,
+    "name": "잠언",
+    "count": 579,
+    "votes": 3001
+   },
+   {
+    "book": 9,
+    "name": "사무엘상",
+    "count": 575,
+    "votes": 2020
+   },
+   {
+    "book": 24,
+    "name": "예레미야",
+    "count": 528,
+    "votes": 2724
+   },
+   {
+    "book": 44,
+    "name": "사도행전",
+    "count": 528,
+    "votes": 2407
+   },
+   {
+    "book": 42,
+    "name": "누가복음",
+    "count": 526,
+    "votes": 2589
+   },
+   {
+    "book": 40,
+    "name": "마태복음",
+    "count": 522,
+    "votes": 2934
+   }
+  ],
+  "topChapters": [
+   {
+    "chapter": 49,
+    "count": 686
+   },
+   {
+    "chapter": 3,
+    "count": 591
+   },
+   {
+    "chapter": 18,
+    "count": 558
+   },
+   {
+    "chapter": 1,
+    "count": 536
+   },
+   {
+    "chapter": 19,
+    "count": 532
+   },
+   {
+    "chapter": 24,
+    "count": 504
+   },
+   {
+    "chapter": 17,
+    "count": 496
+   },
+   {
+    "chapter": 15,
+    "count": 470
+   },
+   {
+    "chapter": 32,
+    "count": 452
+   },
+   {
+    "chapter": 41,
+    "count": 438
+   }
+  ],
+  "topPairs": [
+   {
+    "here": "창 50:20",
+    "there": "롬 8:28",
+    "votes": 391,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 1:1",
+    "there": "요 1:1",
+    "votes": 387,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "요 1:1",
+    "votes": 346,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 28:15",
+    "there": "수 1:9",
+    "votes": 282,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 1:1",
+    "there": "히 11:3",
+    "votes": 279,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "사 45:18",
+    "votes": 255,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "계 4:11",
+    "votes": 209,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "히 1:10",
+    "votes": 195,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "골 1:16",
+    "votes": 177,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 3:15",
+    "there": "롬 16:20",
+    "votes": 177,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 22:12",
+    "there": "요 3:16",
+    "votes": 167,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 1:1",
+    "there": "사 42:5",
+    "votes": 164,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 50:20",
+    "there": "롬 8:28",
+    "votes": 156,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "출 20:11",
+    "votes": 155,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "욥 38:4",
+    "votes": 149,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 1:1",
+    "there": "행 17:24",
+    "votes": 134,
+    "direction": "창세기→다른 권"
+   },
+   {
+    "here": "창 18:19",
+    "there": "신 4:9",
+    "votes": 120,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 15:1",
+    "there": "사 41:10",
+    "votes": 115,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 18:14",
+    "there": "눅 1:37",
+    "votes": 109,
+    "direction": "다른 권→창세기"
+   },
+   {
+    "here": "창 1:1",
+    "there": "벧후 3:5",
+    "votes": 108,
+    "direction": "창세기→다른 권"
+   }
+  ],
+  "todo": "정경 안의 위치(앞뒤 권과의 연결, 신약의 인용·암시, 주제 추적)는 해석이 필요한 부분이라 이름 있는 학술 자료(성경신학 사전·주석)로 별도 작성 예정. 이 자료 기반 수치와 섞지 않는다."
+ }
+}
