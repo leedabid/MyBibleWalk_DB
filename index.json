@@ -267,6 +267,13 @@
    "file": "books/38_스가랴.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 39,
+   "name": "말라기",
+   "file": "books/39_말라기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
