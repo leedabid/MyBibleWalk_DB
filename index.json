@@ -120,6 +120,13 @@
    "file": "books/17_에스더.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 18,
+   "name": "욥기",
+   "file": "books/18_욥기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
