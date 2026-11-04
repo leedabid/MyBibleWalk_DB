@@ -295,6 +295,13 @@
    "file": "books/42_누가복음.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 43,
+   "name": "요한복음",
+   "file": "books/43_요한복음.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
