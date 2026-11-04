@@ -155,6 +155,13 @@
    "file": "books/22_아가.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 23,
+   "name": "이사야",
+   "file": "books/23_이사야.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
