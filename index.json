@@ -414,6 +414,13 @@
    "file": "books/59_야고보서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 60,
+   "name": "베드로전서",
+   "file": "books/60_베드로전서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
