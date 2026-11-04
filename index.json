@@ -22,6 +22,11 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-04"
+  },
+  {
+   "id": "timeline",
+   "file": "shared/timeline.json",
+   "updated": "2026-11-04"
   }
  ]
 }
