@@ -232,6 +232,13 @@
    "file": "books/33_미가.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 34,
+   "name": "나훔",
+   "file": "books/34_나훔.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
