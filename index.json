@@ -190,6 +190,13 @@
    "file": "books/27_다니엘.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 28,
+   "name": "호세아",
+   "file": "books/28_호세아.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
