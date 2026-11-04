@@ -246,6 +246,13 @@
    "file": "books/35_하박국.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 36,
+   "name": "스바냐",
+   "file": "books/36_스바냐.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
