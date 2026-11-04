@@ -337,6 +337,13 @@
    "file": "books/48_갈라디아서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 49,
+   "name": "에베소서",
+   "file": "books/49_에베소서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
