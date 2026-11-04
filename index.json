@@ -253,6 +253,13 @@
    "file": "books/36_스바냐.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 37,
+   "name": "학개",
+   "file": "books/37_학개.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
