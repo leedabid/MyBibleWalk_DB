@@ -71,6 +71,13 @@
    "file": "books/10_사무엘하.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 11,
+   "name": "열왕기상",
+   "file": "books/11_열왕기상.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
