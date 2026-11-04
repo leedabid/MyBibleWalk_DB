@@ -45,7 +45,8 @@
    "title": "하늘과 땅의 창조",
    "when": {
     "label": "연대 정보 없음(본문은 날짜를 주지 않음)",
-    "basis": "none"
+    "basis": "none",
+    "short": "태초"
    },
    "people": [
     "하나님"
@@ -76,7 +77,8 @@
    "title": "에덴동산의 아담과 하와",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "하나님",
@@ -108,7 +110,8 @@
    "title": "선악과와 뱀",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "아담",
@@ -139,7 +142,8 @@
    "title": "심문과 저주, 에덴에서 쫓겨남",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "하나님",
@@ -172,7 +176,8 @@
    "title": "가인과 아벨",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "가인",
@@ -203,7 +208,8 @@
    "title": "가인의 후손과 라멕의 노래",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "가인",
@@ -228,7 +234,8 @@
    "title": "셋의 출생",
    "when": {
     "label": "연대 정보 없음(아담 130세 때, 5:3)",
-    "basis": "none"
+    "basis": "none",
+    "short": "아담 130세"
    },
    "people": [
     "아담",
@@ -254,7 +261,9 @@
    "title": "아담에서 노아까지의 족보",
    "when": {
     "label": "아담 130세에 셋 출생부터(5:3)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "아담 130세~",
+    "year": "노아 출생 약 1056년"
    },
    "people": [
     "아담",
@@ -285,7 +294,8 @@
    "title": "하나님의 아들들과 사람의 딸들",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "하나님의 아들들",
@@ -307,7 +317,8 @@
    "title": "노아와 방주",
    "when": {
     "label": "노아 500세 이후(5:32; 7:6 사이)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "노아 500세~"
    },
    "people": [
     "노아",
@@ -338,7 +349,9 @@
    "title": "홍수",
    "when": {
     "label": "노아 600세 둘째 달 17일에 시작(7:11)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "노아 600세",
+    "year": "약 1656년"
    },
    "people": [
     "노아",
@@ -371,7 +384,8 @@
    "title": "제사와 무지개 언약",
    "when": {
     "label": "홍수 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "홍수 직후"
    },
    "people": [
     "노아",
@@ -401,7 +415,8 @@
    "title": "노아의 취함과 가나안의 저주",
    "when": {
     "label": "홍수 뒤, 노아 950세에 죽음(9:29)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "홍수 뒤"
    },
    "people": [
     "노아",
@@ -427,7 +442,8 @@
    "title": "노아 아들들의 민족 목록",
    "when": {
     "label": "홍수 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "홍수 뒤"
    },
    "people": [
     "야벳",
@@ -452,7 +468,8 @@
    "title": "바벨탑",
    "when": {
     "label": "연대 정보 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "사람들",
@@ -483,7 +500,9 @@
    "title": "셈에서 데라까지의 족보",
    "when": {
     "label": "홍수 2년 뒤 아르박삿 출생(11:10)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "홍수 2년 뒤~",
+    "year": "약 1658년~"
    },
    "people": [
     "셈",
@@ -513,7 +532,8 @@
    "title": "데라의 가족과 하란",
    "when": {
     "label": "아브람이 하란을 떠나기 전",
-    "basis": "none"
+    "basis": "none",
+    "short": "아브람 이전"
    },
    "people": [
     "데라",
@@ -541,7 +561,9 @@
    "title": "아브람이 부르심을 받고 가나안으로",
    "when": {
     "label": "아브람 75세(12:4)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "아브람 75세",
+    "year": "약 2023년"
    },
    "people": [
     "아브람",
@@ -577,7 +599,8 @@
    "title": "이집트로 내려감",
    "when": {
     "label": "가나안에 기근이 든 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "아브람 75세 뒤"
    },
    "people": [
     "아브람",
@@ -600,7 +623,8 @@
    "title": "롯과 헤어짐",
    "when": {
     "label": "이집트에서 돌아온 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "이집트 뒤"
    },
    "people": [
     "아브람",
@@ -621,7 +645,8 @@
    "title": "동방 왕들과의 전쟁, 멜기세덱",
    "when": {
     "label": "롯이 사로잡힌 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "롯이 잡힌 때"
    },
    "people": [
     "아브람",
@@ -647,7 +672,8 @@
    "title": "아브람과 맺으신 언약(15장)",
    "when": {
     "label": "아브람이 후손 없이 지낼 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "후손 없을 때"
    },
    "people": [
     "아브람",
@@ -671,7 +697,9 @@
    "title": "하갈과 이스마엘",
    "when": {
     "label": "아브람 86세(16:16)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "아브람 86세",
+    "year": "약 2034년"
    },
    "people": [
     "아브람",
@@ -698,7 +726,9 @@
    "title": "언약, 할례, 새 이름",
    "when": {
     "label": "아브람 99세(17:1)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "아브람 99세",
+    "year": "약 2047년"
    },
    "people": [
     "아브람(아브라함)",
@@ -732,7 +762,8 @@
    "title": "세 사람의 방문과 소돔을 위한 간구",
    "when": {
     "label": "이삭 출생 전해",
-    "basis": "none"
+    "basis": "none",
+    "short": "이삭 출생 전해"
    },
    "people": [
     "아브라함",
@@ -756,7 +787,8 @@
    "title": "소돔과 고모라의 멸망",
    "when": {
     "label": "아브라함이 99세 즈음",
-    "basis": "none"
+    "basis": "none",
+    "short": "99세 즈음"
    },
    "people": [
     "롯",
@@ -788,7 +820,8 @@
    "title": "그랄의 아비멜렉",
    "when": {
     "label": "소돔 멸망 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "소돔 뒤"
    },
    "people": [
     "아브라함",
@@ -811,7 +844,9 @@
    "title": "이삭의 출생",
    "when": {
     "label": "아브라함 100세(21:5)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "아브라함 100세",
+    "year": "약 2048년"
    },
    "people": [
     "아브라함",
@@ -845,7 +880,8 @@
    "title": "하갈과 이스마엘을 내보냄",
    "when": {
     "label": "이삭이 젖 뗀 날(21:8)",
-    "basis": "none"
+    "basis": "none",
+    "short": "이삭 젖 뗄 때"
    },
    "people": [
     "아브라함",
@@ -871,7 +907,8 @@
    "title": "브엘세바의 맹세",
    "when": {
     "label": "이삭 어린 시절",
-    "basis": "none"
+    "basis": "none",
+    "short": "이삭 어릴 때"
    },
    "people": [
     "아브라함",
@@ -893,7 +930,8 @@
    "title": "이삭을 바치라는 시험",
    "when": {
     "label": "이삭의 나이는 본문에 없음",
-    "basis": "none"
+    "basis": "none",
+    "short": "이삭 어릴 때?"
    },
    "people": [
     "아브라함",
@@ -925,7 +963,9 @@
    "title": "사라의 죽음과 막벨라 굴",
    "when": {
     "label": "사라 127세(23:1)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "사라 127세",
+    "year": "약 2085년"
    },
    "people": [
     "사라",
@@ -952,7 +992,9 @@
    "title": "이삭과 리브가",
    "when": {
     "label": "이삭 40세에 결혼(25:20)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "이삭 40세",
+    "year": "약 2088년"
    },
    "people": [
     "아브라함의 늙은 종",
@@ -984,7 +1026,9 @@
    "title": "아브라함의 죽음",
    "when": {
     "label": "아브라함 175세(25:7)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "아브라함 175세",
+    "year": "약 2123년"
    },
    "people": [
     "아브라함",
@@ -1016,7 +1060,8 @@
    "title": "이스마엘의 후손",
    "when": {
     "label": "이스마엘 137세에 죽음(25:17)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "이스마엘 137세"
    },
    "people": [
     "이스마엘"
@@ -1037,7 +1082,9 @@
    "title": "야곱과 에서의 출생",
    "when": {
     "label": "이삭 60세(25:26)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "이삭 60세",
+    "year": "약 2108년"
    },
    "people": [
     "이삭",
@@ -1064,7 +1111,8 @@
    "title": "장자권을 판 에서",
    "when": {
     "label": "에서와 야곱이 장성한 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "장성한 때"
    },
    "people": [
     "에서",
@@ -1094,7 +1142,8 @@
    "title": "그랄의 이삭",
    "when": {
     "label": "기근이 든 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "기근 때"
    },
    "people": [
     "이삭",
@@ -1117,7 +1166,8 @@
    "title": "축복을 가로챈 야곱",
    "when": {
     "label": "이삭이 눈이 어두워진 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "이삭 노년"
    },
    "people": [
     "이삭",
@@ -1149,7 +1199,8 @@
    "title": "벧엘의 꿈",
    "when": {
     "label": "야곱이 하란으로 가던 길",
-    "basis": "none"
+    "basis": "none",
+    "short": "하란 가는 길"
    },
    "people": [
     "야곱",
@@ -1180,7 +1231,9 @@
    "title": "라반의 집: 결혼과 자녀",
    "when": {
     "label": "야곱이 하란에 도착한 때(약 77세로 계산)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "하란 14년",
+    "year": "약 2185년"
    },
    "people": [
     "야곱",
@@ -1215,7 +1268,8 @@
    "title": "야곱의 가축",
    "when": {
     "label": "라반 집에서의 마지막 6년(31:41)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "하란 마지막 6년"
    },
    "people": [
     "야곱",
@@ -1237,7 +1291,9 @@
    "title": "하란을 떠남",
    "when": {
     "label": "야곱이 라반 집에서 20년을 지낸 뒤(31:38, 41)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "하란 20년째",
+    "year": "약 2205년"
    },
    "people": [
     "야곱",
@@ -1262,7 +1318,8 @@
    "title": "마하나임과 얍복 강가의 씨름",
    "when": {
     "label": "하란에서 돌아오는 길",
-    "basis": "none"
+    "basis": "none",
+    "short": "돌아오는 길"
    },
    "people": [
     "야곱",
@@ -1294,7 +1351,8 @@
    "title": "에서와의 화해, 세겜에 이름",
    "when": {
     "label": "",
-    "basis": "none"
+    "basis": "none",
+    "short": "에서와 만난 뒤"
    },
    "people": [
     "야곱",
@@ -1322,7 +1380,8 @@
    "title": "디나 사건과 세겜",
    "when": {
     "label": "세겜에 머물던 때",
-    "basis": "none"
+    "basis": "none",
+    "short": "세겜 체류"
    },
    "people": [
     "디나",
@@ -1347,7 +1406,8 @@
    "title": "벧엘로 돌아감",
    "when": {
     "label": "세겜 사건 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "세겜 사건 뒤"
    },
    "people": [
     "야곱",
@@ -1369,7 +1429,9 @@
    "title": "라헬의 죽음과 이삭의 죽음",
    "when": {
     "label": "이삭 180세(35:28)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "이삭 180세",
+    "year": "약 2228년"
    },
    "people": [
     "라헬",
@@ -1395,7 +1457,8 @@
    "title": "에서(에돔)의 후손",
    "when": {
     "label": "",
-    "basis": "none"
+    "basis": "none",
+    "short": "때 미상"
    },
    "people": [
     "에서",
@@ -1416,7 +1479,9 @@
    "title": "요셉의 꿈",
    "when": {
     "label": "요셉 17세(37:2)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "요셉 17세",
+    "year": "약 2216년"
    },
    "people": [
     "요셉",
@@ -1448,7 +1513,8 @@
    "title": "요셉이 팔림",
    "when": {
     "label": "요셉 17세 즈음",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "요셉 17세 즈음"
    },
    "people": [
     "요셉",
@@ -1483,7 +1549,8 @@
    "title": "유다와 다말",
    "when": {
     "label": "요셉이 이집트에 간 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "요셉이 팔린 뒤"
    },
    "people": [
     "유다",
@@ -1508,7 +1575,8 @@
    "title": "보디발의 집과 감옥",
    "when": {
     "label": "요셉이 이집트에 간 뒤",
-    "basis": "none"
+    "basis": "none",
+    "short": "이집트 초기"
    },
    "people": [
     "요셉",
@@ -1534,7 +1602,9 @@
    "title": "바로의 꿈과 요셉의 총리 임명",
    "when": {
     "label": "요셉 30세(41:46)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "요셉 30세",
+    "year": "약 2229년"
    },
    "people": [
     "요셉",
@@ -1566,7 +1636,8 @@
    "title": "형들의 첫 번째 이집트행",
    "when": {
     "label": "흉년 둘째 해 이전",
-    "basis": "none"
+    "basis": "none",
+    "short": "흉년 때"
    },
    "people": [
     "요셉",
@@ -1588,7 +1659,9 @@
    "title": "요셉이 자기를 밝힘",
    "when": {
     "label": "야곱이 이집트로 내려가기 전, 흉년 둘째 해(45:6)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "흉년 2년째",
+    "year": "약 2238년"
    },
    "people": [
     "요셉",
@@ -1624,7 +1697,9 @@
    "title": "야곱의 가족이 이집트로",
    "when": {
     "label": "야곱 130세(47:9)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "야곱 130세",
+    "year": "약 2238년"
    },
    "people": [
     "야곱",
@@ -1659,7 +1734,8 @@
    "title": "기근 중 요셉의 정책",
    "when": {
     "label": "흉년 기간",
-    "basis": "none"
+    "basis": "none",
+    "short": "흉년 중"
    },
    "people": [
     "요셉",
@@ -1681,7 +1757,8 @@
    "title": "야곱의 축복",
    "when": {
     "label": "야곱이 죽기 전(야곱 147세, 47:28)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "야곱 임종 전"
    },
    "people": [
     "야곱",
@@ -1709,7 +1786,9 @@
    "title": "야곱의 죽음과 장사",
    "when": {
     "label": "야곱 147세(47:28)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "야곱 147세",
+    "year": "약 2255년"
    },
    "people": [
     "야곱",
@@ -1734,7 +1813,9 @@
    "title": "요셉의 마지막 말과 죽음",
    "when": {
     "label": "요셉 110세(50:26)",
-    "basis": "calc"
+    "basis": "calc",
+    "short": "요셉 110세",
+    "year": "약 2309년"
    },
    "people": [
     "요셉",
