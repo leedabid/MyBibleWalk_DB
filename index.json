@@ -15,6 +15,13 @@
    "file": "books/02_출애굽기.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 3,
+   "name": "레위기",
+   "file": "books/03_레위기.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
