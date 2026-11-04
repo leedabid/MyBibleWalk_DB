@@ -148,6 +148,13 @@
    "file": "books/21_전도서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 22,
+   "name": "아가",
+   "file": "books/22_아가.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
