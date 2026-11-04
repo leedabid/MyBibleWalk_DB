@@ -169,6 +169,13 @@
    "file": "books/24_예레미야.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 25,
+   "name": "예레미야애가",
+   "file": "books/25_예레미야애가.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
