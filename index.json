@@ -127,6 +127,13 @@
    "file": "books/18_욥기.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 19,
+   "name": "시편",
+   "file": "books/19_시편.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [

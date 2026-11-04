@@ -1,0 +1,811 @@
+{
+ "schema": 1,
+ "book": 19,
+ "name": "시편",
+ "status": "draft",
+ "updated": "2026-11-04",
+ "framework": "보스 4분과(넓은 의미의 주경신학 안에 성경개론·성경신학·본문 주해)",
+ "notes": [
+  "문장마다 근거 번호가 있으며, 근거 번호의 출처는 refs에서 확인할 수 있다. 근거 확인은 2026-11-04에 해당 페이지를 직접 열어 읽는 방식으로 했다.",
+  "ESV 글로벌 스터디 바이블의 시편 서론은 Blue Letter Bible 게시본에서 본문을 얻지 못해 사용하지 못했다(다른 권과 달리 ESV 근거가 없음).",
+  "Encyclopedia of the Bible의 시편 항목은 게시본이 VI항(내용) 중간에서 끊겨 I–VI항 앞부분까지만 읽었다. 이후(분류·메시아 시편·신학 등)는 반영하지 못했다.",
+  "Faithlife Study Bible은 연구 성경 서론이며, Encyclopedia of the Bible과 Utley는 보수적 입장에 가깝다. 시편 표제의 신빙성은 학계에서 의견이 갈리며(Utley는 표제를 영감되지 않은 전승으로, Encyclopedia of the Bible은 진정한 것으로 봄) 두 입장을 병기했다.",
+  "시편의 장르 분류(궁켈 식 양식 비평 등)와 시편 개별 편의 해석은 이 권 개관에서 다루지 않았다. 개별 시편은 본문 주해에서 다룬다.",
+  "이 책의 `geo`는 공용 지리 자료에 여정이 없어 비워 두었다.",
+  "문화·언어 섹션은 일부 항목만 작성되었다.",
+  "구약 후대 권에서의 회상과 신약 인용·암시의 전체 목록은 아직 작성되지 않았다(읽기 도움 섹션도 미작성).",
+  "'다른 권과의 연결' 섹션의 수치는 OpenBible.info 상호참조 자료를 기계적으로 센 것이다. 해석적 설명은 성경신학 섹션에 별도로 각주와 함께 썼다."
+ ],
+ "sections": [
+  {
+   "id": "overview",
+   "heading": "한눈에 보기",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 시편이 현대 개신교 성경에서 하나님의 백성이 노래하거나 낭송하도록 만들어진 150편의 시를 담고 있으며, 이스라엘의 예배의 책이었다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "같은 자료는 시편이 찬양·감사·간구·애가 등 다양한 개인과 공동체 상황에서 인간 감정의 전 범위를 야훼께 표현하도록 의도되었다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Utley는 히브리어 제목이 '찬양의 노래들'(테힐림, 시 145편 참조)인데 시편 가운데 애가와 불평이 많아 놀랍다고 지적한다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 시편이 히브리어 성경에서 예레미야 다음으로 긴 책이며, 신약에 가장 많이 인용된 책이라고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Utley도 시편이 신약에 다른 어느 구약 책보다 더 많이 인용되었다고 한다.",
+     "refs": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "heading": "구조와 개요",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 시편이 '책'이라 불리는 다섯 부분으로 나뉘며 이는 모세오경을 본뜬 것으로 보인다고 설명한다. 제1권 1–41편, 제2권 42–72편, 제3권 73–89편, 제4권 90–106편, 제5권 107–150편.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible도 같은 다섯 구분(1–41, 42–72, 73–89, 90–106, 107–150)을 제시한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Utley는 시편에 일반적인 주제나 패턴은 없다고 하면서도 각 책이 송영으로 끝나며(41:13; 72:18–19; 89:52; 106:48) 1편이 일반 서론, 150편이 일반 맺음이라고 정리한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "시편 본문에서도 41:13, 72:18–20, 89:52, 106:48의 끝맺음이 확인된다. 72:20은 '이새의 아들 다윗의 기도가 끝났다'고 말한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 시편 안에 더 작은 묶음이 있다고 설명한다: 고라 자손의 시(42–49; 84–85; 87–88편), 다윗의 기도(72:20), 성전 오름의 노래(120–134편).",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Utley는 시편 119편이 하나님의 말씀에 대한 긴 알파벳 시이고 146–150편이 모두 '여호와를 찬양하라'로 시작하는 찬양시라고 설명한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "편수와 번호: Encyclopedia of the Bible은 150장이 사실상 148편이며 9–10편이 하나의 알파벳 시(알파벳 순서로 각 행이 시작하는 시)이고 42–43편도 본래 한 편으로 보인다고 설명한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Utley는 그리스어 번역에서는 9편과 10편이 합쳐져 하나의 알파벳 시를 이룬다고 한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Utley는 시편 안의 반복으로 14편과 53편이 하나님의 이름만 다르고 같다는 점, 57:7–11과 60:5–12가 108편으로 합쳐진 점을 든다.",
+     "refs": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "history",
+   "heading": "역사 배경",
+   "discipline": "성경개론·성경 배경",
+   "sentences": [
+    {
+     "text": "저자 표제: Utley는 시편의 제목(표제)이 34편을 뺀 모든 시편에 있다고 하고, 표제의 저자 구분으로 마소라 본문에서 다윗 73편, 아삽 12편, 고라 자손 11편, 솔로몬 2편, 모세 1편(90편) 등을 든다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible도 시편이 73장을 다윗에게, 두 장을 솔로몬에게, 헤만과 에단에게 한 장씩, 한 장을 모세(90편)에게 돌린다고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 '다윗의'라는 표제가 다윗이 저자임을 가리킬 수 있으나 히브리어 원문이 모호하여 다윗에 대해·다윗에게·다윗을 위해·다윗을 기려 쓰인 시를 뜻할 수도 있다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Utley는 표제에 대해 두 견해를 소개한다: 마소라 본문과 칠십인역에 있으므로 정경이라는 견해, 그리고 원저자의 것이 아닌 오랜 전승이며 34편 등 일부 표제가 다른 정경 본문과 어긋난다는 견해. 자신은 표제가 영감되지 않았다고 생각해 주석하지 않겠다고 밝히고, 사해 사본의 시편에는 표제가 없다고 덧붙인다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 부정적 성경 비평이 시편 표제를 거의 가치 없다고 거부하지만, 하위 비평(사본 자체를 따지는 본문 비평)의 관점에서는 표제의 진정성을 부정할 의미 있는 증거가 없고 모든 히브리어 사본에 표제가 있다고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "연대: Faithlife Study Bible은 많은 시가 다윗과 솔로몬의 통일왕국(주전 10세기)으로 거슬러 오르고, 일부 가장 이른 시는 모세 시대(시 90)로, 일부는 바벨론 포로기 또는 그 직후(주전 6세기, 시 137)로 올라갈 수 있다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 대부분의 시편이 통일왕국(주전 1043–930년) 때 지어졌다고 보고, 일부는 포로기(137편), 주전 537년 귀환(107, 126편), 주전 444년 느헤미야의 성벽 재건(147:13) 때의 것이라고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "같은 자료는 자유주의 학자들이 시편에 늦은 연대를 붙이는 경향이 있었으나, 마카비 시대에 해당하는 사해 사본 발견이 가장 늦은 시편의 시기를 페르시아 시대로 보게 한다고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Utley는 시편 연대 판정이 어려운 이유를 한 시편이 특정 계기로 지어졌고, 한 사람의 시가 공동체의 말이 되었으며, 편집 과정을 거쳐 다섯 권으로 모였기 때문이라고 설명하고, 현대 학계가 시편을 포로 이전(1·2·4권), 포로기(3권), 포로 후(5권)로 나눈다고 소개한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "편찬: Encyclopedia of the Bible은 다윗이 1권을 그의 사망(주전 970년) 전에 모았고, 솔로몬이 2권 끝의 송영(72:18–20)을 썼으며, 3권은 주전 586년 직후 고라 자손이 완성했고, 5권은 주전 537년 귀환 후에 이뤄졌으며 에스라가 최종 편집했을 수 있다고 설명한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 사해 사본 시편 사본들이 시편 모음의 정확한 순서와 범위가 아직 유동적이었음을 보여 준다고 설명한다.",
+     "refs": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "heading": "지리와 여정",
+   "discipline": "성경 배경(지리)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 시편이 특정 계기를 거의 언급하지 않고 언어가 열려 있어 예배 모임·대관식·절기·개인 기도 등 공동체의 지속적 사용을 반영한다고 설명한다. 많은 시가 성전이나 특정 행렬과 제사에서 쓰였음을 암시한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 일부 시편이 예루살렘 순례길에서 부르도록 쓰였고, 다른 시편은 예루살렘에 있는 야훼의 임재를 기념하도록 쓰였다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "시편 137편 본문은 '바벨론의 강가에서 우리가 앉아 시온을 기억하며 울었다'고 말한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "이 권에 해당하는 여정은 공용 지리 자료(shared/geo.json)에 아직 없어 지도 정보는 비워 두었다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "heading": "언어와 이름",
+   "discipline": "주경신학(원어·본문)",
+   "sentences": [
+    {
+     "text": "Encyclopedia of the Bible은 히브리어 제목이 '찬양들'(테힐림)이며 영어·그리스어·라틴어 성경의 이름은 그리스어 psalmos에서 왔다고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 영어 제목 Psalms가 칠십인역에서 책 이름이던 그리스어 psalmos에서 왔다고 설명하고, Utley는 이 단어가 '뜯다'를 뜻한다고 설명한다.",
+     "refs": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Utley는 표제의 음악 용어를 설명하며 셀라가 39편에서 71번 쓰이나 뜻이 불확실하고, 미즈모르는 '뜯다'를 뜻하며, 믹담도 뜻이 불확실하다고 한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 시편 표제에 배정·음악·문학 유형과 목적·저자·계기의 다섯 요소가 있을 수 있으며 60편만 다섯 모두를 갖는다고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Utley는 1권에서는 야훼, 2권에서는 엘로힘이 하나님의 이름으로 두드러진다고 설명한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 시편이 히브리 시의 형식적 특징을 지니며 그 핵심이 운율이 아닌 사상의 평행법(뒤따르는 구절이 앞 구절을 반복하거나 부연함)이라고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 본문이 대체로 잘 보존되었다고 하되, 22:16에서 후대 유대인이 메시아 예언을 피하려 읽기를 바꾼 시도가 교리적으로 중요한 유일한 변경이라고 설명한다.",
+     "refs": [
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "heading": "문화(일부): 예배·찬양과 고대 근동 시가",
+   "discipline": "성경 배경(문화)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 시편이 고대 기도와 찬송의 책으로 다양한 경우에 쓰인 여러 노래를 담으며 절기용 예전(유월절·칠칠절 등), 왕의 대관식 시, 하나님의 왕권을 기리는 시, 감사의 노래, 개인과 공동체의 애가가 있다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "같은 자료는 표제의 음악 용어가 시편 다수가 악기 반주와 함께 연주되었음을 암시한다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Utley는 시편이 고대 근동에 흔한 문학 형식이며 바빌로니아·이집트·가나안의 찬가와 형식을 공유한다고 설명한다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Utley는 시 104:20–30과 이집트의 아톤 찬가(주전 14세기)를 학자들이 가까운 관련이 있는 것으로 본다고 하고, 시 29편이 신의 이름만 빼면 우가리트의 바알 시와 거의 같다고 소개한다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Utley는 이 문학 형식이 이스라엘 안에서도 오랜 장르였다며 모세의 노래(출 15:1–17), 드보라의 노래(삿 5장) 등을 든다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Utley는 세 주요 형태로 찬양시, 애가시, 지혜시를 든다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Utley는 시편이 하나님과 언약으로 맺어진 삶의 깊은 감정의 표현이며 공적 예배와 개인 경건에 모두 쓰였다고 설명한다.",
+     "refs": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "interpretation",
+   "heading": "해석 쟁점",
+   "discipline": "성경개론·조직신학 접점",
+   "sentences": [
+    {
+     "text": "표제: Utley는 표제를 영감된 것이 아니라고 보는 반면, Encyclopedia of the Bible은 표제를 진정한 것으로 보며 신약이 다윗의 작품이라는 귀속을 반복해 확인한다고 설명한다.",
+     "refs": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 이 표제가 해당 시를 이스라엘 역사의 특정 순간에 붙이지만 시의 언어는 열려 있어 공동체의 지속적 사용을 반영한다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "다윗 저작의 범위: Utley는 마소라 본문이 다윗에게 73편, 칠십인역이 84편, 불가타가 53편을 돌린다고 소개한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 구약에 다윗보다 훨씬 이전의 시편 형식 시(출 15; 신 32–33; 삿 5)가 있음을 이제 모두가 인정한다고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Utley는 일부 해석자가 시편을 아침 신문처럼 자기에게 직접 쓴 글로 읽는 문제를 지적하며 저자의 요점을 먼저 찾아야 한다고 한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Utley는 시편이 새 언약이 아니라 모세 언약이며 신약의 계시에 비추어 해석·적용해야 한다고 보고, 신약이 구약의 올바른 해석자라고 말한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "정경성: Encyclopedia of the Bible은 150편이 하나님의 영감을 받았다고 보며 사해 사본 시편이 마카비 시대에 시편 모음이 고정되었음을 보여 준다고 설명한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 예수가 '시편'을 일반적으로 언급한 것(눅 24:44)이 1세기 시편 모음의 권위를 보여 준다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "Utley는 시편이 히브리 정경의 세 번째 부분인 '성문서'에 속한다고 설명하고, Encyclopedia of the Bible도 시편이 성문서의 시작이라고 설명한다.",
+     "refs": [
+      3,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "theology",
+   "heading": "성경신학적 위치와 주제",
+   "discipline": "성경신학",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 시편이 찬양·예배·애가의 본을 세대를 넘어 하나님의 백성에게 주며 이 주제들이 인간사에 직접 개입하시는 야훼의 성품을 보여 준다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "같은 자료는 찬양과 성전 예전이 우주의 왕의 임재를 경험하도록 준비시키고 애가는 야훼께 긍휼을 구한다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 시편이 하나님의 존재를 증명하려 하지 않으며, 19편과 119편을 계시의 시로 꼽으며 19편이 일반 계시(자연)와 특별 계시(말씀)를 함께 다루고 119편이 모세 율법을 다룬다고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 시편 115편이 다른 신들은 우상일 뿐이라며 유일신론을 확인한다고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "시편 1편은 '야훼의 율법을 즐거워하고 밤낮으로 묵상하는 사람'이 복되다고 말하고, 2편은 열방이 야훼와 그분의 기름 부음 받은 자를 거스른다고 말한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "Faithlife Study Bible은 일부 시가 하나님의 메시아를 내다보며 예수 안에서 궁극적 성취를 찾는다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "Utley는 시편이 신약 인용을 보면 계시적이며 하나님·인간·죄·소망·메시아·회복에 대한 진리를 반영한다고 설명한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "시편 22:1은 \"내 하나님, 내 하나님, 어찌하여 나를 버리셨나이까\"로 시작한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 신약이 다윗의 시로 확인하는 시편으로 16, 32, 69, 110편 등을 든다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "이 책이 신약에서 인용·암시되는 곳 전체 목록과 다른 구약이 시편을 회상하는 곳의 전체 목록은 이름 있는 자료로 확인하지 못해 이 개관에 쓰지 않았다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "canon-links",
+   "heading": "다른 권과의 연결(상호참조 그물)",
+   "discipline": "성경신학(정경 안의 연결) — 자료 기반 부분",
+   "sentences": [
+    {
+     "text": "OpenBible.info 상호참조 자료(득표가 0보다 큰 항목)에서 시편 구절을 다른 권의 구절과 잇는 연결은 모두 41,275건이다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "이 가운데 구약의 다른 권과의 연결은 28,915건, 신약과의 연결은 12,360건이다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "연결이 가장 많은 책은 이사야(4,530건), 욥기(2,498건), 예레미야(2,231건), 잠언(1,915건), 신명기(1,510건), 마태복음(1,489건), 창세기(1,478건), 누가복음(1,461건) 순이다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "시편 안에서 다른 권과의 연결이 가장 많이 몰린 장은 119장(2,160건), 78장(1,124건), 106장(975건), 37장(862건), 89장(815건), 18장(742건) 순이다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "득표가 가장 많은 연결은 시 33:11 ↔ 렘 29:11(962표), 시 37:5 ↔ 잠 3:5(858표), 시 40:5 ↔ 렘 29:11(593표), 시 139:23 ↔ 잠 4:23(478표), 시 37:3 ↔ 잠 3:5(449표), 시 23:1 ↔ 빌 4:19(448표) 등이다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "이 득표는 사용자들이 두 구절을 함께 읽을 연결로 지지한 정도이며, 인용이나 영향의 크기를 판정한 값이 아니다.",
+     "refs": [
+      10
+     ]
+    }
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "n": 1,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Psalms'",
+   "where": "도입 첫 문단과 'Background'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOPSALMS",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 2,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Psalms'",
+   "where": "'Structure'와 'Outline'과 'Themes'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOPSALMS",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 3,
+   "cite": "Bob Utley, 'Introduction to the Psalms'(Bible Lessons International)",
+   "where": "'NAME OF THE BOOK', 'CANONIZATION', 'GENRE'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL09BOT/VOL09BOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 4,
+   "cite": "Bob Utley, 'Introduction to the Psalms'(Bible Lessons International)",
+   "where": "'AUTHORSHIP', 'DATE', 'THE STRUCTURE OF THE PSALTER'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL09BOT/VOL09BOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 5,
+   "cite": "Bob Utley, 'Introduction to the Psalms'(Bible Lessons International)",
+   "where": "'MUSICAL TERMS', 'PURPOSE OF PSALMS', 'INTERPRETIVE PROCEDURES'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL09BOT/VOL09BOT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 6,
+   "cite": "'Psalms, Book of', Encyclopedia of the Bible(Zondervan; BibleGateway 게시본) — 게시본이 VI항 중간에서 끊겨 I–VI항까지만 읽음",
+   "where": "I·II·III항(이름·저자·때)",
+   "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Psalms",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 7,
+   "cite": "'Psalms, Book of', Encyclopedia of the Bible(Zondervan; BibleGateway 게시본) — 게시본이 VI항 중간에서 끊겨 I–VI항까지만 읽음",
+   "where": "IV·V항(편찬·정경성)",
+   "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Psalms",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 8,
+   "cite": "'Psalms, Book of', Encyclopedia of the Bible(Zondervan; BibleGateway 게시본) — 게시본이 VI항 중간에서 끊겨 I–VI항까지만 읽음",
+   "where": "VI항(내용) 앞부분",
+   "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Psalms",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 9,
+   "cite": "World English Bible(ebible.org) 시편 1:1–6, 2:1–12, 19:1–4, 22:1–2, 23:1–6, 41:13, 72:18–20, 89:52, 90:1–2, 106:48, 119:1–8, 137:1–6, 145:1–3, 150:1–6",
+   "where": "시 1:1–6; 2:1–12; 19:1–4; 22:1–2; 23:1–6; 41:13; 72:18–20; 89:52; 90:1–2; 106:48; 119:1–8; 137:1–6; 145:1–3; 150:1–6",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 10,
+   "cite": "OpenBible.info, Cross-references(CC BY, 2026-11-02판) — 구절 사이 상호참조 344,800행(성경 전체)",
+   "where": "cross_references.txt 전체. 한 행 = 출발 구절, 도착 구절(범위일 수 있음), 득표수",
+   "url": "https://www.openbible.info/labs/cross-references/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  }
+ ],
+ "geo": null,
+ "links": {
+  "source": 10,
+  "total": 41275,
+  "ot": 28915,
+  "nt": 12360,
+  "byBook": [
+   {
+    "book": 23,
+    "name": "이사야",
+    "count": 4530,
+    "votes": 42372
+   },
+   {
+    "book": 18,
+    "name": "욥기",
+    "count": 2498,
+    "votes": 13512
+   },
+   {
+    "book": 24,
+    "name": "예레미야",
+    "count": 2231,
+    "votes": 18182
+   },
+   {
+    "book": 20,
+    "name": "잠언",
+    "count": 1915,
+    "votes": 21929
+   },
+   {
+    "book": 5,
+    "name": "신명기",
+    "count": 1510,
+    "votes": 8706
+   },
+   {
+    "book": 40,
+    "name": "마태복음",
+    "count": 1489,
+    "votes": 15470
+   },
+   {
+    "book": 1,
+    "name": "창세기",
+    "count": 1478,
+    "votes": 9445
+   },
+   {
+    "book": 42,
+    "name": "누가복음",
+    "count": 1461,
+    "votes": 10814
+   },
+   {
+    "book": 2,
+    "name": "출애굽기",
+    "count": 1396,
+    "votes": 8553
+   },
+   {
+    "book": 66,
+    "name": "요한계시록",
+    "count": 1290,
+    "votes": 8286
+   },
+   {
+    "book": 44,
+    "name": "사도행전",
+    "count": 1118,
+    "votes": 6416
+   },
+   {
+    "book": 26,
+    "name": "에스겔",
+    "count": 1106,
+    "votes": 5506
+   }
+  ],
+  "topChapters": [
+   {
+    "chapter": 119,
+    "count": 2160
+   },
+   {
+    "chapter": 78,
+    "count": 1124
+   },
+   {
+    "chapter": 106,
+    "count": 975
+   },
+   {
+    "chapter": 37,
+    "count": 862
+   },
+   {
+    "chapter": 89,
+    "count": 815
+   },
+   {
+    "chapter": 18,
+    "count": 742
+   },
+   {
+    "chapter": 107,
+    "count": 700
+   },
+   {
+    "chapter": 105,
+    "count": 656
+   },
+   {
+    "chapter": 50,
+    "count": 652
+   },
+   {
+    "chapter": 72,
+    "count": 628
+   }
+  ],
+  "topPairs": [
+   {
+    "here": "시 33:11",
+    "there": "렘 29:11",
+    "votes": 962
+   },
+   {
+    "here": "시 37:5",
+    "there": "잠 3:5",
+    "votes": 858
+   },
+   {
+    "here": "시 40:5",
+    "there": "렘 29:11",
+    "votes": 593
+   },
+   {
+    "here": "시 139:23",
+    "there": "잠 4:23",
+    "votes": 478
+   },
+   {
+    "here": "시 37:3",
+    "there": "잠 3:5",
+    "votes": 449
+   },
+   {
+    "here": "시 23:1",
+    "there": "빌 4:19",
+    "votes": 448
+   },
+   {
+    "here": "시 62:8",
+    "there": "잠 3:5",
+    "votes": 430
+   },
+   {
+    "here": "시 23:1",
+    "there": "요 10:11",
+    "votes": 384
+   },
+   {
+    "here": "시 51:16",
+    "there": "삼상 15:22",
+    "votes": 375
+   },
+   {
+    "here": "시 55:22",
+    "there": "벧전 5:7",
+    "votes": 374
+   },
+   {
+    "here": "시 37:4",
+    "there": "요 15:7",
+    "votes": 370
+   },
+   {
+    "here": "시 34:9",
+    "there": "마 6:33",
+    "votes": 370
+   },
+   {
+    "here": "시 119:101",
+    "there": "렘 15:16",
+    "votes": 359
+   },
+   {
+    "here": "시 35:1",
+    "there": "수 23:10",
+    "votes": 341
+   },
+   {
+    "here": "시 27:1",
+    "there": "사 41:10",
+    "votes": 321
+   },
+   {
+    "here": "시 118:6",
+    "there": "히 13:6",
+    "votes": 314
+   },
+   {
+    "here": "시 55:22",
+    "there": "빌 4:6",
+    "votes": 311
+   },
+   {
+    "here": "시 37:7",
+    "there": "잠 3:5",
+    "votes": 310
+   },
+   {
+    "here": "시 31:19",
+    "there": "고전 2:9",
+    "votes": 296
+   },
+   {
+    "here": "시 118:6",
+    "there": "롬 8:31",
+    "votes": 296
+   }
+  ],
+  "todo": "정경 안의 위치 중 구약 후대 권의 회상·재진술과 신약 인용·암시 목록은 이름 있는 학술 자료(성경신학 사전·주석)로 별도 작성 예정. 이 자료 기반 수치와 섞지 않는다."
+ }
+}
