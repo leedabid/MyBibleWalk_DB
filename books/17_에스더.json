@@ -1,0 +1,832 @@
+{
+ "schema": 1,
+ "book": 17,
+ "name": "에스더",
+ "status": "draft",
+ "updated": "2026-11-04",
+ "framework": "보스 4분과(넓은 의미의 주경신학 안에 성경개론·성경신학·본문 주해)",
+ "notes": [
+  "문장마다 근거 번호가 있으며, 근거 번호의 출처는 refs에서 확인할 수 있다. 근거 확인은 2026-11-04에 해당 페이지를 직접 열어 읽는 방식으로 했다.",
+  "출처가 '연구 성경(스터디 바이블) 서론'인 내용은 해당 성경의 해설이며 특정 신학 전통의 관점일 수 있다.",
+  "에스더서의 장르(역사 서사인가 문학적 허구인가)와 역사성은 학계에서 논쟁 중이다. Encyclopedia of the Bible과 Utley는 역사성을 옹호하는 보수적 입장에 가까우며, 반대편 학자의 견해는 Utley가 소개한 범위(유대 연구 성경의 해설, 아델 벌린)만 반영했다. 비평 학계 자신의 글은 읽지 않았다.",
+  "모르드개와 에스더의 행동(예: 추가 학살과 하만의 아들들 처형)에 대한 윤리적 평가는 자료가 밝힌 범위 안에서만 적었다.",
+  "칠십인역(외경 에스더 추가본)의 별도 내용은 자료가 소개한 범위에서만 언급했다.",
+  "이 책의 `geo`는 공용 지리 자료에 여정이 없어 비워 두었다.",
+  "문화·언어 섹션은 일부 항목만 작성되었다. 개별 본문의 의미는 본문 주해에서 다룬다.",
+  "구약 후대 권에서의 회상과 신약 인용·암시의 전체 목록은 아직 작성되지 않았다(읽기 도움 섹션도 미작성).",
+  "'다른 권과의 연결' 섹션의 수치는 OpenBible.info 상호참조 자료를 기계적으로 센 것이다. 해석적 설명은 성경신학 섹션에 별도로 각주와 함께 썼다."
+ ],
+ "sections": [
+  {
+   "id": "overview",
+   "heading": "한눈에 보기",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 에스더서가 하나님이 멀게 느껴질 때에도 임재하신다는 것을 보여 주는 책이라고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "같은 자료에 따르면 포로 시대의 유대 여인 에스더가 페르시아의 왕비가 되고, 하만이 제국 전역의 유대인을 죽일 음모를 꾸미며, 에스더와 사촌 모르드개가 그 시도를 드러낸다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "같은 자료는 모르드개의 지혜, 에스더의 용기, 하나님의 보이지 않는 손이 함께 유대인 포로들을 멸망에서 구했다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 이 책이 부림절의 기원을 설명하고 모든 세대의 유대 민족이 이를 지키도록 하기 위해 쓰였다고 설명한다(9:28).",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 이 책의 주된 목적이 부림절의 기원을 이야기하는 것이라고 설명한다.",
+     "refs": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "heading": "구조와 개요",
+   "discipline": "성경개론(넓은 의미의 주경신학)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 에스더서가 아이러니·비극·희극을 쓰는 연극처럼 기능하며 두 막으로 나뉜다고 설명한다. 전반(1–5장)은 유대인에 대한 위험이 커지고 후반(6–10장)은 구원받는다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "같은 자료의 개요: 에스더와 모르드개의 부상(1:1–2:23), 유대인이 위협당함(3:1–4:17) 등.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "같은 자료는 1장에서 왕이 아내를 부르나 와스디가 거절하고, 2장에서 모르드개가 암살 음모를 막으며 에스더가 왕비가 되고, 3장에서 모르드개가 하만에게 절하지 않아 하만이 유대인 몰살 칙령을 얻는다고 요약한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "같은 자료는 4장에서 모르드개가 에스더에게 왕에게 말하라고 간청하고 에스더가 목숨을 걸고 왕에게 나아가며, 6장에서 하만이 모르드개를 높이도록 강요받고, 7장에서 하만이 모르드개를 위해 세운 교수대에서 처형된다고 설명한다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블의 개요: 서론(1:1–2:23), 주된 사건(3:1–9:19), 결론(9:20–10:3).",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "Utley는 NIV 스터디 바이블의 세 잔치 구조를 소개한다. 왕의 잔치(1:1–2:18), 에스더의 잔치(2:19–7:10), 부림절 잔치(8–10장).",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 히브리어 본문에서 일부 사람들이 통일성을 의심하는 유일한 부분이 9:20–10:3이며, 이 부분은 앞서 기록된 사실이 어떻게 부림절 지킴의 기원이 되었는지를 보여 준다고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "같은 자료는 칠십인역에 107절이 더 있고(외경의 에스더 추가본), 이 추가는 히브리어 본문에 없는 하나님의 이름을 도입하는 교정으로 보인다고 설명한다.",
+     "refs": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "history",
+   "heading": "역사 배경",
+   "discipline": "성경개론·성경 배경",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 에스더서의 배경이 바빌로니아 포로 종료 후 55–65년쯤이며, 수사의 아하수에로 왕(크세르크세스, 기원전 486–465년 통치)의 궁정이라고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "같은 자료는 이 책이 대략 기원전 400–200년 사이에 쓰였을 가능성이 높다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 일부 유대인은 예루살렘으로 돌아갔고 에스더와 모르드개 같은 다른 이들은 여전히 포로 상태였으며, 소수 집단으로서 의심을 받고 때로 존립의 위협을 당했다고 설명한다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "Utley는 아하수에로가 역사상 크세르크세스 1세로 알려진 왕이라는 데 대부분의 학자가 동의한다고 설명하고, 칠십인역과 요세푸스는 그를 아닥사스다라 부른다고 소개한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 같은 동일시를 가정하여, 왕이 아닥사스다 1세였다면 에스더가 에스라가 파견된 해에 혼인한 셈이 되며, 유일한 진지한 대안은 아닥사스다 2세(기원전 404–359년)라고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Utley는 이 책의 연대를 5세기 후반으로 보는 것이 설득력 있다고 보며 근거로 에스더의 히브리어 형태가 역대기·에스라·느헤미야와 비슷한 점과 페르시아 차용어, 저자의 페르시아 궁정 지식을 든다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Utley는 니푸르 쐐기문자 판이 아닥사스다 1세 시기 메소포타미아에 큰 유대인 인구가 있었음을 확인해 준다고 설명하고, 페르세폴리스의 엘람어 서판이 모르드개라는 이름의 궁문 관리를 기록한다고 설명한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "에스더 1:1–3은 아하수에로가 인도에서 구스까지 일백이십칠 도를 다스렸고 통치 삼 년에 모든 방백과 신하를 위해 잔치를 베풀었다고 한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "에스더 2:16–18은 에스더가 아하수에로 칠 년 데벳월에 왕에게 나아갔고 왕이 그를 와스디 대신 왕후로 삼았다고 한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "에스더 3:7은 아하수에로 십이 년 첫째 달 니산월에 하만 앞에서 부르, 곧 제비를 뽑아 열두째 달 아달월을 택했다고 한다.",
+     "refs": [
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "heading": "지리와 여정",
+   "discipline": "성경 배경(지리)",
+   "sentences": [
+    {
+     "text": "Faithlife Study Bible은 이야기가 수산(수사)에서 전개되며 수산은 페르시아만 북쪽 약 150마일, 오늘날 이란 서부 경계 가까이에 있었다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "같은 자료는 고레스가 바빌로니아를 정복하기 얼마 전쯤 엘람 사람들에게서 수산을 빼앗았고, 다리오 1세가 수산을 제국의 주요 수도로 삼았다고 설명한다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "에스더 1:1–2는 아하수에로가 수산 궁에서 왕위에 앉았다고 한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "에스더 2:5–6은 수산 도성에 사는 유대인 모르드개를 소개하며, 예루살렘에서 여고냐와 함께 사로잡혀 간 일을 언급한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "에스더 4:16은 에스더가 수산에 있는 모든 유대인을 모아 자기를 위해 사흘 금식하라고 청했다고 한다.",
+     "refs": [
+      11
+     ]
+    },
+    {
+     "text": "에스더 8:9와 1:1은 왕의 조서가 인도에서 구스까지 일백이십칠 도에 보내졌다고 한다.",
+     "refs": [
+      10,
+      11
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 에스더 시대에 페르시아 제국이 최대 영역에 이르렀고 하만의 음모가 제국 전역의 유대인 거의 전체를 멸절시켰을 것이라고 설명한다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "이 책의 장소들을 담은 공용 지리 자료의 여정은 아직 없으므로 이 개관의 `geo`는 비워 두었다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "heading": "언어와 이름",
+   "discipline": "주경신학(원어·본문)",
+   "sentences": [
+    {
+     "text": "Utley는 이 책이 페르시아 왕비의 이름을 따랐고, 에스더의 히브리어 이름이 '하닷사'(도금양)라고 설명한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "에스더 2:7은 모르드개가 하닷사, 곧 에스더를 길렀다고 한다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 부림이라는 이름이 아시리아어 '푸루'(제비뽑기에 쓰는 작은 돌)와 연결된다고 설명한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "에스더 9:24–26은 '부르', 곧 제비에서 따서 이 날들을 '부림'이라 불렀다고 한다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "Utley는 이 책이 하나님의 이름을 전혀 언급하지 않는다고 하며, 칠십인역은 훨씬 길고 모르드개와 에스더의 기도가 들어 있다고 설명한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Utley는 아하수에로가 페르시아어에서 '강한 사람' 또는 '강한 눈'을 뜻한다고 설명한다.",
+     "refs": [
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "heading": "문화(일부): 부림절·궁정·금식",
+   "discipline": "성경 배경(문화)",
+   "sentences": [
+    {
+     "text": "에스더 9:20–28은 모르드개가 이 일을 기록해 모든 유대인에게 아달월 십사 일과 십오 일을 해마다 지키게 했고, 잔치와 기쁨의 날로 서로 음식을 보내고 가난한 자에게 선물을 주는 날이라고 한다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "에스더 9:29–32는 에스더 왕후와 모르드개가 부림에 관한 두 번째 편지를 확정했다고 한다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "Utley는 에스더서가 두루마리 다섯 권(메길롯)의 하나이며 부림절에 낭독된다고 설명한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 궁전의 구조, 일곱 고문관, 왕에게 나아가기의 어려움, 왕의 옷을 입혀 총애하는 신하를 영예롭게 하는 관습 등이 헤로도토스를 통해 알려진 사실과 일치하는 부수적 세부라고 설명한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "에스더 4:11, 5:1–3은 부르지 않고 왕에게 나아가면 법에 걸리며, 왕이 금홀을 내밀면 살 수 있다는 장면을 보여 준다.",
+     "refs": [
+      11
+     ]
+    },
+    {
+     "text": "에스더 4:16은 에스더가 사흘 밤낮 먹지도 마시지도 말고 금식하라고 요청했다고 한다.",
+     "refs": [
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": "interpretation",
+   "heading": "해석 쟁점",
+   "discipline": "성경개론·조직신학 접점",
+   "sentences": [
+    {
+     "text": "정경성: Utley는 에스더서가 하나님의 이름·성전·모세 율법 등을 언급하지 않아 히브리 정경에 포함되기 어려웠다고 설명하고, 사해 사본 중 에스더의 사본이 없으며 신약에 인용되지 않는다고 지적한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 얌니아의 랍비들이 이 책이 모세 율법에 없는 절기를 의무로 정했다는 점을 주된 반대 이유로 들었다고 설명한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "장르와 역사성: Utley는 이 책을 역사 서사로 보는 입장과 역사적 허구(소설)로 보는 입장을 소개하고, 자신은 이 책의 역사성을 포기하지 않는다고 밝힌다.",
+     "refs": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Utley는 유대 연구 성경이 이 책을 '희극으로 읽는 것이 최선'이라 하고 아델 벌린의 결론은 순전히 문학적이고 역사적이지 않다는 것이라고 소개한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 역사성에 대한 여러 반론(헤로도토스가 에스더·와스디를 언급하지 않음, 127도 대 20총독령, 모르드개 나이 문제, 부림절이 늦게 언급됨 등)을 소개하고 각각에 답한 뒤, 이 책이 스스로 제시하는 대로 진짜 역사라고 보지 않을 충분한 이유가 없다고 결론짓는다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "저자와 연대: Encyclopedia of the Bible은 책이 익명이며 모르드개 자신이 저자일 가능성이 있다고 하고, 많은 이가 2세기 마카비 시대의 박해 아래 쓰였다고 본다고 소개한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 저자가 모르드개 같은 인물일 가능성이 있다고 설명하나, Utley는 아무도 알지 못한다고 한다.",
+     "refs": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "모르드개의 대응: Encyclopedia of the Bible은 모르드개가 수산에서 명한 추가 학살과 하만의 아들들을 매단 일(9:13–15)을 모두 승인할 필요는 없다고 설명한다.",
+     "refs": [
+      9
+     ]
+    },
+    {
+     "text": "하나님의 이름의 부재: Encyclopedia of the Bible은 하나님의 이름이 없다고 해서 그분의 손이 없는 것은 아니며, 4:16의 금식(기도 포함)이 하나님의 계획이 이루어지는 일부였다고 설명한다.",
+     "refs": [
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "theology",
+   "heading": "성경신학적 위치와 주제",
+   "discipline": "성경신학",
+   "sentences": [
+    {
+     "text": "ESV 글로벌 스터디 바이블의 핵심 주제: 하나님의 섭리(하나님이 가장 숨어 계실 때에도 일하신다), 인간의 책임(에스더와 모르드개의 용기), 악의 어리석음.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "ESV 글로벌 스터디 바이블은 에스더서가 아브라함에서 그리스도와 교회까지 이어지는 더 큰 이야기의 일부이며, 하만이 성공했다면 그리스도 안의 성취가 없었을 것이라고 설명한다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "에스더 4:14의 모르드개는 에스더가 침묵하면 다른 곳에서 구원이 오겠지만 에스더와 그 집은 멸망할 것이며 \"네가 왕후의 자리를 얻은 것이 이때를 위함인지 누가 알겠느냐\"고 말한다.",
+     "refs": [
+      11
+     ]
+    },
+    {
+     "text": "Utley는 이 책이 박해 때 하나님께 대한 신실함을 격려하며 역사 속 하나님의 인도하시는 손(에 4:14의 '보이지 않는 손')을 보여 준다고 설명한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "Utley는 일부 해석자들이 에스더를 메시아 계보를 끊으려는 사탄의 또 다른 시도로 본다고 소개한다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "앞 권과의 연결: Utley는 에스더가 에스라 6장과 7장 사이에 놓이며 에스라 기록에는 57년의 공백이 있다고 설명한다.",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "text": "Encyclopedia of the Bible은 왕이 아닥사스다 1세라면 에스더가 에스라가 파견된 해에 혼인한 것이고 느헤미야 때 왕후였을 것이라는 연결을 소개한다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "Utley는 에스더가 룻기처럼 신약에서 인용되지 않는다고 지적한다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "이 책이 신약에서 암시되는 본문의 목록과 다른 구약이 에스더서를 회상하는 곳 전체는 이름 있는 자료로 확인하지 못해 이 개관에 쓰지 않았다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "canon-links",
+   "heading": "다른 권과의 연결(상호참조 그물)",
+   "discipline": "성경신학(정경 안의 연결) — 자료 기반 부분",
+   "sentences": [
+    {
+     "text": "OpenBible.info 상호참조 자료(득표가 0보다 큰 항목)에서 에스더 구절을 다른 권의 구절과 잇는 연결은 모두 1,428건이다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "이 가운데 구약의 다른 권과의 연결은 1,154건, 신약과의 연결은 274건이다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "연결이 가장 많은 책은 시편(143건), 다니엘(126건), 잠언(96건), 창세기(93건), 이사야(74건), 욥기(56건), 열왕기상(55건), 예레미야(53건) 순이다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "에스더 안에서 다른 권과의 연결이 가장 많이 몰린 장은 1장(198건), 3장(184건), 8장(182건), 9장(165건), 4장(160건), 5장(147건) 순이다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "득표가 가장 많은 연결은 에 4:14 ↔ 창 45:4(52표), 에 4:14 ↔ 삼상 12:22(45표), 에 4:14 ↔ 신 32:36(26표), 에 9:19 ↔ 느 8:10(24표), 에 4:14 ↔ 사 54:17(22표), 에 9:22 ↔ 느 8:10(20표) 등이다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "이 득표는 사용자들이 두 구절을 함께 읽을 연결로 지지한 정도이며, 인용이나 영향의 크기를 판정한 값이 아니다.",
+     "refs": [
+      13
+     ]
+    }
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "n": 1,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Esther'",
+   "where": "도입 첫 문단과 'Background'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOESTHER",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 2,
+   "cite": "Faithlife Study Bible(Logos Bible Software, 2012), 'Introduction to Esther'",
+   "where": "'Structure'와 'Outline'",
+   "url": "https://biblia.com/books/fsb/article/SIDEBAR.INTRODUCTIONTOESTHER",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 3,
+   "cite": "ESV Global Study Bible(Crossway, 2012), 'Introduction to Esther'",
+   "where": "'Author and Date'와 'Overview and Purpose'",
+   "url": "https://www.esv.org/resources/esv-global-study-bible/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 4,
+   "cite": "ESV Global Study Bible(Crossway, 2012), 'Introduction to Esther'",
+   "where": "'Key Themes', 'Outline', 'The Persian Empire at the Time of Esther'",
+   "url": "https://www.esv.org/resources/esv-global-study-bible/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 5,
+   "cite": "Bob Utley, 'Introduction to Esther'(Bible Lessons International, 2014)",
+   "where": "'NAME OF THE BOOK'와 'CANONIZATION'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL08OT/VOL08COT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 6,
+   "cite": "Bob Utley, 'Introduction to Esther'(Bible Lessons International, 2014)",
+   "where": "'GENRE', 'AUTHORSHIP', 'DATE'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL08OT/VOL08COT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 7,
+   "cite": "Bob Utley, 'Introduction to Esther'(Bible Lessons International, 2014)",
+   "where": "'SOURCES CORROBORATING THE HISTORICAL SETTING', 'LITERARY UNITS', 'MAIN TRUTHS'",
+   "url": "https://freebiblecommentary.org/old_testament_studies/VOL08OT/VOL08COT_introduction.html",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 8,
+   "cite": "'Esther, Book of', Encyclopedia of the Bible(Zondervan; BibleGateway 게시본)",
+   "where": "1·2·3·4항(배경·통일성·저자·목적)",
+   "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Esther",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 9,
+   "cite": "'Esther, Book of', Encyclopedia of the Bible(Zondervan; BibleGateway 게시본)",
+   "where": "5·6·7·8항(정경성·특별 문제·내용·신학)",
+   "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Esther",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 10,
+   "cite": "World English Bible(ebible.org) 에스더 1:1–3, 1:10–12, 2:5–7, 2:16–18, 3:1–6, 3:7–9, 3:12–13",
+   "where": "에 1:1–3; 1:10–12; 2:5–7; 2:16–18; 3:1–6; 3:7–9; 3:12–13",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 11,
+   "cite": "World English Bible(ebible.org) 에스더 4:12–17, 5:1–3, 6:1–3, 7:3–6, 7:9–10, 8:9–11",
+   "where": "에 4:12–17; 5:1–3; 6:1–3; 7:3–6; 7:9–10; 8:9–11",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 12,
+   "cite": "World English Bible(ebible.org) 에스더 9:20–28, 9:29–32, 10:1–3",
+   "where": "에 9:20–28; 9:29–32; 10:1–3",
+   "url": "https://ebible.org/web/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  },
+  {
+   "n": 13,
+   "cite": "OpenBible.info, Cross-references(CC BY, 2026-11-02판) — 구절 사이 상호참조 344,800행(성경 전체)",
+   "where": "cross_references.txt 전체. 한 행 = 출발 구절, 도착 구절(범위일 수 있음), 득표수",
+   "url": "https://www.openbible.info/labs/cross-references/",
+   "accessed": "2026-11-04",
+   "level": "full",
+   "evidence": []
+  }
+ ],
+ "geo": null,
+ "links": {
+  "source": 13,
+  "total": 1428,
+  "ot": 1154,
+  "nt": 274,
+  "byBook": [
+   {
+    "book": 19,
+    "name": "시편",
+    "count": 143,
+    "votes": 509
+   },
+   {
+    "book": 27,
+    "name": "다니엘",
+    "count": 126,
+    "votes": 416
+   },
+   {
+    "book": 20,
+    "name": "잠언",
+    "count": 96,
+    "votes": 393
+   },
+   {
+    "book": 1,
+    "name": "창세기",
+    "count": 93,
+    "votes": 339
+   },
+   {
+    "book": 23,
+    "name": "이사야",
+    "count": 74,
+    "votes": 258
+   },
+   {
+    "book": 18,
+    "name": "욥기",
+    "count": 56,
+    "votes": 164
+   },
+   {
+    "book": 11,
+    "name": "열왕기상",
+    "count": 55,
+    "votes": 162
+   },
+   {
+    "book": 24,
+    "name": "예레미야",
+    "count": 53,
+    "votes": 167
+   },
+   {
+    "book": 9,
+    "name": "사무엘상",
+    "count": 49,
+    "votes": 187
+   },
+   {
+    "book": 44,
+    "name": "사도행전",
+    "count": 47,
+    "votes": 144
+   },
+   {
+    "book": 15,
+    "name": "에스라",
+    "count": 45,
+    "votes": 132
+   },
+   {
+    "book": 10,
+    "name": "사무엘하",
+    "count": 44,
+    "votes": 120
+   }
+  ],
+  "topChapters": [
+   {
+    "chapter": 1,
+    "count": 198
+   },
+   {
+    "chapter": 3,
+    "count": 184
+   },
+   {
+    "chapter": 8,
+    "count": 182
+   },
+   {
+    "chapter": 9,
+    "count": 165
+   },
+   {
+    "chapter": 4,
+    "count": 160
+   },
+   {
+    "chapter": 5,
+    "count": 147
+   },
+   {
+    "chapter": 7,
+    "count": 141
+   },
+   {
+    "chapter": 6,
+    "count": 111
+   },
+   {
+    "chapter": 2,
+    "count": 107
+   },
+   {
+    "chapter": 10,
+    "count": 33
+   }
+  ],
+  "topPairs": [
+   {
+    "here": "에 4:14",
+    "there": "창 45:4",
+    "votes": 52
+   },
+   {
+    "here": "에 4:14",
+    "there": "삼상 12:22",
+    "votes": 45
+   },
+   {
+    "here": "에 4:14",
+    "there": "신 32:36",
+    "votes": 26
+   },
+   {
+    "here": "에 9:19",
+    "there": "느 8:10",
+    "votes": 24
+   },
+   {
+    "here": "에 4:14",
+    "there": "사 54:17",
+    "votes": 22
+   },
+   {
+    "here": "에 9:22",
+    "there": "느 8:10",
+    "votes": 20
+   },
+   {
+    "here": "에 4:16",
+    "there": "행 20:24",
+    "votes": 19
+   },
+   {
+    "here": "에 4:14",
+    "there": "렘 30:11",
+    "votes": 18
+   },
+   {
+    "here": "에 1:11",
+    "there": "잠 31:30",
+    "votes": 18
+   },
+   {
+    "here": "에 4:16",
+    "there": "대하 20:3",
+    "votes": 17
+   },
+   {
+    "here": "에 8:16",
+    "there": "시 34:5",
+    "votes": 17
+   },
+   {
+    "here": "에 9:25",
+    "there": "잠 19:21",
+    "votes": 16
+   },
+   {
+    "here": "에 1:20",
+    "there": "엡 5:22",
+    "votes": 16
+   },
+   {
+    "here": "에 4:14",
+    "there": "마 16:18",
+    "votes": 15
+   },
+   {
+    "here": "에 6:1",
+    "there": "단 2:1",
+    "votes": 15
+   },
+   {
+    "here": "에 1:13",
+    "there": "대상 12:32",
+    "votes": 14
+   },
+   {
+    "here": "에 4:14",
+    "there": "행 7:20",
+    "votes": 14
+   },
+   {
+    "here": "에 5:3",
+    "there": "막 6:23",
+    "votes": 14
+   },
+   {
+    "here": "에 6:1",
+    "there": "단 6:18",
+    "votes": 14
+   },
+   {
+    "here": "에 8:1",
+    "there": "사 49:23",
+    "votes": 14
+   }
+  ],
+  "todo": "정경 안의 위치 중 구약 후대 권의 회상·재진술과 신약 인용·암시 목록은 이름 있는 학술 자료(성경신학 사전·주석)로 별도 작성 예정. 이 자료 기반 수치와 섞지 않는다."
+ }
+}

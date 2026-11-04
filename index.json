@@ -113,6 +113,13 @@
    "file": "books/16_느헤미야.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 17,
+   "name": "에스더",
+   "file": "books/17_에스더.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
