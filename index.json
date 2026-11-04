@@ -400,6 +400,13 @@
    "file": "books/57_빌레몬서.json",
    "status": "draft",
    "updated": "2026-11-04"
+  },
+  {
+   "book": 58,
+   "name": "히브리서",
+   "file": "books/58_히브리서.json",
+   "status": "draft",
+   "updated": "2026-11-04"
   }
  ],
  "shared": [
