@@ -807,6 +807,76 @@
    "level": "reference",
    "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
    "evidence": []
+  },
+  {
+   "n": 252,
+   "cite": "성경 본문(예수의 유아기(마태복음)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(예수의 유아기(마태복음))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 253,
+   "cite": "성경 본문(예수의 사역 여정(마태복음)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(예수의 사역 여정(마태복음))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 254,
+   "cite": "성경 본문(예수의 사역 여정(마가복음)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(예수의 사역 여정(마가복음))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 255,
+   "cite": "성경 본문(예수의 유아기와 소년기(누가복음)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(예수의 유아기와 소년기(누가복음))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 256,
+   "cite": "성경 본문(예수의 사역 여정(누가복음)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(예수의 사역 여정(누가복음))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 257,
+   "cite": "성경 본문(엠마오로 가는 길(부활하신 날)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(엠마오로 가는 길(부활하신 날))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 258,
+   "cite": "성경 본문(예수의 사역 여정(요한복음)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(예수의 사역 여정(요한복음))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
   }
  ],
  "places": [
@@ -2726,7 +2796,7 @@
    "name": "요단 강",
    "nameEn": "Jordan",
    "kind": "강",
-   "verses": "수 3:14–17; 4:19; 삼하 19:15–18; 왕하 2:6–8, 11; 욥 40:23",
+   "verses": "수 3:14–17; 4:19; 삼하 19:15–18; 왕하 2:6–8, 11; 욥 40:23; 마 3:13; 마 19:1; 막 1:9; 눅 3:3",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -4208,7 +4278,7 @@
    "name": "베들레헴",
    "nameEn": "Bethlehem 1",
    "kind": "도시",
-   "verses": "룻 1:1; 룻 1:19, 22; 대상 11:17; 미 5:2",
+   "verses": "룻 1:1; 룻 1:19, 22; 대상 11:17; 미 5:2; 마 2:1; 눅 2:4–7",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5156,7 +5226,7 @@
    "name": "기드론 시내",
    "nameEn": "Kidron",
    "kind": "골짜기",
-   "verses": "삼하 15:23",
+   "verses": "삼하 15:23; 요 18:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5181,7 +5251,7 @@
    "name": "감람산",
    "nameEn": "Mount of Olives",
    "kind": "산",
-   "verses": "삼하 15:30",
+   "verses": "삼하 15:30; 마 21:1; 막 13:3; 눅 19:37",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -7734,7 +7804,7 @@
    "name": "시돈",
    "nameEn": "Sidon",
    "kind": "도시",
-   "verses": "겔 28:21; 욜 3:4",
+   "verses": "겔 28:21; 욜 3:4; 막 7:31",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -8645,6 +8715,973 @@
      "score": 500,
      "tier": "높음",
      "precision": "point on hill",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "nazareth",
+   "name": "나사렛",
+   "nameEn": "Nazareth",
+   "kind": "도시",
+   "verses": "마 2:22–23; 막 1:9; 눅 2:4; 눅 2:39; 눅 4:16",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Nazareth",
+     "lat": 32.70214,
+     "lng": 35.29769,
+     "score": 500,
+     "tier": "높음",
+     "precision": "traditional site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "capernaum",
+   "name": "가버나움",
+   "nameEn": "Capernaum",
+   "kind": "도시",
+   "verses": "마 4:13; 마 8:5; 막 1:21; 눅 4:31; 요 2:12; 요 6:24, 59",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Hum",
+     "lat": 32.881111,
+     "lng": 35.575,
+     "score": 860,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet Minyeh",
+     "lat": 32.864722,
+     "lng": 35.536111,
+     "score": 0,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "galsea",
+   "name": "갈릴리 바다",
+   "nameEn": "Sea of Galilee",
+   "kind": "호수",
+   "verses": "마 4:18; 요 6:1–13; 요 21:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Sea of Galilee",
+     "lat": 32.818906,
+     "lng": 35.590033,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in body of water",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gadara",
+   "name": "가다라",
+   "nameEn": "Gadara",
+   "kind": "도시",
+   "verses": "마 8:28",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Umm Qais",
+     "lat": 32.655998,
+     "lng": 35.679352,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "chorazin",
+   "name": "고라신",
+   "nameEn": "Chorazin",
+   "kind": "도시",
+   "verses": "마 11:21–23",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet Karraza",
+     "lat": 32.911389,
+     "lng": 35.563889,
+     "score": 701,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gennesaret",
+   "name": "게네사렛",
+   "nameEn": "Gennesaret",
+   "kind": "평지",
+   "verses": "마 14:34; 막 6:53",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "El Ghuweir",
+     "lat": 32.860556,
+     "lng": 35.507222,
+     "score": 500,
+     "tier": "높음",
+     "precision": "settlement in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "magadan",
+   "name": "마가단",
+   "nameEn": "Magadan",
+   "kind": "곳",
+   "verses": "마 15:39",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Majdal",
+     "lat": 32.827069,
+     "lng": 35.513552,
+     "score": 464,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "eastern side of the Sea of Galilee",
+     "lat": 32.860443,
+     "lng": 35.646371,
+     "score": 34,
+     "tier": "낮음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "caesarea-p",
+   "name": "가이사랴 빌립보",
+   "nameEn": "Caesarea Philippi",
+   "kind": "도시",
+   "verses": "마 16:13–16; 막 8:27",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Banias",
+     "lat": 33.246111,
+     "lng": 35.693333,
+     "score": 500,
+     "tier": "높음",
+     "precision": "50 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "jericho2",
+   "name": "여리고(신약)",
+   "nameEn": "Jericho 2",
+   "kind": "도시",
+   "verses": "마 20:29–30; 막 10:46; 눅 18:35; 19:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell el Alayiq",
+     "lat": 31.851872,
+     "lng": 35.436238,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethphage",
+   "name": "벳바게",
+   "nameEn": "Bethphage",
+   "kind": "마을",
+   "verses": "마 21:1–2; 막 11:1; 눅 19:29",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Et Tur",
+     "lat": 31.777619,
+     "lng": 35.250839,
+     "score": 336,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Abu Dis",
+     "lat": 31.7625,
+     "lng": 35.265833,
+     "score": 40,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Al Eizariya",
+     "lat": 31.771661,
+     "lng": 35.255903,
+     "score": 30,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethany1",
+   "name": "베다니",
+   "nameEn": "Bethany 1",
+   "kind": "마을",
+   "verses": "마 21:17; 막 11:11; 눅 24:50; 요 11:1, 43–44; 요 12:1–3",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Al Eizariya",
+     "lat": 31.771661,
+     "lng": 35.255903,
+     "score": 753,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gethsemane",
+   "name": "겟세마네",
+   "nameEn": "Gethsemane",
+   "kind": "동산",
+   "verses": "마 26:36; 막 14:32",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Gethsemane",
+     "lat": 31.779419,
+     "lng": 35.239425,
+     "score": 500,
+     "tier": "높음",
+     "precision": "250 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "golgotha",
+   "name": "골고다",
+   "nameEn": "Golgotha",
+   "kind": "곳",
+   "verses": "마 27:33; 막 15:22; 눅 23:33; 요 19:17–18",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Church of the Holy Sepulchre",
+     "lat": 31.778444,
+     "lng": 35.22975,
+     "score": 397,
+     "tier": "보통",
+     "precision": "traditional site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Taylor Golgotha",
+     "lat": 31.776629,
+     "lng": 35.230688,
+     "score": 17,
+     "tier": "낮음",
+     "precision": "20 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Gordon’s Calvary",
+     "lat": 31.783957,
+     "lng": 35.230147,
+     "score": 0,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "galilee",
+   "name": "갈릴리",
+   "nameEn": "Galilee 1",
+   "kind": "지역",
+   "verses": "마 28:16",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Galilee",
+     "lat": 32.76,
+     "lng": 35.527,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gerasa",
+   "name": "거라사",
+   "nameEn": "Gerasa",
+   "kind": "도시",
+   "verses": "막 5:1; 눅 8:26",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Jerash",
+     "lat": 32.272281,
+     "lng": 35.891397,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethsaida2",
+   "name": "벳새다(마가복음)",
+   "nameEn": "Bethsaida 2",
+   "kind": "도시",
+   "verses": "막 6:45; 막 8:22; 눅 9:10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "At Tell",
+     "lat": 32.91038,
+     "lng": 35.63096,
+     "score": 457,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Al Araj",
+     "lat": 32.893528,
+     "lng": 35.619,
+     "score": 385,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tabgha",
+     "lat": 32.873658,
+     "lng": 35.548975,
+     "score": 217,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "decapolis",
+   "name": "데가볼리",
+   "nameEn": "Decapolis",
+   "kind": "지역",
+   "verses": "막 7:31",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Decapolis",
+     "lat": 32.716667,
+     "lng": 35.8,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "dalmanutha",
+   "name": "달마누다",
+   "nameEn": "Dalmanutha",
+   "kind": "곳",
+   "verses": "막 8:10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Majdal",
+     "lat": 32.827069,
+     "lng": 35.513552,
+     "score": 413,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "eastern side of the Sea of Galilee",
+     "lat": 32.860443,
+     "lng": 35.646371,
+     "score": 189,
+     "tier": "보통",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tabgha",
+     "lat": 32.873658,
+     "lng": 35.548975,
+     "score": 10,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "nain",
+   "name": "나인",
+   "nameEn": "Nain",
+   "kind": "마을",
+   "verses": "눅 7:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Nein",
+     "lat": 32.630694,
+     "lng": 35.350139,
+     "score": 500,
+     "tier": "높음",
+     "precision": "traditional site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "samaria2",
+   "name": "사마리아",
+   "nameEn": "Samaria 2",
+   "kind": "지역",
+   "verses": "눅 17:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Samaria",
+     "lat": 32.276111,
+     "lng": 35.195,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "emmaus",
+   "name": "엠마오",
+   "nameEn": "Emmaus",
+   "kind": "마을",
+   "verses": "눅 24:13–31",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Emmaus Nicopolis",
+     "lat": 31.8393,
+     "lng": 34.989458,
+     "score": 219,
+     "tier": "보통",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Qalunya",
+     "lat": 31.79289,
+     "lng": 35.16419,
+     "score": 204,
+     "tier": "보통",
+     "precision": "point in recent settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "El Qubeibeh",
+     "lat": 31.839933,
+     "lng": 35.13685,
+     "score": 97,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethany2",
+   "name": "베다니(요단 건너)",
+   "nameEn": "Bethany 2",
+   "kind": "마을",
+   "verses": "요 1:28",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Al Eizariya",
+     "lat": 31.771661,
+     "lng": 35.255903,
+     "score": 432,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Raphana",
+     "lat": 32.852034,
+     "lng": 36.19934,
+     "score": 290,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet Batneh",
+     "lat": 32.010571,
+     "lng": 35.710739,
+     "score": 256,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cana",
+   "name": "가나",
+   "nameEn": "Cana",
+   "kind": "마을",
+   "verses": "요 2:1, 11; 요 4:46",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Horbat Qana",
+     "lat": 32.8222,
+     "lng": 35.30269,
+     "score": 685,
+     "tier": "높음",
+     "precision": "20 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Kefr Kenna",
+     "lat": 32.74647,
+     "lng": 35.33921,
+     "score": 120,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Ain Qana",
+     "lat": 32.71313,
+     "lng": 35.31996,
+     "score": 37,
+     "tier": "낮음",
+     "precision": "10 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "aenon",
+   "name": "애논",
+   "nameEn": "Aenon",
+   "kind": "곳",
+   "verses": "요 3:23",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Umm el Umdan",
+     "lat": 32.38152,
+     "lng": 35.52821,
+     "score": 225,
+     "tier": "보통",
+     "precision": "250 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet Einun",
+     "lat": 32.30181,
+     "lng": 35.3974,
+     "score": 96,
+     "tier": "낮음",
+     "precision": "10 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Aenon",
+     "lat": 31.8375,
+     "lng": 35.549444,
+     "score": 66,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "sychar",
+   "name": "수가",
+   "nameEn": "Sychar",
+   "kind": "마을",
+   "verses": "요 4:5–7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Balatah",
+     "lat": 32.213611,
+     "lng": 35.281944,
+     "score": 377,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Askar",
+     "lat": 32.21776,
+     "lng": 35.28897,
+     "score": 355,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethesda",
+   "name": "베데스다 못",
+   "nameEn": "Bethesda",
+   "kind": "못",
+   "verses": "요 5:1–9",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Pool of Bethesda",
+     "lat": 31.781389,
+     "lng": 35.235833,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "siloam",
+   "name": "실로암 못",
+   "nameEn": "Siloam",
+   "kind": "못",
+   "verses": "요 9:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Pool of Siloam",
+     "lat": 31.770556,
+     "lng": 35.235,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ephraim2",
+   "name": "에브라임",
+   "nameEn": "Ephraim 2",
+   "kind": "마을",
+   "verses": "요 11:54",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Taybeh",
+     "lat": 31.954444,
+     "lng": 35.300278,
+     "score": 447,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Al Qastal",
+     "lat": 31.796944,
+     "lng": 35.144167,
+     "score": 179,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Ein Samia",
+     "lat": 31.9878,
+     "lng": 35.3332,
+     "score": 27,
+     "tier": "낮음",
+     "precision": "400 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gabbatha",
+   "name": "가바다(박석)",
+   "nameEn": "Gabbatha",
+   "kind": "곳",
+   "verses": "요 19:13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Herod’s palace in Jerusalem",
+     "lat": 31.776083,
+     "lng": 35.228036,
+     "score": 387,
+     "tier": "보통",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Convent of the Sisters of Zion",
+     "lat": 31.780322,
+     "lng": 35.233361,
+     "score": -126,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
      "refs": [
       50
      ]
@@ -14815,6 +15852,1017 @@
      "verses": "말 4:4",
      "refs": [
       251
+     ]
+    }
+   ]
+  },
+  {
+   "id": "infancy-matthew",
+   "title": "예수의 유아기(마태복음)",
+   "period": "마태복음 2장",
+   "note": "동방 박사가 베들레헴에서 아기 예수를 찾고, 요셉 가족이 이집트로 피했다가 나사렛에 정착함.",
+   "color": "#E67E22",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    40
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "bethlehem",
+     "name": "베들레헴",
+     "time": "",
+     "event": "헤롯 왕 때 예수가 베들레헴에서 나심. 동방 박사가 찾아옴",
+     "verses": "마 2:1",
+     "refs": [
+      252
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "천사의 말에 따라 요셉이 아기와 어머니를 데리고 이집트로 피함",
+     "verses": "마 2:13–15",
+     "refs": [
+      252
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "nazareth",
+     "name": "나사렛",
+     "time": "",
+     "event": "헤롯이 죽은 뒤 돌아와 나사렛이라는 동네에 살게 됨",
+     "verses": "마 2:22–23",
+     "refs": [
+      252
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ministry-matthew",
+   "title": "예수의 사역 여정(마태복음)",
+   "period": "마태복음 3–28장",
+   "note": "세례에서 부활 후 갈릴리 산에서의 부르심까지, 마태복음에 이름이 나오는 지명을 본문 순서대로 이은 것.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    40
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jordan",
+     "name": "요단 강",
+     "time": "",
+     "event": "요한에게 세례를 받으러 요단으로 오심",
+     "verses": "마 3:13",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "capernaum",
+     "name": "가버나움",
+     "time": "",
+     "event": "나사렛을 떠나 가버나움에 사심",
+     "verses": "마 4:13",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "galsea",
+     "name": "갈릴리 바다",
+     "time": "",
+     "event": "갈릴리 바닷가에서 베드로와 안드레를 부르심",
+     "verses": "마 4:18",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "capernaum",
+     "name": "가버나움",
+     "time": "",
+     "event": "가버나움에서 백부장의 종을 고치심",
+     "verses": "마 8:5",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "gadara",
+     "name": "가다라",
+     "time": "",
+     "event": "가다라 지방에서 귀신 들린 두 사람을 고치심",
+     "verses": "마 8:28",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "chorazin",
+     "name": "고라신",
+     "time": "",
+     "event": "고라신·벳새다·가버나움을 책망하심",
+     "verses": "마 11:21–23",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "gennesaret",
+     "name": "게네사렛",
+     "time": "",
+     "event": "게네사렛 땅에 이르러 병자를 고치심",
+     "verses": "마 14:34",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "tyre",
+     "name": "두로",
+     "time": "",
+     "event": "두로와 시돈 지방으로 물러가심. 가나안 여자의 믿음",
+     "verses": "마 15:21",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "magadan",
+     "name": "마가단",
+     "time": "",
+     "event": "배를 타고 마가단 지경으로 가심",
+     "verses": "마 15:39",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "caesarea-p",
+     "name": "가이사랴 빌립보",
+     "time": "",
+     "event": "가이사랴 빌립보에서 베드로가 그리스도라고 고백함",
+     "verses": "마 16:13–16",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "jordan",
+     "name": "요단 강",
+     "time": "",
+     "event": "갈릴리를 떠나 요단 건너편 유대 지경으로 가심",
+     "verses": "마 19:1",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "jericho2",
+     "name": "여리고(신약)",
+     "time": "",
+     "event": "여리고에서 나올 때 두 맹인이 고침받음",
+     "verses": "마 20:29–30",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "bethphage",
+     "name": "벳바게",
+     "time": "",
+     "event": "벳바게에서 나귀를 가져오게 하심",
+     "verses": "마 21:1–2",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "olives",
+     "name": "감람산",
+     "time": "",
+     "event": "감람산에서 예루살렘으로 들어가는 길",
+     "verses": "마 21:1",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘에 들어가심. 온 성이 소동함",
+     "verses": "마 21:10",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 16,
+     "placeId": "bethany1",
+     "name": "베다니",
+     "time": "",
+     "event": "저녁에 베다니로 나가 거기서 밤을 지내심",
+     "verses": "마 21:17",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 17,
+     "placeId": "gethsemane",
+     "name": "겟세마네",
+     "time": "",
+     "event": "겟세마네에서 기도하시고 잡히심",
+     "verses": "마 26:36",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 18,
+     "placeId": "golgotha",
+     "name": "골고다",
+     "time": "",
+     "event": "골고다에서 십자가에 못 박히심",
+     "verses": "마 27:33",
+     "refs": [
+      253
+     ]
+    },
+    {
+     "order": 19,
+     "placeId": "galilee",
+     "name": "갈릴리",
+     "time": "",
+     "event": "부활 후 열한 제자가 갈릴리 산에서 예수를 만남",
+     "verses": "마 28:16",
+     "refs": [
+      253
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ministry-mark",
+   "title": "예수의 사역 여정(마가복음)",
+   "period": "마가복음 1–16장",
+   "note": "세례에서 십자가까지, 마가복음에 이름이 나오는 지명을 본문 순서대로 이은 것.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    41
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "nazareth",
+     "name": "나사렛",
+     "time": "",
+     "event": "갈릴리 나사렛에서 오심",
+     "verses": "막 1:9",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "jordan",
+     "name": "요단 강",
+     "time": "",
+     "event": "요단 강에서 요한에게 세례를 받으심",
+     "verses": "막 1:9",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "capernaum",
+     "name": "가버나움",
+     "time": "",
+     "event": "가버나움 회당에서 가르치심",
+     "verses": "막 1:21",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "gerasa",
+     "name": "거라사",
+     "time": "",
+     "event": "거라사 지방에서 귀신 들린 사람을 고치심",
+     "verses": "막 5:1",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "bethsaida2",
+     "name": "벳새다(마가복음)",
+     "time": "",
+     "event": "배를 타고 벳새다로 먼저 가게 하심",
+     "verses": "막 6:45",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "gennesaret",
+     "name": "게네사렛",
+     "time": "",
+     "event": "게네사렛에 이르러 배를 댐",
+     "verses": "막 6:53",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "tyre",
+     "name": "두로",
+     "time": "",
+     "event": "두로 지방으로 가심",
+     "verses": "막 7:24",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "sidon",
+     "name": "시돈",
+     "time": "",
+     "event": "시돈을 지나 데가볼리 지방으로 가심",
+     "verses": "막 7:31",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "decapolis",
+     "name": "데가볼리",
+     "time": "",
+     "event": "데가볼리 지방에서 귀먹고 말 더듬는 사람을 고치심",
+     "verses": "막 7:31",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "dalmanutha",
+     "name": "달마누다",
+     "time": "",
+     "event": "달마누다 지방으로 가심",
+     "verses": "막 8:10",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "bethsaida2",
+     "name": "벳새다(마가복음)",
+     "time": "",
+     "event": "벳새다에서 맹인을 고치심",
+     "verses": "막 8:22",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "caesarea-p",
+     "name": "가이사랴 빌립보",
+     "time": "",
+     "event": "가이사랴 빌립보 마을들로 가는 길에 \"사람들이 나를 누구라 하느냐\" 물으심",
+     "verses": "막 8:27",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "jericho2",
+     "name": "여리고(신약)",
+     "time": "",
+     "event": "여리고에서 나오실 때 바디매오가 고침받음",
+     "verses": "막 10:46",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "bethphage",
+     "name": "벳바게",
+     "time": "",
+     "event": "벳바게와 베다니 쪽에서 나귀 새끼를 가져오게 하심",
+     "verses": "막 11:1",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘에 들어가 성전에 이르심",
+     "verses": "막 11:11",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 16,
+     "placeId": "bethany1",
+     "name": "베다니",
+     "time": "",
+     "event": "열두 제자와 베다니로 나가심",
+     "verses": "막 11:11",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 17,
+     "placeId": "olives",
+     "name": "감람산",
+     "time": "",
+     "event": "감람산에서 종말에 관해 말씀하심",
+     "verses": "막 13:3",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 18,
+     "placeId": "gethsemane",
+     "name": "겟세마네",
+     "time": "",
+     "event": "겟세마네에서 기도하심",
+     "verses": "막 14:32",
+     "refs": [
+      254
+     ]
+    },
+    {
+     "order": 19,
+     "placeId": "golgotha",
+     "name": "골고다",
+     "time": "",
+     "event": "골고다에서 십자가에 못 박히심",
+     "verses": "막 15:22",
+     "refs": [
+      254
+     ]
+    }
+   ]
+  },
+  {
+   "id": "infancy-luke",
+   "title": "예수의 유아기와 소년기(누가복음)",
+   "period": "누가복음 2장",
+   "note": "나사렛에서 베들레헴으로 갔다가 성전 봉헌을 거쳐 나사렛에서 자라고, 열두 살에 예루살렘 성전에 간 일.",
+   "color": "#E67E22",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    42
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "nazareth",
+     "name": "나사렛",
+     "time": "",
+     "event": "요셉이 갈릴리 나사렛에서 호적하러 올라감",
+     "verses": "눅 2:4",
+     "refs": [
+      255
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "bethlehem",
+     "name": "베들레헴",
+     "time": "",
+     "event": "베들레헴에서 예수가 나심",
+     "verses": "눅 2:4–7",
+     "refs": [
+      255
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "정결 예식과 아기를 주께 드리려 예루살렘에 올라감",
+     "verses": "눅 2:22",
+     "refs": [
+      255
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "nazareth",
+     "name": "나사렛",
+     "time": "",
+     "event": "갈릴리 나사렛 자기 동네로 돌아감",
+     "verses": "눅 2:39",
+     "refs": [
+      255
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "열두 살(눅 2:42)",
+     "event": "유월절에 예루살렘에 올라가 성전에서 선생들 사이에 앉아 계심",
+     "verses": "눅 2:41–46",
+     "refs": [
+      255
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ministry-luke",
+   "title": "예수의 사역 여정(누가복음)",
+   "period": "누가복음 3–24장",
+   "note": "세례에서 승천 장소까지, 누가복음에 이름이 나오는 지명을 본문 순서대로 이은 것. 9:51부터는 예루살렘으로 향하는 긴 여정으로 서술됨.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    42
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jordan",
+     "name": "요단 강",
+     "time": "",
+     "event": "요한이 요단 부근 모든 지방에서 세례를 전파함",
+     "verses": "눅 3:3",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "nazareth",
+     "name": "나사렛",
+     "time": "",
+     "event": "나사렛 회당에서 이사야 두루마리를 읽으심",
+     "verses": "눅 4:16",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "capernaum",
+     "name": "가버나움",
+     "time": "",
+     "event": "가버나움에서 안식일에 가르치심",
+     "verses": "눅 4:31",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "nain",
+     "name": "나인",
+     "time": "",
+     "event": "나인 성에서 과부의 아들을 살리심",
+     "verses": "눅 7:11",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "gerasa",
+     "name": "거라사",
+     "time": "",
+     "event": "거라사 지방에 이르심",
+     "verses": "눅 8:26",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "bethsaida2",
+     "name": "벳새다(마가복음)",
+     "time": "",
+     "event": "벳새다라 하는 성으로 따로 물러가심. 오천 명을 먹이심",
+     "verses": "눅 9:10",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "samaria2",
+     "name": "사마리아",
+     "time": "",
+     "event": "예루살렘으로 가시며 사마리아와 갈릴리 사이로 지나심",
+     "verses": "눅 17:11",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "jericho2",
+     "name": "여리고(신약)",
+     "time": "",
+     "event": "여리고 가까이 이르러 맹인을 고치심, 삭개오를 만나심",
+     "verses": "눅 18:35; 19:1",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "bethphage",
+     "name": "벳바게",
+     "time": "",
+     "event": "벳바게와 베다니 가까이 이르러 나귀 새끼를 가져오게 하심",
+     "verses": "눅 19:29",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "olives",
+     "name": "감람산",
+     "time": "",
+     "event": "감람산 내리막에서 제자들이 찬송함",
+     "verses": "눅 19:37",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘을 보시고 우심",
+     "verses": "눅 19:41",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "golgotha",
+     "name": "골고다",
+     "time": "",
+     "event": "해골이라 하는 곳에서 십자가에 못 박히심",
+     "verses": "눅 23:33",
+     "refs": [
+      256
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "bethany1",
+     "name": "베다니",
+     "time": "",
+     "event": "베다니 앞까지 제자들을 데리고 나가 축복하시고 올려지심",
+     "verses": "눅 24:50",
+     "refs": [
+      256
+     ]
+    }
+   ]
+  },
+  {
+   "id": "emmaus-road",
+   "title": "엠마오로 가는 길(부활하신 날)",
+   "period": "누가복음 24:13–35",
+   "note": "부활하신 날 두 제자가 예루살렘에서 엠마오로 가다가 예수를 만나고, 돌아와 열한 제자에게 알림.",
+   "color": "#27AE60",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    42
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "안식 후 첫날(눅 24:1)",
+     "event": "빈 무덤 소식을 들은 두 제자가 예루살렘을 떠남",
+     "verses": "눅 24:13, 22–24",
+     "refs": [
+      257
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "emmaus",
+     "name": "엠마오",
+     "time": "",
+     "event": "엠마오로 가는 길에 예수가 함께 걸으시고 떡을 떼실 때 알아봄",
+     "verses": "눅 24:13–31",
+     "refs": [
+      257
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "즉시 일어나 예루살렘으로 돌아가 열한 제자에게 말함",
+     "verses": "눅 24:33–35",
+     "refs": [
+      257
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ministry-john",
+   "title": "예수의 사역 여정(요한복음)",
+   "period": "요한복음 1–21장",
+   "note": "요한복음에 이름이 나오는 지명을 본문 순서대로 이은 것. 갈릴리와 예루살렘을 오가며, 예루살렘 절기가 여러 번 나옴.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    43
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "bethany2",
+     "name": "베다니(요단 건너)",
+     "time": "",
+     "event": "요단 강 건너편 베다니에서 요한이 세례를 줌",
+     "verses": "요 1:28",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "cana",
+     "name": "가나",
+     "time": "",
+     "event": "갈릴리 가나의 혼인 잔치에서 물이 포도주로 변함",
+     "verses": "요 2:1, 11",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "capernaum",
+     "name": "가버나움",
+     "time": "",
+     "event": "가버나움으로 내려가 며칠 머무심",
+     "verses": "요 2:12",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "유월절(요 2:13)",
+     "event": "예루살렘 성전에서 장사하는 사람들을 내쫓으심",
+     "verses": "요 2:13–17",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "aenon",
+     "name": "애논",
+     "time": "",
+     "event": "애논에서 요한이 세례를 줌",
+     "verses": "요 3:23",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "sychar",
+     "name": "수가",
+     "time": "",
+     "event": "수가에서 사마리아 여인과 대화하심",
+     "verses": "요 4:5–7",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "cana",
+     "name": "가나",
+     "time": "",
+     "event": "가나에서 왕의 신하의 아들을 고치심",
+     "verses": "요 4:46",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "bethesda",
+     "name": "베데스다 못",
+     "time": "명절(요 5:1)",
+     "event": "베데스다 못에서 삼십팔 년 된 병자를 고치심",
+     "verses": "요 5:1–9",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "galsea",
+     "name": "갈릴리 바다",
+     "time": "유월절이 가까움(요 6:4)",
+     "event": "갈릴리 바다(디베랴 바다) 건너편에서 오천 명을 먹이심",
+     "verses": "요 6:1–13",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "capernaum",
+     "name": "가버나움",
+     "time": "",
+     "event": "가버나움 회당에서 생명의 떡에 대해 말씀하심",
+     "verses": "요 6:24, 59",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "초막절(요 7:2)",
+     "event": "명절에 올라가 성전에서 가르치심. 예루살렘 사람들이 의견이 갈림",
+     "verses": "요 7:2, 10, 14, 25",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "siloam",
+     "name": "실로암 못",
+     "time": "",
+     "event": "실로암 못에서 눈을 씻은 맹인이 보게 됨",
+     "verses": "요 9:7",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "수전절 겨울(요 10:22)",
+     "event": "솔로몬 행각에서 유대인들에게 \"그리스도라면 분명히 말하라\"는 요구를 받음",
+     "verses": "요 10:22–24",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "bethany1",
+     "name": "베다니",
+     "time": "",
+     "event": "베다니에서 나사로를 살리심",
+     "verses": "요 11:1, 43–44",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "ephraim2",
+     "name": "에브라임",
+     "time": "",
+     "event": "에브라임이라는 동네에 제자들과 머무심",
+     "verses": "요 11:54",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 16,
+     "placeId": "bethany1",
+     "name": "베다니",
+     "time": "유월절 엿새 전(요 12:1)",
+     "event": "베다니에서 마리아가 향유를 부음",
+     "verses": "요 12:1–3",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 17,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "나귀를 타고 예루살렘에 들어가심",
+     "verses": "요 12:12–15",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 18,
+     "placeId": "kidron",
+     "name": "기드론 시내",
+     "time": "",
+     "event": "기드론 시내 건너편 동산으로 가심",
+     "verses": "요 18:1",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 19,
+     "placeId": "gabbatha",
+     "name": "가바다(박석)",
+     "time": "",
+     "event": "빌라도가 박석(가바다)에서 재판석에 앉음",
+     "verses": "요 19:13",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 20,
+     "placeId": "golgotha",
+     "name": "골고다",
+     "time": "",
+     "event": "골고다에서 십자가에 못 박히심",
+     "verses": "요 19:17–18",
+     "refs": [
+      258
+     ]
+    },
+    {
+     "order": 21,
+     "placeId": "galsea",
+     "name": "갈릴리 바다",
+     "time": "",
+     "event": "부활 후 디베랴 바닷가에서 제자들에게 나타나심",
+     "verses": "요 21:1",
+     "refs": [
+      258
      ]
     }
    ]

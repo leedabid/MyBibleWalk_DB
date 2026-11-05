@@ -319,32 +319,32 @@
    "name": "마태복음",
    "file": "books/40_마태복음.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "5b6c2134db4f"
+   "updated": "2026-11-05",
+   "rev": "d517da5b8508"
   },
   {
    "book": 41,
    "name": "마가복음",
    "file": "books/41_마가복음.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "4b4276b65a4f"
+   "updated": "2026-11-05",
+   "rev": "67bae6e38962"
   },
   {
    "book": 42,
    "name": "누가복음",
    "file": "books/42_누가복음.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "33c3fdee0b75"
+   "updated": "2026-11-05",
+   "rev": "104127ab1bbf"
   },
   {
    "book": 43,
    "name": "요한복음",
    "file": "books/43_요한복음.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "ae5ba666d0ec"
+   "updated": "2026-11-05",
+   "rev": "66a76c451267"
   },
   {
    "book": 44,
@@ -536,7 +536,7 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-05",
-   "rev": "0626ed4a36b5"
+   "rev": "0d7dec22895a"
   },
   {
    "id": "timeline",
