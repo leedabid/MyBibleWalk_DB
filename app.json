@@ -1,6 +1,6 @@
 {
  "versionCode": 37,
  "versionName": "1.14.5",
- "notes": "",
- "url": ""
+ "notes": "- 업데이트: 새 앱 버전이 나오면 알림창의 \"새 앱 설치\" 버튼 하나로 설치 파일을 받아 바로 설치 화면을 띄움(처음 한 번만 \"이 앱의 설치 허용\" 필요). 설치 파일은 공개 저장소 Releases에서 받음. - 내장 성경: 저작권 부담이 있는 개역한글 발췌 샘플을 빼고, 이용 제한이 없는 한글 1910 번역과 영어 BSB 전체 본문을 넣음(성경 파일이 없어도 바로 읽을 수 있음). 출처는 NOTICE_BIBLES.md.",
+ "url": "https://github.com/leedabid/MyBibleWalk_DB/releases/download/v1.14.5/MyBibleWalk_1.14.5.apk"
 }
