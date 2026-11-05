@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "id": "geo",
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "note": "여러 권이 함께 쓰는 지명·여정 자료. 출애굽→가나안 여정은 출애굽기·민수기·신명기·여호수아에 걸쳐 있고, 족장 여정(아브라함·야곱·요셉)은 창세기에서 시작해 출애굽기로 이어지므로 권마다 따로 두지 않고 한 곳에 둡니다.",
  "attribution": "지명 좌표·점수: OpenBible.info Bible Geocoding Data(CC BY 4.0). 지도 바탕: OpenStreetMap contributors. 좌표는 '후보'이며, 점수는 여러 성경 사전·주석·지도책이 그 후보를 지지한 정도입니다(높음 400 이상, 보통 150–399, 낮음 150 미만은 이 앱이 나눈 구간). 학계에서 위치가 확정되지 않은 곳이 많습니다.",
  "refs": [
@@ -286,6 +286,66 @@
    "accessed": "2026-11-04",
    "level": "reference",
    "note": "이 항목은 이번 작업에서 창세기 본문을 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것",
+   "evidence": []
+  },
+  {
+   "n": 200,
+   "cite": "성경 본문(사사기의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(사사기의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 201,
+   "cite": "성경 본문(엘리멜렉 가족의 이동(베들레헴 ↔ 모압)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(엘리멜렉 가족의 이동(베들레헴 ↔ 모압))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 202,
+   "cite": "성경 본문(언약궤의 이동(실로 → 블레셋 땅 → 기럇여아림)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(언약궤의 이동(실로 → 블레셋 땅 → 기럇여아림))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 203,
+   "cite": "성경 본문(다윗의 도피와 유랑(사울을 피해)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(다윗의 도피와 유랑(사울을 피해))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 204,
+   "cite": "성경 본문(사울의 마지막 길(수넴 → 길보아)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(사울의 마지막 길(수넴 → 길보아))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 205,
+   "cite": "성경 본문(사무엘상의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(사무엘상의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
    "evidence": []
   }
  ],
@@ -840,7 +900,7 @@
    "name": "미디안(땅)",
    "nameEn": "Midian",
    "kind": "지역",
-   "verses": "출 2:15–16",
+   "verses": "출 2:15–16; 삿 6:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2231,7 +2291,7 @@
    "name": "길갈",
    "nameEn": "Gilgal 1",
    "kind": "진 친 곳",
-   "verses": "수 4:19–20; 5:9–10",
+   "verses": "수 4:19–20; 5:9–10; 삼상 11:14–15",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2278,7 +2338,7 @@
    "name": "여리고",
    "nameEn": "Jericho 1",
    "kind": "도시",
-   "verses": "수 6",
+   "verses": "수 6; 삿 3:13",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2400,7 +2460,7 @@
    "name": "하솔",
    "nameEn": "Hazor 1",
    "kind": "도시",
-   "verses": "수 11:10–11",
+   "verses": "수 11:10–11; 삿 4:2",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2497,7 +2557,7 @@
    "name": "세겜",
    "nameEn": "Shechem",
    "kind": "도시",
-   "verses": "창 12:6–7",
+   "verses": "창 12:6–7; 삿 9:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2522,7 +2582,7 @@
    "name": "벧엘",
    "nameEn": "Bethel 1",
    "kind": "도시",
-   "verses": "창 12:8; 13:3–4",
+   "verses": "창 12:8; 13:3–4; 삿 20:18",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2594,7 +2654,7 @@
    "name": "헤브론",
    "nameEn": "Hebron",
    "kind": "도시",
-   "verses": "창 13:18",
+   "verses": "창 13:18; 삿 1:10",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2893,7 +2953,7 @@
    "name": "브니엘",
    "nameEn": "Penuel",
    "kind": "도시",
-   "verses": "창 32:22–32",
+   "verses": "창 32:22–32; 삿 8:8",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2929,7 +2989,7 @@
    "name": "숙곳",
    "nameEn": "Succoth 1",
    "kind": "도시",
-   "verses": "창 33:17",
+   "verses": "창 33:17; 삿 8:5",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -3033,6 +3093,1552 @@
    ],
    "refs": [
     100
+   ]
+  },
+  {
+   "id": "debir",
+   "name": "드빌",
+   "nameEn": "Debir 1",
+   "kind": "도시",
+   "verses": "삿 1:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet Rabud",
+     "lat": 31.43209,
+     "lng": 35.01485,
+     "score": 610,
+     "tier": "높음",
+     "precision": "50 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tell Beit Mirsim",
+     "lat": 31.4558,
+     "lng": 34.9098,
+     "score": 88,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet Tarrama",
+     "lat": 31.47857,
+     "lng": 35.03264,
+     "score": 47,
+     "tier": "낮음",
+     "precision": "50 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bochim",
+   "name": "보김",
+   "nameEn": "Bochim",
+   "kind": "곳",
+   "verses": "삿 2:1, 5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Beitin",
+     "lat": 31.922778,
+     "lng": 35.241389,
+     "score": 685,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Al Bira",
+     "lat": 31.905142,
+     "lng": 35.214958,
+     "score": 210,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Burj Beitin",
+     "lat": 31.921866,
+     "lng": 35.245478,
+     "score": 183,
+     "tier": "보통",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "haroshet",
+   "name": "하로셋 학고임",
+   "nameEn": "Harosheth-hagoyim",
+   "kind": "도시",
+   "verses": "삿 4:2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Amr",
+     "lat": 32.728056,
+     "lng": 35.096667,
+     "score": 98,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tel Regev",
+     "lat": 32.75885,
+     "lng": 35.09027,
+     "score": 72,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Ahwat",
+     "lat": 32.487149,
+     "lng": 35.093808,
+     "score": 34,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "tabor",
+   "name": "다볼 산",
+   "nameEn": "Mount Tabor",
+   "kind": "산",
+   "verses": "삿 4:6, 12",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Jebel et Tur",
+     "lat": 32.68625,
+     "lng": 35.392917,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on mountain",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "kishon",
+   "name": "기손 강",
+   "nameEn": "Kishon",
+   "kind": "강",
+   "verses": "삿 4:7; 5:21",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kishon River",
+     "lat": 32.816667,
+     "lng": 35.033333,
+     "score": 739,
+     "tier": "높음",
+     "precision": "mouth of river",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Nahal Tabor",
+     "lat": 32.652383,
+     "lng": 35.463181,
+     "score": 37,
+     "tier": "낮음",
+     "precision": "point along river",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "megiddo",
+   "name": "므깃도",
+   "nameEn": "Megiddo",
+   "kind": "도시",
+   "verses": "삿 5:19",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Megiddo",
+     "lat": 32.585278,
+     "lng": 35.184444,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ophrah2",
+   "name": "오브라(기드온의 고향)",
+   "nameEn": "Ophrah 2",
+   "kind": "도시",
+   "verses": "삿 6:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Afula",
+     "lat": 32.6057,
+     "lng": 35.29,
+     "score": 267,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Et Taiyibeh",
+     "lat": 32.60385,
+     "lng": 35.44661,
+     "score": 109,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet Taiyibeh",
+     "lat": 32.51718,
+     "lng": 35.17854,
+     "score": 78,
+     "tier": "낮음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "mizpah1",
+   "name": "미스바(길르앗)",
+   "nameEn": "Mizpah 1",
+   "kind": "도시",
+   "verses": "삿 10:17; 11:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Jel‘ad",
+     "lat": 32.118511,
+     "lng": 35.77702,
+     "score": 150,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tall er Rumeith",
+     "lat": 32.499852,
+     "lng": 36.014988,
+     "score": 27,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet er Rasuni",
+     "lat": 32.131192,
+     "lng": 35.761295,
+     "score": 24,
+     "tier": "낮음",
+     "precision": "150 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "zorah",
+   "name": "소라",
+   "nameEn": "Zorah",
+   "kind": "도시",
+   "verses": "삿 13:2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Tzora",
+     "lat": 31.773992,
+     "lng": 34.985289,
+     "score": 856,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "timnah",
+   "name": "딤나",
+   "nameEn": "Timnah 1",
+   "kind": "도시",
+   "verses": "삿 14:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Batash",
+     "lat": 31.784831,
+     "lng": 34.910297,
+     "score": 633,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Horbat Timna",
+     "lat": 31.743041,
+     "lng": 34.935419,
+     "score": 139,
+     "tier": "낮음",
+     "precision": "100 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ashkelon",
+   "name": "아스글론",
+   "nameEn": "Ashkelon",
+   "kind": "도시",
+   "verses": "삿 14:19",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Ashkelon",
+     "lat": 31.663889,
+     "lng": 34.545833,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "etam",
+   "name": "에담 바위",
+   "nameEn": "Etam 1",
+   "kind": "곳",
+   "verses": "삿 15:8",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet el Khokh",
+     "lat": 31.68478,
+     "lng": 35.17884,
+     "score": 317,
+     "tier": "보통",
+     "precision": "100 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Arak Ismain",
+     "lat": 31.763715,
+     "lng": 35.025793,
+     "score": 176,
+     "tier": "보통",
+     "precision": "500 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Bayt Itab",
+     "lat": 31.734836,
+     "lng": 35.052967,
+     "score": 10,
+     "tier": "낮음",
+     "precision": "point in recent settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "lehi",
+   "name": "레히",
+   "nameEn": "Lehi",
+   "kind": "곳",
+   "verses": "삿 15:9",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet es Siyyagh",
+     "lat": 31.748796,
+     "lng": 35.001006,
+     "score": 85,
+     "tier": "낮음",
+     "precision": "20 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Arak Ismain",
+     "lat": 31.763715,
+     "lng": 35.025793,
+     "score": 20,
+     "tier": "낮음",
+     "precision": "500 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Bayt Itab",
+     "lat": 31.734836,
+     "lng": 35.052967,
+     "score": 10,
+     "tier": "낮음",
+     "precision": "point in recent settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gaza",
+   "name": "가사",
+   "nameEn": "Gaza",
+   "kind": "도시",
+   "verses": "삿 16:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Harube",
+     "lat": 31.504,
+     "lng": 34.4644,
+     "score": 500,
+     "tier": "높음",
+     "precision": "1 km",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "dan",
+   "name": "단",
+   "nameEn": "Dan",
+   "kind": "도시",
+   "verses": "삿 18:29",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Dan",
+     "lat": 33.249,
+     "lng": 35.652,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gibeah",
+   "name": "기브아",
+   "nameEn": "Gibeah 1",
+   "kind": "도시",
+   "verses": "삿 19:12; 삼상 19:9–10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel el Ful",
+     "lat": 31.823113,
+     "lng": 35.230718,
+     "score": 822,
+     "tier": "높음",
+     "precision": "30 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Jaba",
+     "lat": 31.8575,
+     "lng": 35.261111,
+     "score": 481,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "mizpah3",
+   "name": "미스바(베냐민)",
+   "nameEn": "Mizpah 3",
+   "kind": "도시",
+   "verses": "삿 20:1; 삼상 7:5–6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell en Nasbeh",
+     "lat": 31.885136,
+     "lng": 35.216417,
+     "score": 887,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Nabi Samwil",
+     "lat": 31.832733,
+     "lng": 35.18015,
+     "score": 118,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "shiloh",
+   "name": "실로",
+   "nameEn": "Shiloh",
+   "kind": "도시",
+   "verses": "삿 21:19; 삼상 4:3–4",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet Seilun",
+     "lat": 32.055703,
+     "lng": 35.289536,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethlehem",
+   "name": "베들레헴",
+   "nameEn": "Bethlehem 1",
+   "kind": "도시",
+   "verses": "룻 1:1; 룻 1:19, 22",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Bethlehem",
+     "lat": 31.704306,
+     "lng": 35.207639,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "moab",
+   "name": "모압",
+   "nameEn": "Moab 1",
+   "kind": "나라",
+   "verses": "룻 1:1–5; 삿 3:12–14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kerak",
+     "lat": 31.180556,
+     "lng": 35.701389,
+     "score": 611,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ebenezer",
+   "name": "에벤에셀",
+   "nameEn": "Ebenezer 1",
+   "kind": "곳",
+   "verses": "삼상 4:1–11; 5:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Izbet Sartah",
+     "lat": 32.1046,
+     "lng": 34.9645,
+     "score": 255,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Majdel Yaba",
+     "lat": 32.080844,
+     "lng": 34.956936,
+     "score": 33,
+     "tier": "낮음",
+     "precision": "point in recent settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ashdod",
+   "name": "아스돗",
+   "nameEn": "Ashdod",
+   "kind": "도시",
+   "verses": "삼상 5:1–2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Ashdod",
+     "lat": 31.7572,
+     "lng": 34.6578,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gath",
+   "name": "가드",
+   "nameEn": "Gath 1",
+   "kind": "도시",
+   "verses": "삼상 5:8–9; 삼상 21:10–13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell es Safi",
+     "lat": 31.69972,
+     "lng": 34.84694,
+     "score": 622,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tell esh Sharia",
+     "lat": 31.3912,
+     "lng": 34.6816,
+     "score": 54,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Ras Abu Hamid",
+     "lat": 31.90302,
+     "lng": 34.88994,
+     "score": 17,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ekron",
+   "name": "에그론",
+   "nameEn": "Ekron",
+   "kind": "도시",
+   "verses": "삼상 5:10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Miqne",
+     "lat": 31.7775,
+     "lng": 34.851944,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethshemesh",
+   "name": "벧세메스",
+   "nameEn": "Beth-shemesh 1",
+   "kind": "도시",
+   "verses": "삼상 6:12–13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Bet Shemesh",
+     "lat": 31.750621,
+     "lng": 34.974744,
+     "score": 862,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "kjearim",
+   "name": "기럇여아림",
+   "nameEn": "Kiriath-jearim",
+   "kind": "도시",
+   "verses": "삼상 7:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Deir el Azar",
+     "lat": 31.808957,
+     "lng": 35.10378,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "naioth",
+   "name": "나욧(라마)",
+   "nameEn": "Naioth",
+   "kind": "곳",
+   "verses": "삼상 19:18",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Al Ram",
+     "lat": 31.85434,
+     "lng": 35.23161,
+     "score": 668,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Rantis",
+     "lat": 32.028056,
+     "lng": 35.019444,
+     "score": 395,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Beit Rima",
+     "lat": 32.03286,
+     "lng": 35.1025,
+     "score": 341,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "nob",
+   "name": "놉",
+   "nameEn": "Nob",
+   "kind": "도시",
+   "verses": "삼상 21:1–6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Ras el Mesharif",
+     "lat": 31.7925,
+     "lng": 35.244167,
+     "score": 162,
+     "tier": "보통",
+     "precision": "point on mountain",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Ras Umm et Tala",
+     "lat": 31.794892,
+     "lng": 35.242628,
+     "score": 152,
+     "tier": "보통",
+     "precision": "1 km",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Isawiya",
+     "lat": 31.798611,
+     "lng": 35.248333,
+     "score": 90,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "adullam",
+   "name": "아둘람",
+   "nameEn": "Adullam",
+   "kind": "도시",
+   "verses": "삼상 22:1–2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet esh Sheikh Madhkur",
+     "lat": 31.651667,
+     "lng": 35.001667,
+     "score": 792,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet Id el Minya",
+     "lat": 31.655,
+     "lng": 35.003889,
+     "score": -10,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "mizpeh3",
+   "name": "모압 미스바",
+   "nameEn": "Mizpeh 3",
+   "kind": "곳",
+   "verses": "삼상 22:3",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kerak",
+     "lat": 31.180556,
+     "lng": 35.701389,
+     "score": 517,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Rujm el Meshrefeh",
+     "lat": 31.54633,
+     "lng": 35.77646,
+     "score": 50,
+     "tier": "낮음",
+     "precision": "25 km",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "keilah",
+   "name": "그일라",
+   "nameEn": "Keilah",
+   "kind": "도시",
+   "verses": "삼상 23:5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet Qila",
+     "lat": 31.6137,
+     "lng": 35.0036,
+     "score": 844,
+     "tier": "높음",
+     "precision": "10 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ziph",
+   "name": "십 광야",
+   "nameEn": "Wilderness of Ziph",
+   "kind": "광야",
+   "verses": "삼상 23:14–15",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Zif",
+     "lat": 31.47475,
+     "lng": 35.13514,
+     "score": 633,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "maon",
+   "name": "마온 광야",
+   "nameEn": "Wilderness of Maon",
+   "kind": "광야",
+   "verses": "삼상 23:24–25",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Main",
+     "lat": 31.409448,
+     "lng": 35.133839,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "engedi",
+   "name": "엔게디",
+   "nameEn": "Engedi",
+   "kind": "오아시스",
+   "verses": "삼상 24:1–4",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Ein Gedi",
+     "lat": 31.45,
+     "lng": 35.383333,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "paran",
+   "name": "바란 광야",
+   "nameEn": "Paran",
+   "kind": "광야",
+   "verses": "삼상 25:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Paran",
+     "lat": 30.303218,
+     "lng": 34.776667,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "carmel1",
+   "name": "갈멜(유다)",
+   "nameEn": "Carmel 1",
+   "kind": "도시",
+   "verses": "삼상 25:2–3",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet el Kirmil",
+     "lat": 31.422876,
+     "lng": 35.132952,
+     "score": 889,
+     "tier": "높음",
+     "precision": "200 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ziklag",
+   "name": "시글락",
+   "nameEn": "Ziklag",
+   "kind": "도시",
+   "verses": "삼상 27:6; 삼상 30:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell esh Sharia",
+     "lat": 31.3912,
+     "lng": 34.6816,
+     "score": 524,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tel Halif",
+     "lat": 31.38333,
+     "lng": 34.86564,
+     "score": 191,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tel Beer Sheva",
+     "lat": 31.244722,
+     "lng": 34.840833,
+     "score": 54,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "shunem",
+   "name": "수넴",
+   "nameEn": "Shunem",
+   "kind": "도시",
+   "verses": "삼상 28:4",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Sulam",
+     "lat": 32.605633,
+     "lng": 35.334306,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gilboa",
+   "name": "길보아 산",
+   "nameEn": "Mount Gilboa",
+   "kind": "산",
+   "verses": "삼상 28:4; 삼상 31:1–6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Mount Gilboa",
+     "lat": 32.433889,
+     "lng": 35.414444,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on mountain",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "endor",
+   "name": "엔돌",
+   "nameEn": "En-dor",
+   "kind": "도시",
+   "verses": "삼상 28:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Khirbet es Safsafa",
+     "lat": 32.643614,
+     "lng": 35.390222,
+     "score": 454,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Indur",
+     "lat": 32.636478,
+     "lng": 35.381264,
+     "score": 73,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tell Abu Qedeis",
+     "lat": 32.55949,
+     "lng": 35.216031,
+     "score": 30,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bethshan",
+   "name": "벧산",
+   "nameEn": "Beth-shan",
+   "kind": "도시",
+   "verses": "삼상 31:10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Bet Shean",
+     "lat": 32.503611,
+     "lng": 35.503056,
+     "score": 1017,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "jabesh",
+   "name": "야베스 길르앗",
+   "nameEn": "Jabesh-gilead",
+   "kind": "도시",
+   "verses": "삼상 31:11–13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell el Maqlub",
+     "lat": 32.40237,
+     "lng": 35.6823,
+     "score": 479,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tell Abu el Kharaz",
+     "lat": 32.398983,
+     "lng": 35.595106,
+     "score": 217,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tall al Meqbarah",
+     "lat": 32.4002,
+     "lng": 35.5905,
+     "score": 47,
+     "tier": "낮음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ramah",
+   "name": "라마(라마다임소빔)",
+   "nameEn": "Ramathaim-zophim",
+   "kind": "도시",
+   "verses": "삼상 1:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Al Ram",
+     "lat": 31.85434,
+     "lng": 35.23161,
+     "score": 655,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Rantis",
+     "lat": 32.028056,
+     "lng": 35.019444,
+     "score": 390,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Beit Rima",
+     "lat": 32.03286,
+     "lng": 35.1025,
+     "score": 327,
+     "tier": "보통",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "michmash",
+   "name": "믹마스",
+   "nameEn": "Michmash",
+   "kind": "도시",
+   "verses": "삼상 13:5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Mukhmas",
+     "lat": 31.872817,
+     "lng": 35.276858,
+     "score": 699,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Khirbet el Hara el Fawqa",
+     "lat": 31.879712,
+     "lng": 35.2751,
+     "score": 195,
+     "tier": "보통",
+     "precision": "100 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "elah",
+   "name": "엘라 골짜기",
+   "nameEn": "Valley of Elah",
+   "kind": "골짜기",
+   "verses": "삼상 17:2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Valley of Elah",
+     "lat": 31.67542,
+     "lng": 34.99802,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ammon",
+   "name": "암몬",
+   "nameEn": "Ammon",
+   "kind": "나라",
+   "verses": "삿 10:7–9",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Amman",
+     "lat": 31.9547,
+     "lng": 35.9343,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
    ]
   }
  ],
@@ -4092,6 +5698,772 @@
    ],
    "books": [
     1
+   ]
+  },
+  {
+   "id": "judges-places",
+   "title": "사사기의 주요 지역",
+   "period": "사사기 1–21장",
+   "note": "사사기에 이름이 나오는 주요 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    7
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "hebron",
+     "name": "헤브론",
+     "time": "",
+     "event": "유다 지파가 헤브론에서 가나안 사람을 침",
+     "verses": "삿 1:10",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "debir",
+     "name": "드빌",
+     "time": "",
+     "event": "갈렙이 기럇 세벨(드빌)을 치러 감, 옷니엘이 점령",
+     "verses": "삿 1:11",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "bochim",
+     "name": "보김",
+     "time": "",
+     "event": "여호와의 사자가 말하자 백성이 소리 내어 욺",
+     "verses": "삿 2:1, 5",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "jericho",
+     "name": "여리고",
+     "time": "",
+     "event": "모압 왕 에글론이 종려나무 성을 차지함",
+     "verses": "삿 3:13",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "moab",
+     "name": "모압",
+     "time": "",
+     "event": "모압 왕 에글론이 이스라엘을 십팔 년 섬기게 함",
+     "verses": "삿 3:12–14",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "hazor",
+     "name": "하솔",
+     "time": "",
+     "event": "가나안 왕 야빈이 하솔에서 다스림",
+     "verses": "삿 4:2",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "haroshet",
+     "name": "하로셋 학고임",
+     "time": "",
+     "event": "야빈의 군대 장관 시스라가 있던 곳",
+     "verses": "삿 4:2",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "tabor",
+     "name": "다볼 산",
+     "time": "",
+     "event": "바락이 만 명을 이끌고 모임",
+     "verses": "삿 4:6, 12",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "kishon",
+     "name": "기손 강",
+     "time": "",
+     "event": "시스라의 군대가 기손 강 쪽에서 패함",
+     "verses": "삿 4:7; 5:21",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "megiddo",
+     "name": "므깃도",
+     "time": "",
+     "event": "다아낙과 함께 므깃도 물가에서 가나안 왕들이 싸움",
+     "verses": "삿 5:19",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "midian",
+     "name": "미디안(땅)",
+     "time": "",
+     "event": "미디안이 이스라엘을 칠 년 괴롭힘",
+     "verses": "삿 6:1",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "ophrah2",
+     "name": "오브라(기드온의 고향)",
+     "time": "",
+     "event": "여호와의 사자가 기드온에게 나타남",
+     "verses": "삿 6:11",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "succoth-g",
+     "name": "숙곳",
+     "time": "",
+     "event": "기드온이 미디안을 쫓다가 숙곳 사람에게 떡을 구함",
+     "verses": "삿 8:5",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "penuel",
+     "name": "브니엘",
+     "time": "",
+     "event": "브누엘 사람에게도 청했으나 거절당함",
+     "verses": "삿 8:8",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "shechem",
+     "name": "세겜",
+     "time": "",
+     "event": "아비멜렉이 세겜에서 왕이 됨",
+     "verses": "삿 9:1",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 16,
+     "placeId": "ammon",
+     "name": "암몬",
+     "time": "",
+     "event": "암몬 자손이 이스라엘을 괴롭힘",
+     "verses": "삿 10:7–9",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 17,
+     "placeId": "mizpah1",
+     "name": "미스바(길르앗)",
+     "time": "",
+     "event": "암몬과 맞선 길르앗 사람들이 모임, 입다가 맹세함",
+     "verses": "삿 10:17; 11:11",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 18,
+     "placeId": "zorah",
+     "name": "소라",
+     "time": "",
+     "event": "마노아와 삼손의 출생",
+     "verses": "삿 13:2",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 19,
+     "placeId": "timnah",
+     "name": "딤나",
+     "time": "",
+     "event": "삼손이 딤나에서 블레셋 여자를 봄",
+     "verses": "삿 14:1",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 20,
+     "placeId": "ashkelon",
+     "name": "아스글론",
+     "time": "",
+     "event": "삼손이 아스글론으로 내려가 삼십 명을 죽임",
+     "verses": "삿 14:19",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 21,
+     "placeId": "etam",
+     "name": "에담 바위",
+     "time": "",
+     "event": "삼손이 에담 바위 틈에 머묾",
+     "verses": "삿 15:8",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 22,
+     "placeId": "lehi",
+     "name": "레히",
+     "time": "",
+     "event": "삼손이 나귀 턱뼈로 블레셋 사람을 침",
+     "verses": "삿 15:9",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 23,
+     "placeId": "gaza",
+     "name": "가사",
+     "time": "",
+     "event": "삼손이 가사 성문을 뽑아 감",
+     "verses": "삿 16:1",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 24,
+     "placeId": "dan",
+     "name": "단",
+     "time": "",
+     "event": "단 지파가 라이스를 차지하고 단이라 부름",
+     "verses": "삿 18:29",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 25,
+     "placeId": "gibeah",
+     "name": "기브아",
+     "time": "",
+     "event": "레위인의 첩 사건이 일어남",
+     "verses": "삿 19:12",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 26,
+     "placeId": "mizpah3",
+     "name": "미스바(베냐민)",
+     "time": "",
+     "event": "이스라엘 모든 지파가 미스바에 모임",
+     "verses": "삿 20:1",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 27,
+     "placeId": "bethel",
+     "name": "벧엘",
+     "time": "",
+     "event": "베냐민과 싸우기 전 벧엘에서 하나님께 물음",
+     "verses": "삿 20:18",
+     "refs": [
+      200
+     ]
+    },
+    {
+     "order": 28,
+     "placeId": "shiloh",
+     "name": "실로",
+     "time": "",
+     "event": "베냐민 남자에게 실로의 처녀를 취하게 함",
+     "verses": "삿 21:19",
+     "refs": [
+      200
+     ]
+    }
+   ]
+  },
+  {
+   "id": "naomi-family",
+   "title": "엘리멜렉 가족의 이동(베들레헴 ↔ 모압)",
+   "period": "룻기 1–2장",
+   "note": "흉년을 피해 모압으로 갔다가 나오미와 룻이 베들레헴으로 돌아오는 길.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    8
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "bethlehem",
+     "name": "베들레헴",
+     "time": "사사들이 다스리던 때(룻 1:1)",
+     "event": "흉년이 들어 엘리멜렉 가족이 떠남",
+     "verses": "룻 1:1",
+     "refs": [
+      201
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "moab",
+     "name": "모압",
+     "time": "",
+     "event": "모압 지방에서 엘리멜렉이 죽고 두 아들이 모압 여자를 아내로 맞음, 이어 두 아들도 죽음",
+     "verses": "룻 1:1–5",
+     "refs": [
+      201
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "bethlehem",
+     "name": "베들레헴",
+     "time": "보리 베기 시작할 때(룻 1:22)",
+     "event": "나오미와 룻이 돌아옴",
+     "verses": "룻 1:19, 22",
+     "refs": [
+      201
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ark-philistia",
+   "title": "언약궤의 이동(실로 → 블레셋 땅 → 기럇여아림)",
+   "period": "사무엘상 4–7장",
+   "note": "이스라엘이 에벤에셀에서 패하고 언약궤를 빼앗겼다가 돌려받아 기럇여아림에 머물기까지.",
+   "color": "#D35400",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    9
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "shiloh",
+     "name": "실로",
+     "time": "",
+     "event": "언약궤를 실로에서 진영으로 가져옴",
+     "verses": "삼상 4:3–4",
+     "refs": [
+      202
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "ebenezer",
+     "name": "에벤에셀",
+     "time": "",
+     "event": "이스라엘이 에벤에셀에서 패하고 궤를 빼앗김",
+     "verses": "삼상 4:1–11; 5:1",
+     "refs": [
+      202
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "ashdod",
+     "name": "아스돗",
+     "time": "",
+     "event": "블레셋이 궤를 다곤 신전에 둠",
+     "verses": "삼상 5:1–2",
+     "refs": [
+      202
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "gath",
+     "name": "가드",
+     "time": "",
+     "event": "궤를 가드로 옮김",
+     "verses": "삼상 5:8–9",
+     "refs": [
+      202
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "ekron",
+     "name": "에그론",
+     "time": "",
+     "event": "궤를 에그론으로 보냄",
+     "verses": "삼상 5:10",
+     "refs": [
+      202
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "bethshemesh",
+     "name": "벧세메스",
+     "time": "",
+     "event": "암소가 끄는 수레로 벧세메스에 이름",
+     "verses": "삼상 6:12–13",
+     "refs": [
+      202
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "kjearim",
+     "name": "기럇여아림",
+     "time": "",
+     "event": "기럇여아림 사람들이 궤를 옮겨 모심",
+     "verses": "삼상 7:1",
+     "refs": [
+      202
+     ]
+    }
+   ]
+  },
+  {
+   "id": "david-flight",
+   "title": "다윗의 도피와 유랑(사울을 피해)",
+   "period": "사무엘상 19–27장",
+   "note": "사울의 살해 시도를 피해 다윗이 옮겨 다닌 곳.",
+   "color": "#8E44AD",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    9
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "naioth",
+     "name": "나욧(라마)",
+     "time": "",
+     "event": "다윗이 라마 나욧에 있는 사무엘에게로 감",
+     "verses": "삼상 19:18",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "nob",
+     "name": "놉",
+     "time": "",
+     "event": "제사장 아히멜렉을 찾아가 떡을 얻음",
+     "verses": "삼상 21:1–6",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "gath",
+     "name": "가드",
+     "time": "",
+     "event": "가드 왕 아기스 앞에서 미친 척함",
+     "verses": "삼상 21:10–13",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "adullam",
+     "name": "아둘람",
+     "time": "",
+     "event": "아둘람 굴로 피함, 가족과 사람들이 모임",
+     "verses": "삼상 22:1–2",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "mizpeh3",
+     "name": "모압 미스바",
+     "time": "",
+     "event": "부모를 모압 왕에게 맡김",
+     "verses": "삼상 22:3",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "keilah",
+     "name": "그일라",
+     "time": "",
+     "event": "블레셋에게서 그일라를 구함",
+     "verses": "삼상 23:5",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "ziph",
+     "name": "십 광야",
+     "time": "",
+     "event": "십 광야 수풀에 머묾",
+     "verses": "삼상 23:14–15",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "maon",
+     "name": "마온 광야",
+     "time": "",
+     "event": "마온 광야에서 사울에게 거의 붙잡힐 뻔함",
+     "verses": "삼상 23:24–25",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "engedi",
+     "name": "엔게디",
+     "time": "",
+     "event": "사울을 죽이지 않고 옷자락만 벰",
+     "verses": "삼상 24:1–4",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "paran",
+     "name": "바란 광야",
+     "time": "",
+     "event": "사무엘이 죽은 뒤 바란 광야로 내려감",
+     "verses": "삼상 25:1",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "carmel1",
+     "name": "갈멜(유다)",
+     "time": "",
+     "event": "나발과 아비가일 사건",
+     "verses": "삼상 25:2–3",
+     "refs": [
+      203
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "ziklag",
+     "name": "시글락",
+     "time": "",
+     "event": "아기스가 다윗에게 시글락을 줌",
+     "verses": "삼상 27:6",
+     "refs": [
+      203
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saul-last",
+   "title": "사울의 마지막 길(수넴 → 길보아)",
+   "period": "사무엘상 28–31장",
+   "note": "블레셋과 맞서다 엔돌 신접한 여인을 찾고 길보아에서 죽기까지.",
+   "color": "#2C3E50",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    9
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "shunem",
+     "name": "수넴",
+     "time": "",
+     "event": "블레셋이 수넴에 진을 침",
+     "verses": "삼상 28:4",
+     "refs": [
+      204
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "gilboa",
+     "name": "길보아 산",
+     "time": "",
+     "event": "사울이 길보아에 진을 침",
+     "verses": "삼상 28:4",
+     "refs": [
+      204
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "endor",
+     "name": "엔돌",
+     "time": "",
+     "event": "사울이 엔돌의 신접한 여인을 찾아감",
+     "verses": "삼상 28:7",
+     "refs": [
+      204
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "gilboa",
+     "name": "길보아 산",
+     "time": "",
+     "event": "사울과 아들들이 길보아 산에서 죽음",
+     "verses": "삼상 31:1–6",
+     "refs": [
+      204
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "bethshan",
+     "name": "벧산",
+     "time": "",
+     "event": "블레셋이 사울의 시체를 벧산 성벽에 못 박음",
+     "verses": "삼상 31:10",
+     "refs": [
+      204
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "jabesh",
+     "name": "야베스 길르앗",
+     "time": "",
+     "event": "야베스 길르앗 사람들이 시체를 가져다 장사함",
+     "verses": "삼상 31:11–13",
+     "refs": [
+      204
+     ]
+    }
+   ]
+  },
+  {
+   "id": "samuel1-places",
+   "title": "사무엘상의 주요 지역",
+   "period": "사무엘상 1–31장",
+   "note": "사무엘상에 이름이 나오는 주요 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    9
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "ramah",
+     "name": "라마(라마다임소빔)",
+     "time": "",
+     "event": "엘가나의 고향, 사무엘이 나고 자란 곳",
+     "verses": "삼상 1:1",
+     "refs": [
+      205
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "mizpah3",
+     "name": "미스바(베냐민)",
+     "time": "",
+     "event": "사무엘이 이스라엘을 미스바에 모아 기도함",
+     "verses": "삼상 7:5–6",
+     "refs": [
+      205
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "gilgal",
+     "name": "길갈",
+     "time": "",
+     "event": "사울이 길갈에서 왕이 됨",
+     "verses": "삼상 11:14–15",
+     "refs": [
+      205
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "michmash",
+     "name": "믹마스",
+     "time": "",
+     "event": "블레셋이 믹마스에 진을 치고 사울이 맞섬",
+     "verses": "삼상 13:5",
+     "refs": [
+      205
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "elah",
+     "name": "엘라 골짜기",
+     "time": "",
+     "event": "블레셋과 이스라엘이 엘라 골짜기에서 진을 침, 다윗과 골리앗",
+     "verses": "삼상 17:2",
+     "refs": [
+      205
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "ziklag",
+     "name": "시글락",
+     "time": "",
+     "event": "다윗이 블레셋 땅에서 지낸 시글락",
+     "verses": "삼상 30:1",
+     "refs": [
+      205
+     ]
+    }
    ]
   }
  ]
