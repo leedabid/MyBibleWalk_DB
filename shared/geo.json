@@ -537,6 +537,56 @@
    "level": "reference",
    "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
    "evidence": []
+  },
+  {
+   "n": 225,
+   "cite": "성경 본문(욥기의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(욥기의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 226,
+   "cite": "성경 본문(시편의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(시편의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 227,
+   "cite": "성경 본문(잠언의 지명의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(잠언의 지명)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 228,
+   "cite": "성경 본문(전도서의 지명의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(전도서의 지명)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 229,
+   "cite": "성경 본문(아가의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(아가의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
   }
  ],
  "places": [
@@ -1039,7 +1089,7 @@
    "name": "시내산",
    "nameEn": "Mount Sinai",
    "kind": "산",
-   "verses": "출 19:1–2; 민 33:15",
+   "verses": "출 19:1–2; 민 33:15; 시 68:8, 17",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2456,7 +2506,7 @@
    "name": "요단 강",
    "nameEn": "Jordan",
    "kind": "강",
-   "verses": "수 3:14–17; 4:19; 삼하 19:15–18; 왕하 2:6–8, 11",
+   "verses": "수 3:14–17; 4:19; 삼하 19:15–18; 왕하 2:6–8, 11; 욥 40:23",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2747,7 +2797,7 @@
    "name": "세겜",
    "nameEn": "Shechem",
    "kind": "도시",
-   "verses": "창 12:6–7; 삿 9:1; 왕상 12:1",
+   "verses": "창 12:6–7; 삿 9:1; 왕상 12:1; 시 60:6; 108:7",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2819,7 +2869,7 @@
    "name": "이집트",
    "nameEn": "Egypt",
    "kind": "나라(대표 지점)",
-   "verses": "창 12:10; 왕하 25:26; 대하 12:2",
+   "verses": "창 12:10; 왕하 25:26; 대하 12:2; 시 78:12, 43; 잠 7:16",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -3096,7 +3146,7 @@
    "name": "마하나임",
    "nameEn": "Mahanaim",
    "kind": "도시",
-   "verses": "창 32:1–2; 삼하 2:8–9; 삼하 17:24",
+   "verses": "창 32:1–2; 삼하 2:8–9; 삼하 17:24; 아 6:13",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -3963,7 +4013,7 @@
    "name": "모압",
    "nameEn": "Moab 1",
    "kind": "나라",
-   "verses": "룻 1:1–5; 삿 3:12–14; 왕하 3:4–5; 대하 20:1",
+   "verses": "룻 1:1–5; 삿 3:12–14; 왕하 3:4–5; 대하 20:1; 시 60:8; 108:9",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -4412,7 +4462,7 @@
    "name": "엔게디",
    "nameEn": "Engedi",
    "kind": "오아시스",
-   "verses": "삼상 24:1–4",
+   "verses": "삼상 24:1–4; 아 1:14",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5270,31 +5320,6 @@
    ]
   },
   {
-   "id": "carmel",
-   "name": "갈멜 산",
-   "nameEn": "Mount Carmel",
-   "kind": "산",
-   "verses": "왕상 18:19–40",
-   "mapped": true,
-   "primary": 0,
-   "candidates": [
-    {
-     "label": "Mount Carmel",
-     "lat": 32.6725,
-     "lng": 35.023333,
-     "score": 500,
-     "tier": "높음",
-     "precision": "point on mountain",
-     "refs": [
-      50
-     ]
-    }
-   ],
-   "refs": [
-    50
-   ]
-  },
-  {
    "id": "jezreel",
    "name": "이스르엘",
    "nameEn": "Jezreel 2",
@@ -5443,7 +5468,7 @@
    "name": "두로",
    "nameEn": "Tyre",
    "kind": "도시",
-   "verses": "왕상 5:1; 대상 14:1; 대하 2:3",
+   "verses": "왕상 5:1; 대상 14:1; 대하 2:3; 시 45:12",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5468,7 +5493,7 @@
    "name": "레바논",
    "nameEn": "Lebanon",
    "kind": "산지",
-   "verses": "왕상 5:6, 14; 대하 2:8",
+   "verses": "왕상 5:6, 14; 대하 2:8; 시 29:5–6; 92:12; 아 4:8, 15",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5518,7 +5543,7 @@
    "name": "스바",
    "nameEn": "Sheba 1",
    "kind": "나라",
-   "verses": "왕상 10:1; 대하 9:1",
+   "verses": "왕상 10:1; 대하 9:1; 욥 1:15; 욥 6:19",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5543,7 +5568,7 @@
    "name": "디르사",
    "nameEn": "Tirzah",
    "kind": "도시",
-   "verses": "왕상 14:17; 15:21",
+   "verses": "왕상 14:17; 15:21; 아 6:4",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5734,7 +5759,7 @@
    "name": "갈멜 산",
    "nameEn": "Mount Carmel",
    "kind": "산",
-   "verses": "왕하 2:25",
+   "verses": "왕하 2:25; 왕상 18:19–40; 아 7:5",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -5978,7 +6003,7 @@
    "name": "바벨론",
    "nameEn": "Babylon 1",
    "kind": "도시",
-   "verses": "왕하 25:7; 왕하 25:27–30; 대하 36:20; 대하 36:6; 스 2:1; 스 7:6, 9; 에 2:6",
+   "verses": "왕하 25:7; 왕하 25:27–30; 대하 36:20; 대하 36:6; 스 2:1; 스 7:6, 9; 에 2:6; 시 137:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6100,7 +6125,7 @@
    "name": "길르앗",
    "nameEn": "Gilead 1",
    "kind": "지역",
-   "verses": "대상 5:9",
+   "verses": "대상 5:9; 시 60:7; 108:8; 아 4:1; 6:5",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6125,7 +6150,7 @@
    "name": "바산",
    "nameEn": "Bashan",
    "kind": "지역",
-   "verses": "대상 5:11",
+   "verses": "대상 5:11; 시 68:15; 시 22:12",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6175,7 +6200,7 @@
    "name": "에돔",
    "nameEn": "Edom",
    "kind": "나라",
-   "verses": "대상 18:11–13; 대하 21:8",
+   "verses": "대상 18:11–13; 대하 21:8; 시 60:8; 108:9",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6516,7 +6541,7 @@
    "name": "구스",
    "nameEn": "Ethiopia",
    "kind": "나라",
-   "verses": "에 1:1",
+   "verses": "에 1:1; 욥 28:19",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6601,6 +6626,574 @@
      "lng": 44.422222,
      "score": 500,
      "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "uz",
+   "name": "우스",
+   "nameEn": "Uz",
+   "kind": "나라",
+   "verses": "욥 1:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Buseira",
+     "lat": 30.745843,
+     "lng": 35.603919,
+     "score": 561,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tel Beer Sheva",
+     "lat": 31.244722,
+     "lng": 34.840833,
+     "score": 452,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Hauran",
+     "lat": 32.73009,
+     "lng": 36.36812,
+     "score": 287,
+     "tier": "보통",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "chaldea",
+   "name": "갈대아",
+   "nameEn": "Chaldea",
+   "kind": "나라",
+   "verses": "욥 1:17",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell el Muqayyar",
+     "lat": 30.962222,
+     "lng": 46.104444,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "naamah2",
+   "name": "나아마",
+   "nameEn": "Naamah 2",
+   "kind": "도시",
+   "verses": "욥 2:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Buseira",
+     "lat": 30.745843,
+     "lng": 35.603919,
+     "score": 481,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Sheba",
+     "lat": 15.348333,
+     "lng": 44.206389,
+     "score": 284,
+     "tier": "보통",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Jebel el Na‘ameh",
+     "lat": 27.8825,
+     "lng": 36.8975,
+     "score": 70,
+     "tier": "낮음",
+     "precision": "point on mountain",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "tema",
+   "name": "데마",
+   "nameEn": "Tema",
+   "kind": "도시",
+   "verses": "욥 6:19",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tayma",
+     "lat": 27.629703,
+     "lng": 38.551626,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ophir",
+   "name": "오빌",
+   "nameEn": "Ophir",
+   "kind": "나라",
+   "verses": "욥 22:24; 28:16",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Adulis",
+     "lat": 15.263061,
+     "lng": 39.660552,
+     "score": 255,
+     "tier": "보통",
+     "precision": "100 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "southwestern Arabia",
+     "lat": 18.216667,
+     "lng": 42.5,
+     "score": 190,
+     "tier": "보통",
+     "precision": "settlement in region",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Djibouti",
+     "lat": 11.595,
+     "lng": 43.148056,
+     "score": 96,
+     "tier": "낮음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "zion",
+   "name": "시온",
+   "nameEn": "Zion",
+   "kind": "산/성",
+   "verses": "시 2:6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Jerusalem",
+     "lat": 31.776667,
+     "lng": 35.234167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "hermon",
+   "name": "헤르몬 산",
+   "nameEn": "Mount Hermon",
+   "kind": "산",
+   "verses": "시 42:6; 아 4:8",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Mount Hermon",
+     "lat": 33.4,
+     "lng": 35.85,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on mountain",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "zoan",
+   "name": "소안",
+   "nameEn": "Zoan",
+   "kind": "도시",
+   "verses": "시 78:12, 43",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tanis",
+     "lat": 30.976944,
+     "lng": 31.88,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "redsea1",
+   "name": "홍해(갈대 바다)",
+   "nameEn": "Red Sea 1",
+   "kind": "바다",
+   "verses": "시 106:7–9; 136:13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Bitter Lakes",
+     "lat": 30.338333,
+     "lng": 32.377778,
+     "score": 293,
+     "tier": "보통",
+     "precision": "point in body of water",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Gulf of Suez",
+     "lat": 28.75,
+     "lng": 33.0,
+     "score": 164,
+     "tier": "보통",
+     "precision": "point in body of water",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Lake Timsah",
+     "lat": 30.577778,
+     "lng": 32.288889,
+     "score": 133,
+     "tier": "낮음",
+     "precision": "point in body of water",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ham2",
+   "name": "함의 땅",
+   "nameEn": "Ham 2",
+   "kind": "나라",
+   "verses": "시 105:23, 27; 106:22",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Ain Shams",
+     "lat": 30.129444,
+     "lng": 31.3075,
+     "score": 451,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "meribah",
+   "name": "므리바",
+   "nameEn": "Meribah 1",
+   "kind": "곳",
+   "verses": "시 95:8; 시 81:7; 106:32",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Ain el Qudeirat",
+     "lat": 30.648333,
+     "lng": 34.422222,
+     "score": 637,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Ein Qedeis",
+     "lat": 30.583378,
+     "lng": 34.484081,
+     "score": 320,
+     "tier": "보통",
+     "precision": "100 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "succvalley",
+   "name": "숙곳 골짜기",
+   "nameEn": "Valley of Succoth",
+   "kind": "골짜기",
+   "verses": "시 60:6; 108:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Deir Alla",
+     "lat": 32.1966,
+     "lng": 35.62118,
+     "score": 574,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "philistia",
+   "name": "블레셋",
+   "nameEn": "Philistia",
+   "kind": "나라",
+   "verses": "시 60:8; 108:9",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Ashkelon",
+     "lat": 31.663889,
+     "lng": 34.545833,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "kedar",
+   "name": "게달",
+   "nameEn": "Kedar",
+   "kind": "지역",
+   "verses": "시 120:5; 아 1:5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Dumat al Jandal",
+     "lat": 29.811417,
+     "lng": 39.868306,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "sharon",
+   "name": "사론",
+   "nameEn": "Sharon 1",
+   "kind": "평지",
+   "verses": "아 2:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Sharon Plain",
+     "lat": 32.4,
+     "lng": 34.883,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "heshbon",
+   "name": "헤스본",
+   "nameEn": "Heshbon",
+   "kind": "도시",
+   "verses": "아 7:4",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tell Hesban",
+     "lat": 31.800811,
+     "lng": 35.809062,
+     "score": 551,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tall Jalul",
+     "lat": 31.71663,
+     "lng": 35.856843,
+     "score": 111,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tall al Umayri",
+     "lat": 31.8686,
+     "lng": 35.8881,
+     "score": 30,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "baalhamon",
+   "name": "바알하몬",
+   "nameEn": "Baal-hamon",
+   "kind": "곳",
+   "verses": "아 8:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Jerusalem",
+     "lat": 31.776667,
+     "lng": 35.234167,
+     "score": 270,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Tel Abel Beth Maacah",
+     "lat": 33.258051,
+     "lng": 35.581007,
+     "score": 257,
+     "tier": "보통",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Umm el Awamid",
+     "lat": 33.128108,
+     "lng": 35.152022,
+     "score": 206,
+     "tier": "보통",
      "precision": "point in visible remains",
      "refs": [
       50
@@ -8778,7 +9371,7 @@
     },
     {
      "order": 4,
-     "placeId": "carmel",
+     "placeId": "mtcarmel",
      "name": "갈멜 산",
      "time": "",
      "event": "갈멜 산에서 바알의 선지자와 대결함",
@@ -10150,6 +10743,538 @@
      "verses": "에 2:6",
      "refs": [
       224
+     ]
+    }
+   ]
+  },
+  {
+   "id": "job-places",
+   "title": "욥기의 주요 지역",
+   "period": "욥기 1–42장",
+   "note": "욥기에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다. 욥의 고향 우스의 위치는 학자들 사이에서 정해지지 않았습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    18
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "uz",
+     "name": "우스",
+     "time": "",
+     "event": "욥이 살던 땅",
+     "verses": "욥 1:1",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "sheba",
+     "name": "스바",
+     "time": "",
+     "event": "스바의 행상(여행하는 무리)이 물을 바람",
+     "verses": "욥 6:19",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "chaldea",
+     "name": "갈대아",
+     "time": "",
+     "event": "갈대아 사람이 낙타를 빼앗음",
+     "verses": "욥 1:17",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "naamah2",
+     "name": "나아마",
+     "time": "",
+     "event": "욥의 친구 소발은 나아마 사람",
+     "verses": "욥 2:11",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "tema",
+     "name": "데마",
+     "time": "",
+     "event": "데마의 행상(여행하는 무리)이 물을 바람",
+     "verses": "욥 6:19",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "ophir",
+     "name": "오빌",
+     "time": "",
+     "event": "오빌의 금",
+     "verses": "욥 22:24; 28:16",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "ethiopia",
+     "name": "구스",
+     "time": "",
+     "event": "구스의 황옥",
+     "verses": "욥 28:19",
+     "refs": [
+      225
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "jordan",
+     "name": "요단 강",
+     "time": "",
+     "event": "요단 강을 삼키는 베헤못",
+     "verses": "욥 40:23",
+     "refs": [
+      225
+     ]
+    }
+   ]
+  },
+  {
+   "id": "psalms-places",
+   "title": "시편의 주요 지역",
+   "period": "시편 2–137편",
+   "note": "시편에 이름이 나오는 주요 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다. 시편은 노래이므로 지명이 사건 기록이 아니라 이미지·회상으로 쓰인 곳이 많습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    19
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "zion",
+     "name": "시온",
+     "time": "",
+     "event": "여호와께서 세우신 왕이 앉은 거룩한 산",
+     "verses": "시 2:6",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "hermon",
+     "name": "헤르몬 산",
+     "time": "",
+     "event": "헤르몬 산에서 요단 땅을 기억함",
+     "verses": "시 42:6",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "sinai",
+     "name": "시내산",
+     "time": "",
+     "event": "시내 산이 하나님 앞에서 진동함",
+     "verses": "시 68:8, 17",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "bashan",
+     "name": "바산",
+     "time": "",
+     "event": "바산의 힘센 소들이 에워쌈",
+     "verses": "시 22:12",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "하나님이 이집트 땅 소안 들에서 행하신 일을 회상함",
+     "verses": "시 78:12, 43",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "zoan",
+     "name": "소안",
+     "time": "",
+     "event": "소안 들에서 기적을 행하심",
+     "verses": "시 78:12, 43",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "redsea1",
+     "name": "홍해(갈대 바다)",
+     "time": "",
+     "event": "홍해(갈대 바다)를 갈라 건너게 하심",
+     "verses": "시 106:7–9; 136:13",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "ham2",
+     "name": "함의 땅",
+     "time": "",
+     "event": "함의 땅에서 놀라운 일을 행하심",
+     "verses": "시 105:23, 27; 106:22",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "meribah",
+     "name": "므리바",
+     "time": "",
+     "event": "므리바 물가에서 시험하심, 므리바 물에서 노하게 함",
+     "verses": "시 81:7; 106:32",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "shechem",
+     "name": "세겜",
+     "time": "",
+     "event": "하나님이 세겜을 나누시겠다고 하심",
+     "verses": "시 60:6; 108:7",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "succvalley",
+     "name": "숙곳 골짜기",
+     "time": "",
+     "event": "숙곳 골짜기를 척량하시겠다고 하심",
+     "verses": "시 60:6; 108:7",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "gilead",
+     "name": "길르앗",
+     "time": "",
+     "event": "길르앗은 내 것이라는 말씀",
+     "verses": "시 60:7; 108:8",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "moab",
+     "name": "모압",
+     "time": "",
+     "event": "모압은 나의 목욕 그릇",
+     "verses": "시 60:8; 108:9",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "edom",
+     "name": "에돔",
+     "time": "",
+     "event": "에돔 위에 신을 던지겠다는 말씀",
+     "verses": "시 60:8; 108:9",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "philistia",
+     "name": "블레셋",
+     "time": "",
+     "event": "블레셋 위에 외치겠다는 말씀",
+     "verses": "시 60:8; 108:9",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 16,
+     "placeId": "tyre",
+     "name": "두로",
+     "time": "",
+     "event": "두로의 딸이 예물을 가져옴",
+     "verses": "시 45:12",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 17,
+     "placeId": "lebanon",
+     "name": "레바논",
+     "time": "",
+     "event": "레바논 백향목",
+     "verses": "시 29:5–6; 92:12",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 18,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘의 평안을 구함",
+     "verses": "시 122:6",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 19,
+     "placeId": "babylon",
+     "name": "바벨론",
+     "time": "",
+     "event": "바벨론 강가에서 시온을 기억하며 욺",
+     "verses": "시 137:1",
+     "refs": [
+      226
+     ]
+    },
+    {
+     "order": 20,
+     "placeId": "kedar",
+     "name": "게달",
+     "time": "",
+     "event": "게달의 장막 가운데 머묾",
+     "verses": "시 120:5",
+     "refs": [
+      226
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proverbs-places",
+   "title": "잠언의 지명",
+   "period": "잠언 7장",
+   "note": "잠언 전체에서 OpenBible 자료가 지명으로 잡은 곳은 이집트 한 곳뿐입니다. 순서 없는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    20
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "음녀의 침상을 꾸민 애굽의 무늬 있는 이불",
+     "verses": "잠 7:16",
+     "refs": [
+      227
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ecclesiastes-places",
+   "title": "전도서의 지명",
+   "period": "전도서 1–2장",
+   "note": "전도자가 자신을 예루살렘의 왕으로 소개합니다. 순서 없는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    21
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "다윗의 아들, 예루살렘 왕인 전도자",
+     "verses": "전 1:1, 12",
+     "refs": [
+      228
+     ]
+    }
+   ]
+  },
+  {
+   "id": "song-places",
+   "title": "아가의 주요 지역",
+   "period": "아가 1–8장",
+   "note": "아가에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다. 시의 비유에서 쓰인 이름이 많습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    22
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "kedar",
+     "name": "게달",
+     "time": "",
+     "event": "게달의 장막같이 검다",
+     "verses": "아 1:5",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘 딸들아",
+     "verses": "아 1:5; 2:7",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "engedi",
+     "name": "엔게디",
+     "time": "",
+     "event": "엔게디 포도원의 고벨화",
+     "verses": "아 1:14",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "sharon",
+     "name": "사론",
+     "time": "",
+     "event": "나는 사론의 수선화",
+     "verses": "아 2:1",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "lebanon",
+     "name": "레바논",
+     "time": "",
+     "event": "레바논에서 나와 함께 가자",
+     "verses": "아 4:8, 15",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "gilead",
+     "name": "길르앗",
+     "time": "",
+     "event": "길르앗 산을 내려오는 염소 떼",
+     "verses": "아 4:1; 6:5",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "hermon",
+     "name": "헤르몬 산",
+     "time": "",
+     "event": "아마나 꼭대기, 스닐과 헤르몬 꼭대기",
+     "verses": "아 4:8",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "tirzah",
+     "name": "디르사",
+     "time": "",
+     "event": "디르사같이 어여쁘다",
+     "verses": "아 6:4",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "mahanaim",
+     "name": "마하나임",
+     "time": "",
+     "event": "마하나임 춤추는 것",
+     "verses": "아 6:13",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "heshbon",
+     "name": "헤스본",
+     "time": "",
+     "event": "헤스본 바드랍빔 문 곁의 못",
+     "verses": "아 7:4",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "mtcarmel",
+     "name": "갈멜 산",
+     "time": "",
+     "event": "머리가 갈멜 산 같다",
+     "verses": "아 7:5",
+     "refs": [
+      229
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "baalhamon",
+     "name": "바알하몬",
+     "time": "",
+     "event": "솔로몬이 바알하몬에 포도원을 가짐",
+     "verses": "아 8:11",
+     "refs": [
+      229
      ]
     }
    ]

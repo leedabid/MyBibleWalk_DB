@@ -143,40 +143,40 @@
    "name": "욥기",
    "file": "books/18_욥기.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "fdc037109048"
+   "updated": "2026-11-05",
+   "rev": "5c970bd90d6c"
   },
   {
    "book": 19,
    "name": "시편",
    "file": "books/19_시편.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "fcd87e0e4c44"
+   "updated": "2026-11-05",
+   "rev": "cbcf35cd9335"
   },
   {
    "book": 20,
    "name": "잠언",
    "file": "books/20_잠언.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "b3c6de07a4e7"
+   "updated": "2026-11-05",
+   "rev": "b0d4beff1aa6"
   },
   {
    "book": 21,
    "name": "전도서",
    "file": "books/21_전도서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "3a4f08488ae5"
+   "updated": "2026-11-05",
+   "rev": "0f43c4bac80d"
   },
   {
    "book": 22,
    "name": "아가",
    "file": "books/22_아가.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "eb2946771586"
+   "updated": "2026-11-05",
+   "rev": "b81034744c55"
   },
   {
    "book": 23,
@@ -536,7 +536,7 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-05",
-   "rev": "259ac9725eee"
+   "rev": "887fc6addb78"
   },
   {
    "id": "timeline",
