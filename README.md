@@ -27,3 +27,6 @@ MyBibleWalk 앱이 내려받아 읽기 전용으로 보여 주는 **검증본 �
 ## 앱이 읽는 주소
 공개 저장소의 파일은 GitHub가 자동으로 제공하는 주소로 읽을 수 있습니다.
 `https://raw.githubusercontent.com/leedabid/MyBibleWalk_DB/main/index.json`
+
+## 업데이트 알림용 지문 (rev)
+DB 파일을 고친 뒤 커밋 전에 `python3 tools/make_index.py`를 실행하면 index.json의 rev가 갱신되고, 앱이 "업데이트 있음"을 알립니다. 앱 새 버전을 알리려면 app.json의 versionCode/versionName을 올립니다.

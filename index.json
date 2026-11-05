@@ -7,474 +7,542 @@
    "name": "창세기",
    "file": "books/01_창세기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "df6e1def25de"
   },
   {
    "book": 2,
    "name": "출애굽기",
    "file": "books/02_출애굽기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "4b2fa2a3f6de"
   },
   {
    "book": 3,
    "name": "레위기",
    "file": "books/03_레위기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "2f37ebb25e09"
   },
   {
    "book": 4,
    "name": "민수기",
    "file": "books/04_민수기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "aff9bcb568cf"
   },
   {
    "book": 5,
    "name": "신명기",
    "file": "books/05_신명기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "f7d7f98d5258"
   },
   {
    "book": 6,
    "name": "여호수아",
    "file": "books/06_여호수아.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "a2c55880df2b"
   },
   {
    "book": 7,
    "name": "사사기",
    "file": "books/07_사사기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "3bcea169e575"
   },
   {
    "book": 8,
    "name": "룻기",
    "file": "books/08_룻기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "36639501f6ca"
   },
   {
    "book": 9,
    "name": "사무엘상",
    "file": "books/09_사무엘상.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "7401a318ddf4"
   },
   {
    "book": 10,
    "name": "사무엘하",
    "file": "books/10_사무엘하.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "beeacf9b4ba5"
   },
   {
    "book": 11,
    "name": "열왕기상",
    "file": "books/11_열왕기상.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "30c0f157ee18"
   },
   {
    "book": 12,
    "name": "열왕기하",
    "file": "books/12_열왕기하.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "e42b387f5d2c"
   },
   {
    "book": 13,
    "name": "역대상",
    "file": "books/13_역대상.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "c0aa17b68c44"
   },
   {
    "book": 14,
    "name": "역대하",
    "file": "books/14_역대하.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "bf7336701966"
   },
   {
    "book": 15,
    "name": "에스라",
    "file": "books/15_에스라.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "61647fd31a80"
   },
   {
    "book": 16,
    "name": "느헤미야",
    "file": "books/16_느헤미야.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "c15ae0845a24"
   },
   {
    "book": 17,
    "name": "에스더",
    "file": "books/17_에스더.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "973000a778ed"
   },
   {
    "book": 18,
    "name": "욥기",
    "file": "books/18_욥기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "fdc037109048"
   },
   {
    "book": 19,
    "name": "시편",
    "file": "books/19_시편.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "fcd87e0e4c44"
   },
   {
    "book": 20,
    "name": "잠언",
    "file": "books/20_잠언.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "b3c6de07a4e7"
   },
   {
    "book": 21,
    "name": "전도서",
    "file": "books/21_전도서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "3a4f08488ae5"
   },
   {
    "book": 22,
    "name": "아가",
    "file": "books/22_아가.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "eb2946771586"
   },
   {
    "book": 23,
    "name": "이사야",
    "file": "books/23_이사야.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "2a1cfedd49ed"
   },
   {
    "book": 24,
    "name": "예레미야",
    "file": "books/24_예레미야.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "6e2580fb3ff5"
   },
   {
    "book": 25,
    "name": "예레미야애가",
    "file": "books/25_예레미야애가.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "b2cacbd64bf1"
   },
   {
    "book": 26,
    "name": "에스겔",
    "file": "books/26_에스겔.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "1bdcf56e8a83"
   },
   {
    "book": 27,
    "name": "다니엘",
    "file": "books/27_다니엘.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "a03072a63aea"
   },
   {
    "book": 28,
    "name": "호세아",
    "file": "books/28_호세아.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "1850f21b120b"
   },
   {
    "book": 29,
    "name": "요엘",
    "file": "books/29_요엘.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "cb3bb7ced92c"
   },
   {
    "book": 30,
    "name": "아모스",
    "file": "books/30_아모스.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "c25170b2c8e1"
   },
   {
    "book": 31,
    "name": "오바댜",
    "file": "books/31_오바댜.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "ea050ba1db2c"
   },
   {
    "book": 32,
    "name": "요나",
    "file": "books/32_요나.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "7fc26bdae85b"
   },
   {
    "book": 33,
    "name": "미가",
    "file": "books/33_미가.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "b8880725565f"
   },
   {
    "book": 34,
    "name": "나훔",
    "file": "books/34_나훔.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "f9e5b53f2bf2"
   },
   {
    "book": 35,
    "name": "하박국",
    "file": "books/35_하박국.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "82a618cd5b5a"
   },
   {
    "book": 36,
    "name": "스바냐",
    "file": "books/36_스바냐.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "14f424df192c"
   },
   {
    "book": 37,
    "name": "학개",
    "file": "books/37_학개.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "cc0abf5ae4e4"
   },
   {
    "book": 38,
    "name": "스가랴",
    "file": "books/38_스가랴.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "c498b9e94169"
   },
   {
    "book": 39,
    "name": "말라기",
    "file": "books/39_말라기.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "44f39983395e"
   },
   {
    "book": 40,
    "name": "마태복음",
    "file": "books/40_마태복음.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "5b6c2134db4f"
   },
   {
    "book": 41,
    "name": "마가복음",
    "file": "books/41_마가복음.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "4b4276b65a4f"
   },
   {
    "book": 42,
    "name": "누가복음",
    "file": "books/42_누가복음.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "33c3fdee0b75"
   },
   {
    "book": 43,
    "name": "요한복음",
    "file": "books/43_요한복음.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "ae5ba666d0ec"
   },
   {
    "book": 44,
    "name": "사도행전",
    "file": "books/44_사도행전.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "bb557cfbc43f"
   },
   {
    "book": 45,
    "name": "로마서",
    "file": "books/45_로마서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "f67bf58ff45d"
   },
   {
    "book": 46,
    "name": "고린도전서",
    "file": "books/46_고린도전서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "f3aa9414f2ea"
   },
   {
    "book": 47,
    "name": "고린도후서",
    "file": "books/47_고린도후서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "c2ced5646f34"
   },
   {
    "book": 48,
    "name": "갈라디아서",
    "file": "books/48_갈라디아서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "54e1ea4faa73"
   },
   {
    "book": 49,
    "name": "에베소서",
    "file": "books/49_에베소서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "f8f155b24d56"
   },
   {
    "book": 50,
    "name": "빌립보서",
    "file": "books/50_빌립보서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "017435326223"
   },
   {
    "book": 51,
    "name": "골로새서",
    "file": "books/51_골로새서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "9db6fd63ae7a"
   },
   {
    "book": 52,
    "name": "데살로니가전서",
    "file": "books/52_데살로니가전서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "5a6e7ab6628f"
   },
   {
    "book": 53,
    "name": "데살로니가후서",
    "file": "books/53_데살로니가후서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "54e8de96bbdc"
   },
   {
    "book": 54,
    "name": "디모데전서",
    "file": "books/54_디모데전서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "af41a48f5186"
   },
   {
    "book": 55,
    "name": "디모데후서",
    "file": "books/55_디모데후서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "81fb1806e616"
   },
   {
    "book": 56,
    "name": "디도서",
    "file": "books/56_디도서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "8fd6f01e1039"
   },
   {
    "book": 57,
    "name": "빌레몬서",
    "file": "books/57_빌레몬서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "87a554e34708"
   },
   {
    "book": 58,
    "name": "히브리서",
    "file": "books/58_히브리서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "9437182b99d1"
   },
   {
    "book": 59,
    "name": "야고보서",
    "file": "books/59_야고보서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "1b424023bb0d"
   },
   {
    "book": 60,
    "name": "베드로전서",
    "file": "books/60_베드로전서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "8445c10d5db1"
   },
   {
    "book": 61,
    "name": "베드로후서",
    "file": "books/61_베드로후서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "8b1e5eb07ebc"
   },
   {
    "book": 62,
    "name": "요한일서",
    "file": "books/62_요한일서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "3d1eccc3feb1"
   },
   {
    "book": 63,
    "name": "요한이서",
    "file": "books/63_요한이서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "4c33e8ba5193"
   },
   {
    "book": 64,
    "name": "요한삼서",
    "file": "books/64_요한삼서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "59ab442eabb0"
   },
   {
    "book": 65,
    "name": "유다서",
    "file": "books/65_유다서.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "75421b25e731"
   },
   {
    "book": 66,
    "name": "요한계시록",
    "file": "books/66_요한계시록.json",
    "status": "draft",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "bfe74c07fb93"
   }
  ],
  "shared": [
   {
    "id": "geo",
    "file": "shared/geo.json",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "b78a7d0e94da"
   },
   {
    "id": "timeline",
    "file": "shared/timeline.json",
-   "updated": "2026-11-04"
+   "updated": "2026-11-04",
+   "rev": "f0a756fd4cec"
   }
  ]
 }
