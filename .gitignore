@@ -1,1 +1,6 @@
 .idea/
+
+# 원문 발췌가 들어 있는 원본·백업은 올리지 않음 (내 PC에만 보관)
+_private*/
+*_with_excerpts*
+*.bundle
