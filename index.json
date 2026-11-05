@@ -103,40 +103,40 @@
    "name": "역대상",
    "file": "books/13_역대상.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "c0aa17b68c44"
+   "updated": "2026-11-05",
+   "rev": "3a78d1349d5f"
   },
   {
    "book": 14,
    "name": "역대하",
    "file": "books/14_역대하.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "bf7336701966"
+   "updated": "2026-11-05",
+   "rev": "bff88dfc2f8c"
   },
   {
    "book": 15,
    "name": "에스라",
    "file": "books/15_에스라.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "61647fd31a80"
+   "updated": "2026-11-05",
+   "rev": "974134e379bb"
   },
   {
    "book": 16,
    "name": "느헤미야",
    "file": "books/16_느헤미야.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "c15ae0845a24"
+   "updated": "2026-11-05",
+   "rev": "9d2c1e6e6f66"
   },
   {
    "book": 17,
    "name": "에스더",
    "file": "books/17_에스더.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "973000a778ed"
+   "updated": "2026-11-05",
+   "rev": "1602f48f336e"
   },
   {
    "book": 18,
@@ -536,7 +536,7 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-05",
-   "rev": "e3d6e5c04f99"
+   "rev": "259ac9725eee"
   },
   {
    "id": "timeline",
