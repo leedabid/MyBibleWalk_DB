@@ -359,176 +359,176 @@
    "name": "로마서",
    "file": "books/45_로마서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "f67bf58ff45d"
+   "updated": "2026-11-05",
+   "rev": "aed6df3deb4d"
   },
   {
    "book": 46,
    "name": "고린도전서",
    "file": "books/46_고린도전서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "f3aa9414f2ea"
+   "updated": "2026-11-05",
+   "rev": "a61344911dfe"
   },
   {
    "book": 47,
    "name": "고린도후서",
    "file": "books/47_고린도후서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "c2ced5646f34"
+   "updated": "2026-11-05",
+   "rev": "47c1c634056c"
   },
   {
    "book": 48,
    "name": "갈라디아서",
    "file": "books/48_갈라디아서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "54e1ea4faa73"
+   "updated": "2026-11-05",
+   "rev": "0e09adf9c1be"
   },
   {
    "book": 49,
    "name": "에베소서",
    "file": "books/49_에베소서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "f8f155b24d56"
+   "updated": "2026-11-05",
+   "rev": "4283ad9902ce"
   },
   {
    "book": 50,
    "name": "빌립보서",
    "file": "books/50_빌립보서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "017435326223"
+   "updated": "2026-11-05",
+   "rev": "9449c37fc2ae"
   },
   {
    "book": 51,
    "name": "골로새서",
    "file": "books/51_골로새서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "9db6fd63ae7a"
+   "updated": "2026-11-05",
+   "rev": "f167d3f96908"
   },
   {
    "book": 52,
    "name": "데살로니가전서",
    "file": "books/52_데살로니가전서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "5a6e7ab6628f"
+   "updated": "2026-11-05",
+   "rev": "0c0c9341f27f"
   },
   {
    "book": 53,
    "name": "데살로니가후서",
    "file": "books/53_데살로니가후서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "54e8de96bbdc"
+   "updated": "2026-11-05",
+   "rev": "4d3c2d61d127"
   },
   {
    "book": 54,
    "name": "디모데전서",
    "file": "books/54_디모데전서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "af41a48f5186"
+   "updated": "2026-11-05",
+   "rev": "3ad14db1da79"
   },
   {
    "book": 55,
    "name": "디모데후서",
    "file": "books/55_디모데후서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "81fb1806e616"
+   "updated": "2026-11-05",
+   "rev": "334d4879460d"
   },
   {
    "book": 56,
    "name": "디도서",
    "file": "books/56_디도서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "8fd6f01e1039"
+   "updated": "2026-11-05",
+   "rev": "515cdb3c57d9"
   },
   {
    "book": 57,
    "name": "빌레몬서",
    "file": "books/57_빌레몬서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "87a554e34708"
+   "updated": "2026-11-05",
+   "rev": "0d9efa6a689b"
   },
   {
    "book": 58,
    "name": "히브리서",
    "file": "books/58_히브리서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "9437182b99d1"
+   "updated": "2026-11-05",
+   "rev": "0c1448b5d5f8"
   },
   {
    "book": 59,
    "name": "야고보서",
    "file": "books/59_야고보서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "1b424023bb0d"
+   "updated": "2026-11-05",
+   "rev": "d8d923cedf48"
   },
   {
    "book": 60,
    "name": "베드로전서",
    "file": "books/60_베드로전서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "8445c10d5db1"
+   "updated": "2026-11-05",
+   "rev": "66e7da8ca2de"
   },
   {
    "book": 61,
    "name": "베드로후서",
    "file": "books/61_베드로후서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "8b1e5eb07ebc"
+   "updated": "2026-11-05",
+   "rev": "f8b34114127b"
   },
   {
    "book": 62,
    "name": "요한일서",
    "file": "books/62_요한일서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "3d1eccc3feb1"
+   "updated": "2026-11-05",
+   "rev": "ec670d39300b"
   },
   {
    "book": 63,
    "name": "요한이서",
    "file": "books/63_요한이서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "4c33e8ba5193"
+   "updated": "2026-11-05",
+   "rev": "77e7d970f1da"
   },
   {
    "book": 64,
    "name": "요한삼서",
    "file": "books/64_요한삼서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "59ab442eabb0"
+   "updated": "2026-11-05",
+   "rev": "9f3a0eca4278"
   },
   {
    "book": 65,
    "name": "유다서",
    "file": "books/65_유다서.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "75421b25e731"
+   "updated": "2026-11-05",
+   "rev": "e09eb628381c"
   },
   {
    "book": 66,
    "name": "요한계시록",
    "file": "books/66_요한계시록.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "bfe74c07fb93"
+   "updated": "2026-11-05",
+   "rev": "1fb37019d6c7"
   }
  ],
  "shared": [
@@ -536,7 +536,7 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-05",
-   "rev": "5a9e858d6557"
+   "rev": "3a4da7587710"
   },
   {
    "id": "timeline",

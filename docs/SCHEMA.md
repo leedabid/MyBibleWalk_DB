@@ -72,6 +72,7 @@
 - `shared/geo.json`: `{ refs[], places[], unlockedOther[], journeys[] }`. `refs`의 번호는 이 파일 안에서만 씁니다.
   - `places[]`: `{id, name, nameEn, kind, verses, mapped, primary, candidates[{label, lat, lng, score, tier, precision, refs}], refs}`. `score`는 OpenBible best_path_score, `tier`(높음 400 이상·보통 150–399·낮음 150 미만)는 이 앱의 구분.
   - `journeys[]`: `{id, title, period, note, color, lineStyle, lineMinScore, books[], stops[{order, placeId, name, time, event, verses, refs}]}`. `lineMinScore` 이상인 지점만 선으로 잇는다.
+  - 이동 순서가 없는 권의 '주요 지명 목록'도 같은 모양의 여정으로 둡니다. `lineStyle: "none"`, `lineMinScore: 1001`(점수는 최대 1000대 초반이라 어떤 지점도 선에 들지 않음)로 두면 선 없이 점만 찍힙니다. 앱이 `lineStyle: "none"`을 모르더라도 1001 때문에 선은 그려지지 않습니다.
 - 책 파일의 `geo`는 `{ "shared": "geo", "journeys": ["id", ...], "focus": "id" }`로 가리키기만 합니다. (예전처럼 책 안에 `places`·`routes`를 직접 둘 수도 있으나 새 책은 공용 파일을 씁니다.)
 
 ## links (다른 권과의 연결)

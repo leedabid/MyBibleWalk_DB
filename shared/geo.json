@@ -2,7 +2,7 @@
  "schema": 1,
  "id": "geo",
  "updated": "2026-11-05",
- "note": "여러 권이 함께 쓰는 지명·여정 자료. 출애굽→가나안 여정은 출애굽기·민수기·신명기·여호수아에 걸쳐 있고, 족장 여정(아브라함·야곱·요셉)은 창세기에서 시작해 출애굽기로 이어지므로 권마다 따로 두지 않고 한 곳에 둡니다.",
+ "note": "여러 권이 함께 쓰는 지명·여정 자료. 출애굽→가나안 여정은 출애굽기·민수기·신명기·여호수아에 걸쳐 있고, 족장 여정(아브라함·야곱·요셉)은 창세기에서 시작해 출애굽기로 이어지므로 권마다 따로 두지 않고 한 곳에 둡니다. 사사기~요한계시록(7~66권)은 여정이 있는 곳(예: 다윗의 도피, 예수님의 사역 여정, 바울의 선교여행)은 여정으로, 순서가 없는 권은 그 권에 나오는 주요 지명 목록으로 실었습니다. 목록형 여정은 lineStyle이 \"none\"이고 lineMinScore가 1001이라 선을 긋지 않고 점만 찍습니다.",
  "attribution": "지명 좌표·점수: OpenBible.info Bible Geocoding Data(CC BY 4.0). 지도 바탕: OpenStreetMap contributors. 좌표는 '후보'이며, 점수는 여러 성경 사전·주석·지도책이 그 후보를 지지한 정도입니다(높음 400 이상, 보통 150–399, 낮음 150 미만은 이 앱이 나눈 구간). 학계에서 위치가 확정되지 않은 곳이 많습니다.",
  "refs": [
   {
@@ -937,6 +937,236 @@
    "level": "reference",
    "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
    "evidence": []
+  },
+  {
+   "n": 265,
+   "cite": "성경 본문(바울이 로마서에 적은 계획(예루살렘 → 로마 → 서바나)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울이 로마서에 적은 계획(예루살렘 → 로마 → 서바나))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 266,
+   "cite": "성경 본문(로마서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(로마서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 267,
+   "cite": "성경 본문(바울이 고린도전서에 적은 계획(에베소 → 마게도냐 → 고린도 → 예루살렘)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울이 고린도전서에 적은 계획(에베소 → 마게도냐 → 고린도 → 예루살렘))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 268,
+   "cite": "성경 본문(고린도전서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(고린도전서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 269,
+   "cite": "성경 본문(고린도후서에 나타난 바울의 걸음(아시아 → 드로아 → 마게도냐)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(고린도후서에 나타난 바울의 걸음(아시아 → 드로아 → 마게도냐))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 270,
+   "cite": "성경 본문(고린도후서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(고린도후서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 271,
+   "cite": "성경 본문(바울이 갈라디아서에 적은 자신의 행적의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울이 갈라디아서에 적은 자신의 행적)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 272,
+   "cite": "성경 본문(갈라디아서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(갈라디아서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 273,
+   "cite": "성경 본문(에베소서의 지명의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(에베소서의 지명)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 274,
+   "cite": "성경 본문(빌립보서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(빌립보서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 275,
+   "cite": "성경 본문(골로새서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(골로새서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 276,
+   "cite": "성경 본문(바울의 걸음(빌립보 → 데살로니가 → 아덴)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울의 걸음(빌립보 → 데살로니가 → 아덴))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 277,
+   "cite": "성경 본문(데살로니가전서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(데살로니가전서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 278,
+   "cite": "성경 본문(데살로니가후서의 지명의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(데살로니가후서의 지명)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 279,
+   "cite": "성경 본문(디모데전서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(디모데전서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 280,
+   "cite": "성경 본문(디모데후서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(디모데후서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 281,
+   "cite": "성경 본문(디도서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(디도서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 282,
+   "cite": "성경 본문(히브리서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(히브리서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 283,
+   "cite": "성경 본문(베드로전서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(베드로전서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 284,
+   "cite": "성경 본문(베드로후서의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(베드로후서의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 285,
+   "cite": "성경 본문(유다서의 지명의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(유다서의 지명)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 286,
+   "cite": "성경 본문(요한계시록의 일곱 교회(밧모 섬에서 쓴 편지의 순서)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(요한계시록의 일곱 교회(밧모 섬에서 쓴 편지의 순서))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 287,
+   "cite": "성경 본문(요한계시록의 주요 지역의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(요한계시록의 주요 지역)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
   }
  ],
  "places": [
@@ -1439,7 +1669,7 @@
    "name": "시내산",
    "nameEn": "Mount Sinai",
    "kind": "산",
-   "verses": "출 19:1–2; 민 33:15; 시 68:8, 17",
+   "verses": "출 19:1–2; 민 33:15; 시 68:8, 17; 갈 4:24–25; 히 12:18–21",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -2928,7 +3158,7 @@
    "name": "여리고",
    "nameEn": "Jericho 1",
    "kind": "도시",
-   "verses": "수 6; 삿 3:13; 왕하 2:4–5; 왕하 2:15, 19–22; 왕하 25:5; 느 3:2",
+   "verses": "수 6; 삿 3:13; 왕하 2:4–5; 왕하 2:15, 19–22; 왕하 25:5; 느 3:2; 히 11:30",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -3269,7 +3499,7 @@
    "name": "소돔",
    "nameEn": "Sodom",
    "kind": "도시",
-   "verses": "창 13:12; 14장; 애 4:6; 겔 16:46–56",
+   "verses": "창 13:12; 14장; 애 4:6; 겔 16:46–56; 롬 9:29; 벧후 2:6; 유 1:7",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -3316,7 +3546,7 @@
    "name": "살렘",
    "nameEn": "Salem",
    "kind": "도시",
-   "verses": "창 14:18–20",
+   "verses": "창 14:18–20; 히 7:1–2",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6378,7 +6608,7 @@
    "name": "다메섹",
    "nameEn": "Damascus",
    "kind": "도시",
-   "verses": "왕하 5:12; 8:7; 사 17:1; 렘 49:23; 겔 27:18; 암 1:3; 슥 9:1; 행 9:3",
+   "verses": "왕하 5:12; 8:7; 사 17:1; 렘 49:23; 겔 27:18; 암 1:3; 슥 9:1; 행 9:3; 고후 11:32–33; 갈 1:17",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6525,7 +6755,7 @@
    "name": "유브라데 강",
    "nameEn": "Euphrates",
    "kind": "강",
-   "verses": "대상 18:3; 렘 13:4–7",
+   "verses": "대상 18:3; 렘 13:4–7; 계 9:14; 16:12",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -7182,7 +7412,7 @@
    "name": "시온",
    "nameEn": "Zion",
    "kind": "산/성",
-   "verses": "시 2:6; 사 2:3; 애 1:4; 욜 2:1; 옵 1:17, 21; 미 3:12; 4:2; 습 3:14; 슥 2:10; 9:9",
+   "verses": "시 2:6; 사 2:3; 애 1:4; 욜 2:1; 옵 1:17, 21; 미 3:12; 4:2; 습 3:14; 슥 2:10; 9:9; 롬 9:33",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -7254,10 +7484,10 @@
   },
   {
    "id": "redsea1",
-   "name": "홍해(갈대 바다)",
+   "name": "홍해",
    "nameEn": "Red Sea 1",
    "kind": "바다",
-   "verses": "시 106:7–9; 136:13",
+   "verses": "시 106:7–9; 136:13; 히 11:29",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -8764,7 +8994,7 @@
    "name": "시온 산",
    "nameEn": "Mount Zion",
    "kind": "산",
-   "verses": "옵 1:17, 21",
+   "verses": "옵 1:17, 21; 히 12:22; 계 14:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -9981,7 +10211,7 @@
    "name": "비시디아 안디옥",
    "nameEn": "Antioch 2",
    "kind": "도시",
-   "verses": "행 13:14–16",
+   "verses": "행 13:14–16; 딤후 3:11",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10128,7 +10358,7 @@
    "name": "드로아",
    "nameEn": "Troas",
    "kind": "항구",
-   "verses": "행 16:8–10; 행 20:6; 행 20:7–12; 행 20:6; 20:7–12",
+   "verses": "행 16:8–10; 행 20:6; 행 20:7–12; 행 20:6; 20:7–12; 고후 2:12–13; 딤후 4:13",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10178,7 +10408,7 @@
    "name": "빌립보",
    "nameEn": "Philippi",
    "kind": "도시",
-   "verses": "행 16:12–40; 행 20:6",
+   "verses": "행 16:12–40; 행 20:6; 빌 1:1; 살전 2:2",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10228,7 +10458,7 @@
    "name": "데살로니가",
    "nameEn": "Thessalonica",
    "kind": "도시",
-   "verses": "행 17:1–2",
+   "verses": "행 17:1–2; 빌 4:16; 살전 2:2; 살후 1:1; 딤후 4:10; 살전 1:1; 2:2",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10278,7 +10508,7 @@
    "name": "아덴",
    "nameEn": "Athens",
    "kind": "도시",
-   "verses": "행 17:15–34",
+   "verses": "행 17:15–34; 살전 3:1–2",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10303,7 +10533,7 @@
    "name": "고린도",
    "nameEn": "Corinth",
    "kind": "도시",
-   "verses": "행 18:1, 11",
+   "verses": "행 18:1, 11; 고전 16:6; 고전 1:2; 고후 12:14; 13:1; 딤후 4:20; 고전 1:2; 16:6; 고후 1:23; 12:14; 13:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10328,7 +10558,7 @@
    "name": "겐그레아",
    "nameEn": "Cenchreae",
    "kind": "항구",
-   "verses": "행 18:18",
+   "verses": "행 18:18; 롬 16:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10353,7 +10583,7 @@
    "name": "에베소",
    "nameEn": "Ephesus",
    "kind": "도시",
-   "verses": "행 18:19; 행 19:1, 8–10",
+   "verses": "행 18:19; 행 19:1, 8–10; 고전 16:8; 고전 15:32; 엡 1:1; 딤전 1:3; 딤후 1:18; 계 2:1",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10428,7 +10658,7 @@
    "name": "밀레도",
    "nameEn": "Miletus",
    "kind": "항구",
-   "verses": "행 20:15–17",
+   "verses": "행 20:15–17; 딤후 4:20",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10864,7 +11094,7 @@
    "name": "로마",
    "nameEn": "Rome",
    "kind": "도시",
-   "verses": "행 28:14, 16, 30–31",
+   "verses": "행 28:14, 16, 30–31; 롬 15:24, 28; 롬 1:7, 15; 딤후 1:17",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -10875,6 +11105,844 @@
      "score": 500,
      "tier": "높음",
      "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "illyricum",
+   "name": "일루리곤",
+   "nameEn": "Illyricum",
+   "kind": "지역",
+   "verses": "롬 15:19",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Salona",
+     "lat": 43.539444,
+     "lng": 16.483056,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "achaia",
+   "name": "아가야",
+   "nameEn": "Achaia",
+   "kind": "지역",
+   "verses": "롬 15:26; 고전 16:15; 고후 1:1; 살전 1:7–8",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Achaia",
+     "lat": 38.72,
+     "lng": 22.54,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "spain",
+   "name": "서바나(스페인)",
+   "nameEn": "Spain",
+   "kind": "지역",
+   "verses": "롬 15:24, 28",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Hispania",
+     "lat": 40.21,
+     "lng": -4.35,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "asia",
+   "name": "아시아",
+   "nameEn": "Asia",
+   "kind": "지역",
+   "verses": "롬 16:5; 고전 16:19; 고후 1:8; 딤후 1:15; 벧전 1:1; 계 1:4, 11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Asia",
+     "lat": 38.4,
+     "lng": 28.3,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "macedonia",
+   "name": "마게도냐",
+   "nameEn": "Macedonia",
+   "kind": "지역",
+   "verses": "고전 16:5; 고후 2:13; 7:5–6; 고후 8:1–2; 9:2; 빌 4:15; 살전 1:7–8; 딤전 1:3",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Macedonia",
+     "lat": 41.6,
+     "lng": 22.54,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "galatia",
+   "name": "갈라디아",
+   "nameEn": "Galatia",
+   "kind": "지역",
+   "verses": "고전 16:1; 갈 1:2; 딤후 4:10; 벧전 1:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Galatia",
+     "lat": 39.266667,
+     "lng": 32.983333,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "arabia2",
+   "name": "아라비아",
+   "nameEn": "Arabia 2",
+   "kind": "지역",
+   "verses": "갈 1:17",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Arabia Petraea",
+     "lat": 30.07,
+     "lng": 35.35,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "syria2",
+   "name": "수리아",
+   "nameEn": "Syria 2",
+   "kind": "지역",
+   "verses": "갈 1:21",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Damascus",
+     "lat": 33.511112,
+     "lng": 36.30639,
+     "score": 500,
+     "tier": "높음",
+     "precision": "historical site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cilicia",
+   "name": "길리기아",
+   "nameEn": "Cilicia",
+   "kind": "지역",
+   "verses": "갈 1:21",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tarsus",
+     "lat": 36.913028,
+     "lng": 34.892056,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "colossae",
+   "name": "골로새",
+   "nameEn": "Colossae",
+   "kind": "도시",
+   "verses": "골 1:2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Colossae",
+     "lat": 37.78664,
+     "lng": 29.25994,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "laodicea",
+   "name": "라오디게아",
+   "nameEn": "Laodicea",
+   "kind": "도시",
+   "verses": "골 2:1; 4:13, 15–16; 계 3:14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Laodicea on the Lycus",
+     "lat": 37.835833,
+     "lng": 29.1075,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "hierapolis",
+   "name": "히에라볼리",
+   "nameEn": "Hierapolis",
+   "kind": "도시",
+   "verses": "골 4:13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Hierapolis",
+     "lat": 37.926616,
+     "lng": 29.127375,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "judea",
+   "name": "유대",
+   "nameEn": "Judea 1",
+   "kind": "지역",
+   "verses": "살전 2:14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Jerusalem",
+     "lat": 31.776667,
+     "lng": 35.234167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "dalmatia",
+   "name": "달마디아",
+   "nameEn": "Dalmatia",
+   "kind": "지역",
+   "verses": "딤후 4:10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Dalmatia",
+     "lat": 43.812761,
+     "lng": 16.218756,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "crete",
+   "name": "그레데",
+   "nameEn": "Crete",
+   "kind": "섬",
+   "verses": "딛 1:5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Crete",
+     "lat": 35.309722,
+     "lng": 24.893333,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on island",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "nicopolis",
+   "name": "니고볼리",
+   "nameEn": "Nicopolis",
+   "kind": "도시",
+   "verses": "딛 3:12",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Nicopolis",
+     "lat": 39.023485,
+     "lng": 20.73736,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "italy",
+   "name": "이탈리아",
+   "nameEn": "Italy",
+   "kind": "지역",
+   "verses": "히 13:24",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Rome",
+     "lat": 41.8922,
+     "lng": 12.4852,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "pontus",
+   "name": "본도",
+   "nameEn": "Pontus",
+   "kind": "지역",
+   "verses": "벧전 1:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Pontus",
+     "lat": 40.68,
+     "lng": 37.83,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cappadocia",
+   "name": "갑바도기아",
+   "nameEn": "Cappadocia",
+   "kind": "지역",
+   "verses": "벧전 1:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Cappadocia",
+     "lat": 38.670556,
+     "lng": 34.839167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "bithynia",
+   "name": "비두니아",
+   "nameEn": "Bithynia",
+   "kind": "지역",
+   "verses": "벧전 1:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Bithynia",
+     "lat": 40.5,
+     "lng": 31.0,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "babylon2",
+   "name": "바벨론(벧전 5:13)",
+   "nameEn": "Babylon 2",
+   "kind": "곳(위치는 해석이 갈림)",
+   "verses": "벧전 5:13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Rome",
+     "lat": 41.8922,
+     "lng": 12.4852,
+     "score": 464,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Jerusalem",
+     "lat": 31.776667,
+     "lng": 35.234167,
+     "score": 255,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Antioch on the Orontes",
+     "lat": 36.226691,
+     "lng": 36.171743,
+     "score": 245,
+     "tier": "보통",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "gomorrah",
+   "name": "고모라",
+   "nameEn": "Gomorrah",
+   "kind": "도시",
+   "verses": "벧후 2:6; 유 1:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "south of the Lisan",
+     "lat": 31.20849,
+     "lng": 35.449223,
+     "score": 543,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "north of the Dead Sea",
+     "lat": 31.795,
+     "lng": 35.595278,
+     "score": 78,
+     "tier": "낮음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Numeira",
+     "lat": 31.129757,
+     "lng": 35.529368,
+     "score": 52,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "patmos",
+   "name": "밧모 섬",
+   "nameEn": "Patmos",
+   "kind": "섬",
+   "verses": "계 1:9",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Patmos",
+     "lat": 37.325,
+     "lng": 26.541667,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on island",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "smyrna",
+   "name": "서머나",
+   "nameEn": "Smyrna",
+   "kind": "도시",
+   "verses": "계 2:8",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Izmir",
+     "lat": 38.418889,
+     "lng": 27.137778,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "pergamum",
+   "name": "버가모",
+   "nameEn": "Pergamum",
+   "kind": "도시",
+   "verses": "계 2:12",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Pergamon",
+     "lat": 39.13216,
+     "lng": 27.18421,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "thyatira",
+   "name": "두아디라",
+   "nameEn": "Thyatira",
+   "kind": "도시",
+   "verses": "계 2:18",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Akhisar",
+     "lat": 38.92021,
+     "lng": 27.83655,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "sardis",
+   "name": "사데",
+   "nameEn": "Sardis",
+   "kind": "도시",
+   "verses": "계 3:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Sardis",
+     "lat": 38.488333,
+     "lng": 28.040278,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "philadelphia",
+   "name": "빌라델비아",
+   "nameEn": "Philadelphia",
+   "kind": "도시",
+   "verses": "계 3:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Alaşehir",
+     "lat": 38.35,
+     "lng": 28.516667,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "babylon3",
+   "name": "바벨론(계시록)",
+   "nameEn": "Babylon 3",
+   "kind": "곳(위치는 해석이 갈림)",
+   "verses": "계 14:8; 16:19",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Rome",
+     "lat": 41.8922,
+     "lng": 12.4852,
+     "score": 460,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Jerusalem",
+     "lat": 31.776667,
+     "lng": 35.234167,
+     "score": 255,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Babylon",
+     "lat": 32.543333,
+     "lng": 44.422222,
+     "score": 250,
+     "tier": "보통",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "armageddon",
+   "name": "아마겟돈(하르마게돈)",
+   "nameEn": "Armageddon",
+   "kind": "곳",
+   "verses": "계 16:16",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Megiddo",
+     "lat": 32.585278,
+     "lng": 35.184444,
+     "score": 403,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Jezreel Valley",
+     "lat": 32.596389,
+     "lng": 35.241944,
+     "score": 306,
+     "tier": "보통",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Mount Carmel",
+     "lat": 32.6725,
+     "lng": 35.023333,
+     "score": 282,
+     "tier": "보통",
+     "precision": "point on mountain",
      "refs": [
       50
      ]
@@ -18954,6 +20022,1417 @@
      "verses": "행 28:14, 16, 30–31",
      "refs": [
       264
+     ]
+    }
+   ]
+  },
+  {
+   "id": "romans-plan",
+   "title": "바울이 로마서에 적은 계획(예루살렘 → 로마 → 서바나)",
+   "period": "로마서 15:19–29",
+   "note": "바울이 로마서 15장에서 사역의 범위와 앞으로의 걸음을 적은 부분. 실제 이동 기록이 아니라 계획이다.",
+   "color": "#2980B9",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    45
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘에서부터 두루 다니며 복음을 충만하게 전했다고 함",
+     "verses": "롬 15:19",
+     "refs": [
+      265
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "illyricum",
+     "name": "일루리곤",
+     "time": "",
+     "event": "일루리곤까지 다니며 그리스도의 복음을 전함",
+     "verses": "롬 15:19",
+     "refs": [
+      265
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "achaia",
+     "name": "아가야",
+     "time": "",
+     "event": "마게도냐와 아가야 사람들이 예루살렘 가난한 성도를 위해 연보함",
+     "verses": "롬 15:26",
+     "refs": [
+      265
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "연보를 전하러 예루살렘으로 가려 함",
+     "verses": "롬 15:25, 31",
+     "refs": [
+      265
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "rome",
+     "name": "로마",
+     "time": "",
+     "event": "서바나로 갈 때 로마를 지나며 너희를 보기 원함",
+     "verses": "롬 15:24, 28",
+     "refs": [
+      265
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "spain",
+     "name": "서바나(스페인)",
+     "time": "",
+     "event": "서바나로 가려는 계획",
+     "verses": "롬 15:24, 28",
+     "refs": [
+      265
+     ]
+    }
+   ]
+  },
+  {
+   "id": "romans-places",
+   "title": "로마서의 주요 지역",
+   "period": "로마서 1–16장",
+   "note": "로마서에 이름이 나오는 주요 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    45
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "rome",
+     "name": "로마",
+     "time": "",
+     "event": "로마에 있는 성도들에게 보내는 편지",
+     "verses": "롬 1:7, 15",
+     "refs": [
+      266
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "sodom",
+     "name": "소돔",
+     "time": "",
+     "event": "소돔과 고모라가 됨 같을 뻔했다는 인용",
+     "verses": "롬 9:29",
+     "refs": [
+      266
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "zion",
+     "name": "시온",
+     "time": "",
+     "event": "시온에 걸림돌을 놓는다는 인용",
+     "verses": "롬 9:33",
+     "refs": [
+      266
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "cenchreae",
+     "name": "겐그레아",
+     "time": "",
+     "event": "겐그레아 교회의 일꾼 뵈뵈",
+     "verses": "롬 16:1",
+     "refs": [
+      266
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "asia",
+     "name": "아시아",
+     "time": "",
+     "event": "아시아에서 그리스도께 처음 맺은 열매 에배네도",
+     "verses": "롬 16:5",
+     "refs": [
+      266
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cor1-plan",
+   "title": "바울이 고린도전서에 적은 계획(에베소 → 마게도냐 → 고린도 → 예루살렘)",
+   "period": "고린도전서 16:1–8",
+   "note": "바울이 에베소에서 편지를 쓰며 앞으로의 걸음을 적은 부분. 실제 이동 기록이 아니라 계획이다.",
+   "color": "#2980B9",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    46
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "오순절까지 에베소에 머물려 함",
+     "verses": "고전 16:8",
+     "refs": [
+      267
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "macedonia",
+     "name": "마게도냐",
+     "time": "",
+     "event": "마게도냐를 지나 고린도로 가려 함",
+     "verses": "고전 16:5",
+     "refs": [
+      267
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "corinth",
+     "name": "고린도",
+     "time": "",
+     "event": "편지를 받는 고린도 교회(1:2). 바울이 \"너희와 함께\" 얼마간 머물거나 겨울을 지내려 함(16:6)",
+     "verses": "고전 1:2; 16:6",
+     "refs": [
+      267
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "연보를 예루살렘으로 가져가게 함",
+     "verses": "고전 16:3",
+     "refs": [
+      267
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cor1-places",
+   "title": "고린도전서의 주요 지역",
+   "period": "고린도전서 1–16장",
+   "note": "고린도전서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    46
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "corinth",
+     "name": "고린도",
+     "time": "",
+     "event": "고린도에 있는 하나님의 교회",
+     "verses": "고전 1:2",
+     "refs": [
+      268
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "에베소에서 맹수와 싸웠다고 말함",
+     "verses": "고전 15:32",
+     "refs": [
+      268
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "galatia",
+     "name": "갈라디아",
+     "time": "",
+     "event": "갈라디아 교회들에게 명한 연보 방법",
+     "verses": "고전 16:1",
+     "refs": [
+      268
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "achaia",
+     "name": "아가야",
+     "time": "",
+     "event": "아가야의 첫 열매 스데바나 집",
+     "verses": "고전 16:15",
+     "refs": [
+      268
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "asia",
+     "name": "아시아",
+     "time": "",
+     "event": "아시아의 교회들이 문안함",
+     "verses": "고전 16:19",
+     "refs": [
+      268
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cor2-route",
+   "title": "고린도후서에 나타난 바울의 걸음(아시아 → 드로아 → 마게도냐)",
+   "period": "고린도후서 1–2장; 7장",
+   "note": "바울이 아시아에서 환난을 겪고 드로아에서 디도를 만나지 못해 마게도냐로 건너가 디도를 만나기까지.",
+   "color": "#2980B9",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    47
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "asia",
+     "name": "아시아",
+     "time": "",
+     "event": "아시아에서 당한 환난",
+     "verses": "고후 1:8",
+     "refs": [
+      269
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "troas",
+     "name": "드로아",
+     "time": "",
+     "event": "그리스도의 복음을 전하러 드로아에 갔으나 디도를 만나지 못해 마음이 편치 못함",
+     "verses": "고후 2:12–13",
+     "refs": [
+      269
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "macedonia",
+     "name": "마게도냐",
+     "time": "",
+     "event": "마게도냐에 이르러서도 안식을 얻지 못하다가 디도의 소식으로 위로를 받음",
+     "verses": "고후 2:13; 7:5–6",
+     "refs": [
+      269
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "corinth",
+     "name": "고린도",
+     "time": "",
+     "event": "고린도에 다시 가지 않은 일(1:23). 세 번째로 가려 함(12:14; 13:1)",
+     "verses": "고후 1:23; 12:14; 13:1",
+     "refs": [
+      269
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cor2-places",
+   "title": "고린도후서의 주요 지역",
+   "period": "고린도후서 1–13장",
+   "note": "고린도후서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    47
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "achaia",
+     "name": "아가야",
+     "time": "",
+     "event": "아가야 온 지역의 성도들",
+     "verses": "고후 1:1",
+     "refs": [
+      270
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "macedonia",
+     "name": "마게도냐",
+     "time": "",
+     "event": "마게도냐 교회들의 연보",
+     "verses": "고후 8:1–2; 9:2",
+     "refs": [
+      270
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "성도를 섬기는 연보(예루살렘 교회를 가리키는 것으로 OpenBible이 이은 구절)",
+     "verses": "고후 8:4; 9:1, 12",
+     "refs": [
+      270
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "damascus",
+     "name": "다메섹",
+     "time": "",
+     "event": "다메섹에서 광주리에 담겨 성벽에서 내려옴",
+     "verses": "고후 11:32–33",
+     "refs": [
+      270
+     ]
+    }
+   ]
+  },
+  {
+   "id": "galatians-history",
+   "title": "바울이 갈라디아서에 적은 자신의 행적",
+   "period": "갈라디아서 1–2장",
+   "note": "바울이 회심 뒤 다메섹, 아라비아, 예루살렘, 수리아·길리기아, 안디옥을 거친 일을 스스로 적은 부분.",
+   "color": "#8E44AD",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    48
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "damascus",
+     "name": "다메섹",
+     "time": "",
+     "event": "하나님이 아들을 계시하신 뒤 다메섹으로 돌아감",
+     "verses": "갈 1:17",
+     "refs": [
+      271
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "arabia2",
+     "name": "아라비아",
+     "time": "",
+     "event": "아라비아로 갔다가 다메섹으로 돌아옴",
+     "verses": "갈 1:17",
+     "refs": [
+      271
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "삼 년 후(갈 1:18)",
+     "event": "게바(베드로)를 만나러 예루살렘에 올라가 십오 일 머묾",
+     "verses": "갈 1:18",
+     "refs": [
+      271
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "syria2",
+     "name": "수리아",
+     "time": "",
+     "event": "수리아와 길리기아 지방에 이름",
+     "verses": "갈 1:21",
+     "refs": [
+      271
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "cilicia",
+     "name": "길리기아",
+     "time": "",
+     "event": "길리기아",
+     "verses": "갈 1:21",
+     "refs": [
+      271
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "십사 년 후(갈 2:1)",
+     "event": "바나바와 디도와 함께 예루살렘에 올라감",
+     "verses": "갈 2:1",
+     "refs": [
+      271
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "안디옥에서 게바를 면책함",
+     "verses": "갈 2:11",
+     "refs": [
+      271
+     ]
+    }
+   ]
+  },
+  {
+   "id": "galatians-places",
+   "title": "갈라디아서의 주요 지역",
+   "period": "갈라디아서 1–6장",
+   "note": "갈라디아서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    48
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "galatia",
+     "name": "갈라디아",
+     "time": "",
+     "event": "갈라디아 여러 교회에게 보내는 편지",
+     "verses": "갈 1:2",
+     "refs": [
+      272
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "sinai",
+     "name": "시내산",
+     "time": "",
+     "event": "하갈은 아라비아의 시내 산",
+     "verses": "갈 4:24–25",
+     "refs": [
+      272
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "지금 있는 예루살렘과 위에 있는 예루살렘",
+     "verses": "갈 4:25–26",
+     "refs": [
+      272
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ephesians-places",
+   "title": "에베소서의 지명",
+   "period": "에베소서 1:1",
+   "note": "OpenBible 자료가 에베소서에서 지명으로 잡은 곳은 에베소 한 곳뿐입니다. 순서 없는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    49
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "수신인 소개에 에베소가 나옴",
+     "verses": "엡 1:1",
+     "refs": [
+      273
+     ]
+    }
+   ]
+  },
+  {
+   "id": "philippians-places",
+   "title": "빌립보서의 주요 지역",
+   "period": "빌립보서 1–4장",
+   "note": "빌립보서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    50
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "philippi",
+     "name": "빌립보",
+     "time": "",
+     "event": "빌립보에 있는 모든 성도에게",
+     "verses": "빌 1:1",
+     "refs": [
+      274
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "macedonia",
+     "name": "마게도냐",
+     "time": "",
+     "event": "복음의 시작에 마게도냐를 떠날 때 교회가 도움을 줌",
+     "verses": "빌 4:15",
+     "refs": [
+      274
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "thessalonica",
+     "name": "데살로니가",
+     "time": "",
+     "event": "데살로니가에서도 한두 번 보내 줌",
+     "verses": "빌 4:16",
+     "refs": [
+      274
+     ]
+    }
+   ]
+  },
+  {
+   "id": "colossians-places",
+   "title": "골로새서의 주요 지역",
+   "period": "골로새서 1–4장",
+   "note": "골로새서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    51
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "colossae",
+     "name": "골로새",
+     "time": "",
+     "event": "골로새에 있는 성도들에게",
+     "verses": "골 1:2",
+     "refs": [
+      275
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "laodicea",
+     "name": "라오디게아",
+     "time": "",
+     "event": "라오디게아 사람들을 위한 수고, 편지를 돌려 읽게 함",
+     "verses": "골 2:1; 4:13, 15–16",
+     "refs": [
+      275
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "hierapolis",
+     "name": "히에라볼리",
+     "time": "",
+     "event": "히에라볼리에 있는 자들을 위한 수고",
+     "verses": "골 4:13",
+     "refs": [
+      275
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thessalonians-route",
+   "title": "바울의 걸음(빌립보 → 데살로니가 → 아덴)",
+   "period": "데살로니가전서 2–3장",
+   "note": "바울이 빌립보에서 고난을 겪고 데살로니가에서 복음을 전한 뒤 아덴에 홀로 남기까지 편지에 적은 부분.",
+   "color": "#2980B9",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    52
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "philippi",
+     "name": "빌립보",
+     "time": "",
+     "event": "빌립보에서 먼저 고난과 능욕을 받음",
+     "verses": "살전 2:2",
+     "refs": [
+      276
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "thessalonica",
+     "name": "데살로니가",
+     "time": "",
+     "event": "데살로니가 교회에 보내는 편지(1:1). 많은 싸움 중에 복음을 전함(2:2)",
+     "verses": "살전 1:1; 2:2",
+     "refs": [
+      276
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "athens",
+     "name": "아덴",
+     "time": "",
+     "event": "아덴에 홀로 남기로 하고 디모데를 보냄",
+     "verses": "살전 3:1–2",
+     "refs": [
+      276
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thessalonians1-places",
+   "title": "데살로니가전서의 주요 지역",
+   "period": "데살로니가전서 1–5장",
+   "note": "데살로니가전서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    52
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "macedonia",
+     "name": "마게도냐",
+     "time": "",
+     "event": "마게도냐와 아가야의 모든 믿는 자의 본이 됨",
+     "verses": "살전 1:7–8",
+     "refs": [
+      277
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "achaia",
+     "name": "아가야",
+     "time": "",
+     "event": "마게도냐와 아가야",
+     "verses": "살전 1:7–8",
+     "refs": [
+      277
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "judea",
+     "name": "유대",
+     "time": "",
+     "event": "유대에 있는 하나님의 교회들",
+     "verses": "살전 2:14",
+     "refs": [
+      277
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thessalonians2-places",
+   "title": "데살로니가후서의 지명",
+   "period": "데살로니가후서 1:1",
+   "note": "OpenBible 자료가 데살로니가후서에서 지명으로 잡은 곳은 데살로니가 한 곳뿐입니다. 순서 없는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    53
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "thessalonica",
+     "name": "데살로니가",
+     "time": "",
+     "event": "데살로니가인의 교회에 보내는 편지",
+     "verses": "살후 1:1",
+     "refs": [
+      278
+     ]
+    }
+   ]
+  },
+  {
+   "id": "timothy1-places",
+   "title": "디모데전서의 주요 지역",
+   "period": "디모데전서 1장",
+   "note": "디모데전서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    54
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "macedonia",
+     "name": "마게도냐",
+     "time": "",
+     "event": "내가 마게도냐로 갈 때에",
+     "verses": "딤전 1:3",
+     "refs": [
+      279
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "디모데를 에베소에 머물게 함",
+     "verses": "딤전 1:3",
+     "refs": [
+      279
+     ]
+    }
+   ]
+  },
+  {
+   "id": "timothy2-places",
+   "title": "디모데후서의 주요 지역",
+   "period": "디모데후서 1–4장",
+   "note": "디모데후서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    55
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "asia",
+     "name": "아시아",
+     "time": "",
+     "event": "아시아에 있는 사람들이 나를 버림",
+     "verses": "딤후 1:15",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "rome",
+     "name": "로마",
+     "time": "",
+     "event": "로마에 있을 때에 나를 부지런히 찾아 만남",
+     "verses": "딤후 1:17",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "에베소에서 오네시보로가 섬긴 일",
+     "verses": "딤후 1:18",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "antioch2",
+     "name": "비시디아 안디옥",
+     "time": "",
+     "event": "안디옥과 이고니온과 루스드라에서 내가 받은 박해",
+     "verses": "딤후 3:11",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "thessalonica",
+     "name": "데살로니가",
+     "time": "",
+     "event": "데마가 데살로니가로 감",
+     "verses": "딤후 4:10",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "galatia",
+     "name": "갈라디아",
+     "time": "",
+     "event": "그레스게가 갈라디아로 감",
+     "verses": "딤후 4:10",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "dalmatia",
+     "name": "달마디아",
+     "time": "",
+     "event": "디도는 달마디아로 감",
+     "verses": "딤후 4:10",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "troas",
+     "name": "드로아",
+     "time": "",
+     "event": "드로아 가보의 집에 둔 겉옷",
+     "verses": "딤후 4:13",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "corinth",
+     "name": "고린도",
+     "time": "",
+     "event": "에라스도는 고린도에 머묾",
+     "verses": "딤후 4:20",
+     "refs": [
+      280
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "miletus",
+     "name": "밀레도",
+     "time": "",
+     "event": "드로비모는 밀레도에 병들어 두고 옴",
+     "verses": "딤후 4:20",
+     "refs": [
+      280
+     ]
+    }
+   ]
+  },
+  {
+   "id": "titus-places",
+   "title": "디도서의 주요 지역",
+   "period": "디도서 1, 3장",
+   "note": "디도서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    56
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "crete",
+     "name": "그레데",
+     "time": "",
+     "event": "디도를 그레데에 남겨 둔 이유",
+     "verses": "딛 1:5",
+     "refs": [
+      281
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "nicopolis",
+     "name": "니고볼리",
+     "time": "",
+     "event": "니고볼리에서 겨울을 지내려 함",
+     "verses": "딛 3:12",
+     "refs": [
+      281
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hebrews-places",
+   "title": "히브리서의 주요 지역",
+   "period": "히브리서 7–13장",
+   "note": "히브리서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    58
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "salem",
+     "name": "살렘",
+     "time": "",
+     "event": "살렘 왕 멜기세덱",
+     "verses": "히 7:1–2",
+     "refs": [
+      282
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "애굽의 보화보다 그리스도를 위한 욕을 더 큰 재물로 여김",
+     "verses": "히 11:26–27",
+     "refs": [
+      282
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "redsea1",
+     "name": "홍해",
+     "time": "",
+     "event": "믿음으로 홍해를 육지같이 건넘",
+     "verses": "히 11:29",
+     "refs": [
+      282
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "jericho",
+     "name": "여리고",
+     "time": "",
+     "event": "믿음으로 여리고 성이 무너짐",
+     "verses": "히 11:30",
+     "refs": [
+      282
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "sinai",
+     "name": "시내산",
+     "time": "",
+     "event": "만질 수 있는 불붙는 산(시내 산)에 이른 것이 아님",
+     "verses": "히 12:18–21",
+     "refs": [
+      282
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "mtzion",
+     "name": "시온 산",
+     "time": "",
+     "event": "너희가 이른 곳은 시온 산",
+     "verses": "히 12:22",
+     "refs": [
+      282
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "italy",
+     "name": "이탈리아",
+     "time": "",
+     "event": "이탈리아에서 온 자들이 문안함",
+     "verses": "히 13:24",
+     "refs": [
+      282
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter1-places",
+   "title": "베드로전서의 주요 지역",
+   "period": "베드로전서 1, 2, 5장",
+   "note": "베드로전서에 이름이 나오는 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다. 5:13의 \"바벨론\"이 어디인지는 해석이 갈리며, 지도의 점은 OpenBible 자료의 후보입니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    60
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "pontus",
+     "name": "본도",
+     "time": "",
+     "event": "흩어진 나그네 가운데 본도",
+     "verses": "벧전 1:1",
+     "refs": [
+      283
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "galatia",
+     "name": "갈라디아",
+     "time": "",
+     "event": "갈라디아",
+     "verses": "벧전 1:1",
+     "refs": [
+      283
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "cappadocia",
+     "name": "갑바도기아",
+     "time": "",
+     "event": "갑바도기아",
+     "verses": "벧전 1:1",
+     "refs": [
+      283
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "asia",
+     "name": "아시아",
+     "time": "",
+     "event": "아시아",
+     "verses": "벧전 1:1",
+     "refs": [
+      283
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "bithynia",
+     "name": "비두니아",
+     "time": "",
+     "event": "비두니아",
+     "verses": "벧전 1:1",
+     "refs": [
+      283
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "zion",
+     "name": "시온",
+     "time": "",
+     "event": "시온에 택한 보배로운 모퉁잇돌을 둔다는 인용",
+     "verses": "벧전 2:6",
+     "refs": [
+      283
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "babylon2",
+     "name": "바벨론(벧전 5:13)",
+     "time": "",
+     "event": "바벨론에 있는 교회가 문안함",
+     "verses": "벧전 5:13",
+     "refs": [
+      283
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peter2-places",
+   "title": "베드로후서의 주요 지역",
+   "period": "베드로후서 2장",
+   "note": "OpenBible 자료가 베드로후서에서 지명으로 잡은 곳은 소돔과 고모라입니다. 순서 없는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    61
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "sodom",
+     "name": "소돔",
+     "time": "",
+     "event": "소돔과 고모라 성을 재로 정하심",
+     "verses": "벧후 2:6",
+     "refs": [
+      284
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "gomorrah",
+     "name": "고모라",
+     "time": "",
+     "event": "소돔과 고모라",
+     "verses": "벧후 2:6",
+     "refs": [
+      284
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jude-places",
+   "title": "유다서의 지명",
+   "period": "유다서 5–7절",
+   "note": "OpenBible 자료가 유다서에서 지명으로 잡은 곳입니다. 순서 없는 목록이며 선은 긋지 않습니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    65
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "egypt",
+     "name": "이집트",
+     "time": "",
+     "event": "주께서 백성을 애굽 땅에서 구원하시고",
+     "verses": "유 1:5",
+     "refs": [
+      285
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "sodom",
+     "name": "소돔",
+     "time": "",
+     "event": "소돔과 고모라와 이웃 도시들",
+     "verses": "유 1:7",
+     "refs": [
+      285
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "gomorrah",
+     "name": "고모라",
+     "time": "",
+     "event": "소돔과 고모라",
+     "verses": "유 1:7",
+     "refs": [
+      285
+     ]
+    }
+   ]
+  },
+  {
+   "id": "seven-churches",
+   "title": "요한계시록의 일곱 교회(밧모 섬에서 쓴 편지의 순서)",
+   "period": "요한계시록 1–3장",
+   "note": "본문이 편지를 보내는 순서대로 이은 선입니다. 실제 우편 경로나 이동 기록이 아닙니다.",
+   "color": "#8E44AD",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    66
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "patmos",
+     "name": "밧모 섬",
+     "time": "",
+     "event": "요한이 하나님의 말씀과 예수의 증언 때문에 밧모라 하는 섬에 있음",
+     "verses": "계 1:9",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "에베소 교회의 사자에게",
+     "verses": "계 2:1",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "smyrna",
+     "name": "서머나",
+     "time": "",
+     "event": "서머나 교회의 사자에게",
+     "verses": "계 2:8",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "pergamum",
+     "name": "버가모",
+     "time": "",
+     "event": "버가모 교회의 사자에게",
+     "verses": "계 2:12",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "thyatira",
+     "name": "두아디라",
+     "time": "",
+     "event": "두아디라 교회의 사자에게",
+     "verses": "계 2:18",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "sardis",
+     "name": "사데",
+     "time": "",
+     "event": "사데 교회의 사자에게",
+     "verses": "계 3:1",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "philadelphia",
+     "name": "빌라델비아",
+     "time": "",
+     "event": "빌라델비아 교회의 사자에게",
+     "verses": "계 3:7",
+     "refs": [
+      286
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "laodicea",
+     "name": "라오디게아",
+     "time": "",
+     "event": "라오디게아 교회의 사자에게",
+     "verses": "계 3:14",
+     "refs": [
+      286
+     ]
+    }
+   ]
+  },
+  {
+   "id": "revelation-places",
+   "title": "요한계시록의 주요 지역",
+   "period": "요한계시록 1–22장",
+   "note": "요한계시록에 이름이 나오는 그 밖의 지명. 이동 순서가 아니라 위치를 보여 주는 목록이며 선은 긋지 않습니다. 계시록의 \"바벨론\"·\"아마겟돈\"이 가리키는 곳은 해석이 갈리며, 지도의 점은 OpenBible 자료의 후보입니다.",
+   "color": "#7F8C8D",
+   "lineStyle": "none",
+   "lineMinScore": 1001,
+   "books": [
+    66
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "asia",
+     "name": "아시아",
+     "time": "",
+     "event": "아시아에 있는 일곱 교회에게",
+     "verses": "계 1:4, 11",
+     "refs": [
+      287
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "새 예루살렘",
+     "verses": "계 3:12; 21:2, 10",
+     "refs": [
+      287
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "euphrates",
+     "name": "유브라데 강",
+     "time": "",
+     "event": "큰 강 유브라데",
+     "verses": "계 9:14; 16:12",
+     "refs": [
+      287
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "mtzion",
+     "name": "시온 산",
+     "time": "",
+     "event": "어린 양이 시온 산에 섬",
+     "verses": "계 14:1",
+     "refs": [
+      287
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "babylon3",
+     "name": "바벨론(계시록)",
+     "time": "",
+     "event": "큰 성 바벨론이 무너짐",
+     "verses": "계 14:8; 16:19",
+     "refs": [
+      287
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "armageddon",
+     "name": "아마겟돈(하르마게돈)",
+     "time": "",
+     "event": "히브리어로 아마겟돈이라 하는 곳에 모음",
+     "verses": "계 16:16",
+     "refs": [
+      287
      ]
     }
    ]
