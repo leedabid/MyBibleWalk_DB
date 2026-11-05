@@ -79,24 +79,24 @@
    "name": "사무엘하",
    "file": "books/10_사무엘하.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "beeacf9b4ba5"
+   "updated": "2026-11-05",
+   "rev": "a4e7d5e4e82c"
   },
   {
    "book": 11,
    "name": "열왕기상",
    "file": "books/11_열왕기상.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "30c0f157ee18"
+   "updated": "2026-11-05",
+   "rev": "b29ba8fb53bf"
   },
   {
    "book": 12,
    "name": "열왕기하",
    "file": "books/12_열왕기하.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "e42b387f5d2c"
+   "updated": "2026-11-05",
+   "rev": "32fa6435cc1a"
   },
   {
    "book": 13,
@@ -536,7 +536,7 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-05",
-   "rev": "6cac371d9d3f"
+   "rev": "e3d6e5c04f99"
   },
   {
    "id": "timeline",
