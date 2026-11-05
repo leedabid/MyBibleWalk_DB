@@ -223,96 +223,96 @@
    "name": "호세아",
    "file": "books/28_호세아.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "1850f21b120b"
+   "updated": "2026-11-05",
+   "rev": "c5ce5dd644ba"
   },
   {
    "book": 29,
    "name": "요엘",
    "file": "books/29_요엘.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "cb3bb7ced92c"
+   "updated": "2026-11-05",
+   "rev": "2a5e311e7b2e"
   },
   {
    "book": 30,
    "name": "아모스",
    "file": "books/30_아모스.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "c25170b2c8e1"
+   "updated": "2026-11-05",
+   "rev": "995a0e21aaad"
   },
   {
    "book": 31,
    "name": "오바댜",
    "file": "books/31_오바댜.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "ea050ba1db2c"
+   "updated": "2026-11-05",
+   "rev": "7e6ae36474dc"
   },
   {
    "book": 32,
    "name": "요나",
    "file": "books/32_요나.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "7fc26bdae85b"
+   "updated": "2026-11-05",
+   "rev": "027d9b48b645"
   },
   {
    "book": 33,
    "name": "미가",
    "file": "books/33_미가.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "b8880725565f"
+   "updated": "2026-11-05",
+   "rev": "aff99a9fe333"
   },
   {
    "book": 34,
    "name": "나훔",
    "file": "books/34_나훔.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "f9e5b53f2bf2"
+   "updated": "2026-11-05",
+   "rev": "bd3f1911daf0"
   },
   {
    "book": 35,
    "name": "하박국",
    "file": "books/35_하박국.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "82a618cd5b5a"
+   "updated": "2026-11-05",
+   "rev": "019ccfb8bec9"
   },
   {
    "book": 36,
    "name": "스바냐",
    "file": "books/36_스바냐.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "14f424df192c"
+   "updated": "2026-11-05",
+   "rev": "db4b455b799e"
   },
   {
    "book": 37,
    "name": "학개",
    "file": "books/37_학개.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "cc0abf5ae4e4"
+   "updated": "2026-11-05",
+   "rev": "36734e1dcb90"
   },
   {
    "book": 38,
    "name": "스가랴",
    "file": "books/38_스가랴.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "c498b9e94169"
+   "updated": "2026-11-05",
+   "rev": "9f4c8127cf0f"
   },
   {
    "book": 39,
    "name": "말라기",
    "file": "books/39_말라기.json",
    "status": "draft",
-   "updated": "2026-11-04",
-   "rev": "44f39983395e"
+   "updated": "2026-11-05",
+   "rev": "cf88ef0348b2"
   },
   {
    "book": 40,
@@ -536,7 +536,7 @@
    "id": "geo",
    "file": "shared/geo.json",
    "updated": "2026-11-05",
-   "rev": "029ff2250305"
+   "rev": "0626ed4a36b5"
   },
   {
    "id": "timeline",
