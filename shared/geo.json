@@ -877,6 +877,66 @@
    "level": "reference",
    "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
    "evidence": []
+  },
+  {
+   "n": 259,
+   "cite": "성경 본문(복음의 확산(예루살렘 → 사마리아 → 해안 평야 → 안디옥)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(복음의 확산(예루살렘 → 사마리아 → 해안 평야 → 안디옥))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 260,
+   "cite": "성경 본문(바울의 회심과 초기 행적의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울의 회심과 초기 행적)",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 261,
+   "cite": "성경 본문(바울의 1차 선교여행(안디옥 → 구브로 → 소아시아)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울의 1차 선교여행(안디옥 → 구브로 → 소아시아))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 262,
+   "cite": "성경 본문(바울의 2차 선교여행(소아시아 → 마게도냐 → 아가야)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울의 2차 선교여행(소아시아 → 마게도냐 → 아가야))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 263,
+   "cite": "성경 본문(바울의 3차 선교여행(에베소 중심 → 예루살렘)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울의 3차 선교여행(에베소 중심 → 예루살렘))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
+  },
+  {
+   "n": 264,
+   "cite": "성경 본문(바울의 로마행(예루살렘 체포 → 가이사랴 → 로마)의 각 사건 구절 — 지명이 그 구절에 나온다는 점은 OpenBible 자료의 지명·구절 연결로 확인)",
+   "where": "각 정거장에 적은 구절(바울의 로마행(예루살렘 체포 → 가이사랴 → 로마))",
+   "url": "https://www.openbible.info/geo/",
+   "accessed": "2026-11-05",
+   "level": "reference",
+   "note": "이 항목은 이번 작업에서 본문 전체를 직접 열어 읽지는 못했음. 사건 설명은 구절 위치만 가리키며, 읽기 전에 본문으로 확인할 것.",
+   "evidence": []
   }
  ],
  "places": [
@@ -4131,7 +4191,7 @@
    "name": "가사",
    "nameEn": "Gaza",
    "kind": "도시",
-   "verses": "삿 16:1; 암 1:6; 습 2:4",
+   "verses": "삿 16:1; 암 1:6; 습 2:4; 행 8:26",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -4361,10 +4421,10 @@
   },
   {
    "id": "ashdod",
-   "name": "아스돗",
+   "name": "아소도",
    "nameEn": "Ashdod",
    "kind": "도시",
-   "verses": "삼상 5:1–2; 느 4:7",
+   "verses": "삼상 5:1–2; 느 4:7; 행 8:40",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -6318,7 +6378,7 @@
    "name": "다메섹",
    "nameEn": "Damascus",
    "kind": "도시",
-   "verses": "왕하 5:12; 8:7; 사 17:1; 렘 49:23; 겔 27:18; 암 1:3; 슥 9:1",
+   "verses": "왕하 5:12; 8:7; 사 17:1; 렘 49:23; 겔 27:18; 암 1:3; 슥 9:1; 행 9:3",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -7804,7 +7864,7 @@
    "name": "시돈",
    "nameEn": "Sidon",
    "kind": "도시",
-   "verses": "겔 28:21; 욜 3:4; 막 7:31",
+   "verses": "겔 28:21; 욜 3:4; 막 7:31; 행 27:3",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -8455,7 +8515,7 @@
    "name": "욥바",
    "nameEn": "Joppa",
    "kind": "항구",
-   "verses": "욘 1:3",
+   "verses": "욘 1:3; 행 9:36–43",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -9314,7 +9374,7 @@
    "name": "사마리아",
    "nameEn": "Samaria 2",
    "kind": "지역",
-   "verses": "눅 17:11",
+   "verses": "눅 17:11; 행 8:5",
    "mapped": true,
    "primary": 0,
    "candidates": [
@@ -9682,6 +9742,1139 @@
      "score": -126,
      "tier": "낮음",
      "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "caesarea",
+   "name": "가이사랴",
+   "nameEn": "Caesarea",
+   "kind": "항구 도시",
+   "verses": "행 8:40; 행 10:24; 행 9:30; 행 18:22; 행 21:8–11; 행 23:23–24; 25:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Caesarea Maritima",
+     "lat": 32.5,
+     "lng": 34.891667,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "lod",
+   "name": "룻다",
+   "nameEn": "Lod",
+   "kind": "도시",
+   "verses": "행 9:32–34",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Lod",
+     "lat": 31.95,
+     "lng": 34.9,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "antioch1",
+   "name": "수리아 안디옥",
+   "nameEn": "Antioch 1",
+   "kind": "도시",
+   "verses": "행 11:19–26; 행 11:26; 행 13:1–3; 행 14:26–27; 행 15:36, 40; 행 18:22; 행 18:23; 행 15:35–36, 40",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Antioch on the Orontes",
+     "lat": 36.226691,
+     "lng": 36.171743,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "straight",
+   "name": "직가(곧은 거리)",
+   "nameEn": "Straight Street",
+   "kind": "거리",
+   "verses": "행 9:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Straight Street",
+     "lat": 33.509167,
+     "lng": 36.311389,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point along road",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "tarsus",
+   "name": "다소",
+   "nameEn": "Tarsus",
+   "kind": "도시",
+   "verses": "행 9:30; 행 11:25",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tarsus",
+     "lat": 36.913028,
+     "lng": 34.892056,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "seleucia",
+   "name": "실루기아",
+   "nameEn": "Seleucia",
+   "kind": "항구",
+   "verses": "행 13:4",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Seleucia Pieria",
+     "lat": 36.124,
+     "lng": 35.922,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "salamis",
+   "name": "살라미",
+   "nameEn": "Salamis",
+   "kind": "항구",
+   "verses": "행 13:5",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Salamis",
+     "lat": 35.184944,
+     "lng": 33.901944,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "paphos",
+   "name": "바보",
+   "nameEn": "Paphos",
+   "kind": "도시",
+   "verses": "행 13:6–12",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "New Paphos",
+     "lat": 34.755667,
+     "lng": 32.404167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "perga",
+   "name": "버가",
+   "nameEn": "Perga",
+   "kind": "도시",
+   "verses": "행 13:13; 행 14:25",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Perga",
+     "lat": 36.960353,
+     "lng": 30.853686,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "antioch2",
+   "name": "비시디아 안디옥",
+   "nameEn": "Antioch 2",
+   "kind": "도시",
+   "verses": "행 13:14–16",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Antioch in Pisidia",
+     "lat": 38.306111,
+     "lng": 31.189167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "iconium",
+   "name": "이고니온",
+   "nameEn": "Iconium",
+   "kind": "도시",
+   "verses": "행 13:51; 14:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Konya",
+     "lat": 37.872202,
+     "lng": 32.492331,
+     "score": 500,
+     "tier": "높음",
+     "precision": "historical site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "lystra",
+   "name": "루스드라",
+   "nameEn": "Lystra",
+   "kind": "도시",
+   "verses": "행 14:6–10, 19; 행 16:1–3",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Tel Lystra",
+     "lat": 37.6017,
+     "lng": 32.3384,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "derbe",
+   "name": "더베",
+   "nameEn": "Derbe",
+   "kind": "도시",
+   "verses": "행 14:20; 행 16:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kerti Hüyük",
+     "lat": 37.348569,
+     "lng": 33.361453,
+     "score": 570,
+     "tier": "높음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Devri Şehri",
+     "lat": 37.318797,
+     "lng": 33.394803,
+     "score": 41,
+     "tier": "낮음",
+     "precision": "100 m",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Güdelisin",
+     "lat": 37.281957,
+     "lng": 32.777662,
+     "score": -43,
+     "tier": "낮음",
+     "precision": "point on tel",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "attalia",
+   "name": "앗달리아",
+   "nameEn": "Attalia",
+   "kind": "항구",
+   "verses": "행 14:25",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Antalya",
+     "lat": 36.881272,
+     "lng": 30.703614,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "troas",
+   "name": "드로아",
+   "nameEn": "Troas",
+   "kind": "항구",
+   "verses": "행 16:8–10; 행 20:6; 행 20:7–12; 행 20:6; 20:7–12",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Alexandria Troas",
+     "lat": 39.751944,
+     "lng": 26.158611,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "neapolis",
+   "name": "네압볼리",
+   "nameEn": "Neapolis",
+   "kind": "항구",
+   "verses": "행 16:11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kavala",
+     "lat": 40.935,
+     "lng": 24.415,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "philippi",
+   "name": "빌립보",
+   "nameEn": "Philippi",
+   "kind": "도시",
+   "verses": "행 16:12–40; 행 20:6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Philippi",
+     "lat": 41.012072,
+     "lng": 24.284576,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "amphipolis",
+   "name": "암비볼리",
+   "nameEn": "Amphipolis",
+   "kind": "도시",
+   "verses": "행 17:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Amphipolis",
+     "lat": 40.820159,
+     "lng": 23.847209,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "thessalonica",
+   "name": "데살로니가",
+   "nameEn": "Thessalonica",
+   "kind": "도시",
+   "verses": "행 17:1–2",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Thessaloniki",
+     "lat": 40.637771,
+     "lng": 22.945767,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "berea",
+   "name": "베뢰아",
+   "nameEn": "Berea",
+   "kind": "도시",
+   "verses": "행 17:10–11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Veria",
+     "lat": 40.518333,
+     "lng": 22.2,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "athens",
+   "name": "아덴",
+   "nameEn": "Athens",
+   "kind": "도시",
+   "verses": "행 17:15–34",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Athens",
+     "lat": 37.971851,
+     "lng": 23.726738,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "corinth",
+   "name": "고린도",
+   "nameEn": "Corinth",
+   "kind": "도시",
+   "verses": "행 18:1, 11",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Corinth",
+     "lat": 37.905785,
+     "lng": 22.878741,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cenchreae",
+   "name": "겐그레아",
+   "nameEn": "Cenchreae",
+   "kind": "항구",
+   "verses": "행 18:18",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kechries",
+     "lat": 37.884335,
+     "lng": 22.996816,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ephesus",
+   "name": "에베소",
+   "nameEn": "Ephesus",
+   "kind": "도시",
+   "verses": "행 18:19; 행 19:1, 8–10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Ephesus",
+     "lat": 37.939125,
+     "lng": 27.3407,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "assos",
+   "name": "앗소",
+   "nameEn": "Assos",
+   "kind": "항구",
+   "verses": "행 20:13–14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Assos",
+     "lat": 39.490556,
+     "lng": 26.336667,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "mitylene",
+   "name": "미둘레네",
+   "nameEn": "Mitylene",
+   "kind": "항구",
+   "verses": "행 20:14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "ancient theater at Mitylene",
+     "lat": 39.110475,
+     "lng": 26.547048,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "miletus",
+   "name": "밀레도",
+   "nameEn": "Miletus",
+   "kind": "항구",
+   "verses": "행 20:15–17",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Miletus",
+     "lat": 37.531111,
+     "lng": 27.275556,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cos",
+   "name": "고스",
+   "nameEn": "Cos",
+   "kind": "섬",
+   "verses": "행 21:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kos",
+     "lat": 36.815278,
+     "lng": 27.110278,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on island",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "rhodes",
+   "name": "로도",
+   "nameEn": "Rhodes 1",
+   "kind": "섬",
+   "verses": "행 21:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Rhodes",
+     "lat": 36.4402,
+     "lng": 28.2109,
+     "score": 378,
+     "tier": "보통",
+     "precision": "settlement in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "patara",
+   "name": "바다라",
+   "nameEn": "Patara",
+   "kind": "항구",
+   "verses": "행 21:1",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Patara",
+     "lat": 36.260278,
+     "lng": 29.314167,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "ptolemais",
+   "name": "돌레마이",
+   "nameEn": "Ptolemais",
+   "kind": "항구",
+   "verses": "행 21:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Acre",
+     "lat": 32.9214,
+     "lng": 35.0692,
+     "score": 500,
+     "tier": "높음",
+     "precision": "historical site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "myra",
+   "name": "무라",
+   "nameEn": "Myra",
+   "kind": "항구",
+   "verses": "행 27:5–6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Myra",
+     "lat": 36.259167,
+     "lng": 29.985278,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cnidus",
+   "name": "니도",
+   "nameEn": "Cnidus",
+   "kind": "곳",
+   "verses": "행 27:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Cnidus",
+     "lat": 36.685833,
+     "lng": 27.375,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "salmone",
+   "name": "살모네",
+   "nameEn": "Salmone",
+   "kind": "곶",
+   "verses": "행 27:7",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Cape Sideros",
+     "lat": 35.31603,
+     "lng": 26.31155,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in region",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "fairhavens",
+   "name": "미항",
+   "nameEn": "Fair Havens",
+   "kind": "항구",
+   "verses": "행 27:8–10",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Kaloi Limenes",
+     "lat": 34.929694,
+     "lng": 24.800306,
+     "score": 500,
+     "tier": "높음",
+     "precision": "250 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "phoenix",
+   "name": "뵈닉스",
+   "nameEn": "Phoenix",
+   "kind": "항구",
+   "verses": "행 27:12–14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Finikas",
+     "lat": 35.2,
+     "lng": 24.072222,
+     "score": 310,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    },
+    {
+     "label": "Loutro",
+     "lat": 35.20001,
+     "lng": 24.07858,
+     "score": 191,
+     "tier": "보통",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "cauda",
+   "name": "가우다",
+   "nameEn": "Cauda",
+   "kind": "섬",
+   "verses": "행 27:16",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Gavdos",
+     "lat": 34.833333,
+     "lng": 24.083333,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point on island",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "malta",
+   "name": "멜리데",
+   "nameEn": "Malta",
+   "kind": "섬",
+   "verses": "행 28:1–6",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Malta",
+     "lat": 35.933464,
+     "lng": 14.411732,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "syracuse",
+   "name": "수라구사",
+   "nameEn": "Syracuse",
+   "kind": "도시",
+   "verses": "행 28:12",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Syracuse",
+     "lat": 37.063889,
+     "lng": 15.293056,
+     "score": 500,
+     "tier": "높음",
+     "precision": "archaeological site in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "rhegium",
+   "name": "레기온",
+   "nameEn": "Rhegium",
+   "kind": "도시",
+   "verses": "행 28:13",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Reggio Calabria",
+     "lat": 38.1088,
+     "lng": 15.64412,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in modern settlement",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "puteoli",
+   "name": "보디올",
+   "nameEn": "Puteoli",
+   "kind": "항구",
+   "verses": "행 28:13–14",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Pozzuoli",
+     "lat": 40.826111,
+     "lng": 14.120556,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "forum",
+   "name": "압비오 광장",
+   "nameEn": "Forum of Appius",
+   "kind": "곳",
+   "verses": "행 28:15",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Forum Appii",
+     "lat": 41.46639,
+     "lng": 12.9975,
+     "score": 500,
+     "tier": "높음",
+     "precision": "200 m",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "taverns",
+   "name": "세 여관",
+   "nameEn": "Three Taverns",
+   "kind": "곳",
+   "verses": "행 28:15",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Three Taverns",
+     "lat": 41.561944,
+     "lng": 12.873889,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
+     "refs": [
+      50
+     ]
+    }
+   ],
+   "refs": [
+    50
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "로마",
+   "nameEn": "Rome",
+   "kind": "도시",
+   "verses": "행 28:14, 16, 30–31",
+   "mapped": true,
+   "primary": 0,
+   "candidates": [
+    {
+     "label": "Rome",
+     "lat": 41.8922,
+     "lng": 12.4852,
+     "score": 500,
+     "tier": "높음",
+     "precision": "point in visible remains",
      "refs": [
       50
      ]
@@ -16863,6 +18056,904 @@
      "verses": "요 21:1",
      "refs": [
       258
+     ]
+    }
+   ]
+  },
+  {
+   "id": "acts-spread",
+   "title": "복음의 확산(예루살렘 → 사마리아 → 해안 평야 → 안디옥)",
+   "period": "사도행전 8–11장",
+   "note": "스데반 순교 뒤 흩어진 사람들, 빌립, 베드로가 옮겨 다니며 복음이 사마리아와 가이사랴, 안디옥까지 퍼지는 과정.",
+   "color": "#16A085",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    44
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘 교회가 크게 핍박을 받아 사도 외에 모두 유대와 사마리아로 흩어짐",
+     "verses": "행 8:1",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "samaria2",
+     "name": "사마리아",
+     "time": "",
+     "event": "빌립이 사마리아 성에서 그리스도를 전함",
+     "verses": "행 8:5",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "gaza",
+     "name": "가사",
+     "time": "",
+     "event": "빌립이 예루살렘에서 가사로 내려가는 길에서 에티오피아 내시를 만남",
+     "verses": "행 8:26",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "ashdod",
+     "name": "아소도",
+     "time": "",
+     "event": "빌립이 아소도에 나타남",
+     "verses": "행 8:40",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "caesarea",
+     "name": "가이사랴",
+     "time": "",
+     "event": "빌립이 가이사랴에 이름",
+     "verses": "행 8:40",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "lod",
+     "name": "룻다",
+     "time": "",
+     "event": "베드로가 룻다에서 애니아를 고침",
+     "verses": "행 9:32–34",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "joppa",
+     "name": "욥바",
+     "time": "",
+     "event": "베드로가 욥바에서 다비다를 살리고 시몬의 집에 머묾",
+     "verses": "행 9:36–43",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "caesarea",
+     "name": "가이사랴",
+     "time": "",
+     "event": "베드로가 가이사랴의 고넬료의 집에 감",
+     "verses": "행 10:24",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "베드로가 예루살렘에 올라가 할례자들에게 설명함",
+     "verses": "행 11:2",
+     "refs": [
+      259
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "흩어진 사람들이 안디옥에서 헬라인에게도 전함. 제자들이 처음 그리스도인이라 불림",
+     "verses": "행 11:19–26",
+     "refs": [
+      259
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-conversion",
+   "title": "바울의 회심과 초기 행적",
+   "period": "사도행전 9장 (갈라디아서 1:17–21과 함께 읽음)",
+   "note": "다메섹 도상에서 부르심을 받고 예루살렘, 가이사랴, 다소를 거쳐 안디옥에 이르기까지.",
+   "color": "#8E44AD",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    44
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "damascus",
+     "name": "다메섹",
+     "time": "",
+     "event": "다메섹에 가까이 갔을 때 하늘에서 빛이 비침",
+     "verses": "행 9:3",
+     "refs": [
+      260
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "straight",
+     "name": "직가(곧은 거리)",
+     "time": "",
+     "event": "직가라 하는 거리 유다의 집에서 아나니아를 만남",
+     "verses": "행 9:11",
+     "refs": [
+      260
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘에 가서 제자들과 사귀려 함, 바나바가 데려감",
+     "verses": "행 9:26–27",
+     "refs": [
+      260
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "caesarea",
+     "name": "가이사랴",
+     "time": "",
+     "event": "형제들이 바울을 가이사랴로 데리고 내려감",
+     "verses": "행 9:30",
+     "refs": [
+      260
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "tarsus",
+     "name": "다소",
+     "time": "",
+     "event": "다소로 보냄",
+     "verses": "행 9:30",
+     "refs": [
+      260
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "tarsus",
+     "name": "다소",
+     "time": "",
+     "event": "바나바가 바울을 찾으러 다소로 감",
+     "verses": "행 11:25",
+     "refs": [
+      260
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "바울과 바나바가 안디옥에서 일 년간 가르침",
+     "verses": "행 11:26",
+     "refs": [
+      260
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-journey-1",
+   "title": "바울의 1차 선교여행(안디옥 → 구브로 → 소아시아)",
+   "period": "사도행전 13–14장",
+   "note": "성령의 지시로 안디옥에서 파송되어 구브로와 소아시아 남부를 거쳐 안디옥으로 돌아옴.",
+   "color": "#E74C3C",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    44
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "성령이 바나바와 사울을 따로 세우라 하심. 금식하고 안수하여 보냄",
+     "verses": "행 13:1–3",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "seleucia",
+     "name": "실루기아",
+     "time": "",
+     "event": "실루기아로 내려가 배로 구브로로 감",
+     "verses": "행 13:4",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "salamis",
+     "name": "살라미",
+     "time": "",
+     "event": "살라미에서 유대인 회당에 말씀을 전함",
+     "verses": "행 13:5",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "paphos",
+     "name": "바보",
+     "time": "",
+     "event": "바보에서 총독 서기오 바울과 마술사 엘루마를 만남",
+     "verses": "행 13:6–12",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "perga",
+     "name": "버가",
+     "time": "",
+     "event": "밤빌리아 버가에 이름. 요한이 떠나 예루살렘으로 돌아감",
+     "verses": "행 13:13",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "antioch2",
+     "name": "비시디아 안디옥",
+     "time": "",
+     "event": "비시디아 안디옥 회당에서 설교함",
+     "verses": "행 13:14–16",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "iconium",
+     "name": "이고니온",
+     "time": "",
+     "event": "이고니온에서 회당에 들어가 전함",
+     "verses": "행 13:51; 14:1",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "lystra",
+     "name": "루스드라",
+     "time": "",
+     "event": "루스드라에서 걷지 못하는 사람을 고침. 바울이 돌에 맞음",
+     "verses": "행 14:6–10, 19",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "derbe",
+     "name": "더베",
+     "time": "",
+     "event": "더베에서 복음을 전함",
+     "verses": "행 14:20",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "perga",
+     "name": "버가",
+     "time": "",
+     "event": "돌아오는 길에 버가에서 말씀을 전함",
+     "verses": "행 14:25",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "attalia",
+     "name": "앗달리아",
+     "time": "",
+     "event": "앗달리아로 내려감",
+     "verses": "행 14:25",
+     "refs": [
+      261
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "안디옥으로 돌아가 교회에 보고함",
+     "verses": "행 14:26–27",
+     "refs": [
+      261
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-journey-2",
+   "title": "바울의 2차 선교여행(소아시아 → 마게도냐 → 아가야)",
+   "period": "사도행전 15:36–18:22",
+   "note": "안디옥에서 실라와 함께 출발해 소아시아를 지나 드로아에서 마게도냐 환상을 보고 그리스까지 이르렀다가 돌아옴.",
+   "color": "#2980B9",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    44
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "안디옥에 머물던 바울이 바나바에게 형제들을 돌아보자고 함. 실라를 택해 떠남",
+     "verses": "행 15:35–36, 40",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "derbe",
+     "name": "더베",
+     "time": "",
+     "event": "더베에 이름",
+     "verses": "행 16:1",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "lystra",
+     "name": "루스드라",
+     "time": "",
+     "event": "루스드라에서 디모데를 만나 동행하게 함",
+     "verses": "행 16:1–3",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "troas",
+     "name": "드로아",
+     "time": "",
+     "event": "드로아에서 마게도냐 사람의 환상을 봄",
+     "verses": "행 16:8–10",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "neapolis",
+     "name": "네압볼리",
+     "time": "",
+     "event": "네압볼리에 이름",
+     "verses": "행 16:11",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "philippi",
+     "name": "빌립보",
+     "time": "",
+     "event": "빌립보에서 루디아를 만나고, 옥에 갇혔다가 풀려남",
+     "verses": "행 16:12–40",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "amphipolis",
+     "name": "암비볼리",
+     "time": "",
+     "event": "암비볼리와 아볼로니아를 지나감",
+     "verses": "행 17:1",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "thessalonica",
+     "name": "데살로니가",
+     "time": "",
+     "event": "데살로니가 회당에서 세 안식일 논증함",
+     "verses": "행 17:1–2",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "berea",
+     "name": "베뢰아",
+     "time": "",
+     "event": "베뢰아 사람들이 날마다 성경을 상고함",
+     "verses": "행 17:10–11",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "athens",
+     "name": "아덴",
+     "time": "",
+     "event": "아덴 아레오바고에서 연설함",
+     "verses": "행 17:15–34",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "corinth",
+     "name": "고린도",
+     "time": "",
+     "event": "고린도에서 일 년 육 개월 머물며 가르침",
+     "verses": "행 18:1, 11",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "cenchreae",
+     "name": "겐그레아",
+     "time": "",
+     "event": "겐그레아에서 서원 때문에 머리를 깎음",
+     "verses": "행 18:18",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "에베소 회당에서 논증함",
+     "verses": "행 18:19",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "caesarea",
+     "name": "가이사랴",
+     "time": "",
+     "event": "가이사랴에 상륙함",
+     "verses": "행 18:22",
+     "refs": [
+      262
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "예루살렘에 올라가 문안한 뒤 안디옥으로 내려감",
+     "verses": "행 18:22",
+     "refs": [
+      262
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-journey-3",
+   "title": "바울의 3차 선교여행(에베소 중심 → 예루살렘)",
+   "period": "사도행전 18:23–21:17",
+   "note": "안디옥에서 출발해 에베소에서 이 년 이상 머문 뒤, 마게도냐와 그리스를 거쳐 해안선을 따라 예루살렘으로 올라감.",
+   "color": "#27AE60",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    44
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "antioch1",
+     "name": "수리아 안디옥",
+     "time": "",
+     "event": "얼마 있다가 떠나 갈라디아와 브루기아를 차례로 다니며 제자들을 굳게 함",
+     "verses": "행 18:23",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "ephesus",
+     "name": "에베소",
+     "time": "",
+     "event": "에베소에서 두란노 서원에서 이 년간 강론함. 사도행전 19장",
+     "verses": "행 19:1, 8–10",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "philippi",
+     "name": "빌립보",
+     "time": "",
+     "event": "무교절 후 빌립보에서 배로 떠남",
+     "verses": "행 20:6",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "troas",
+     "name": "드로아",
+     "time": "",
+     "event": "드로아에서 칠 일 머묾. 주간 첫날 유두고를 살림",
+     "verses": "행 20:6; 20:7–12",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "assos",
+     "name": "앗소",
+     "time": "",
+     "event": "앗소에서 배에 오름",
+     "verses": "행 20:13–14",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "mitylene",
+     "name": "미둘레네",
+     "time": "",
+     "event": "미둘레네에 이름",
+     "verses": "행 20:14",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "miletus",
+     "name": "밀레도",
+     "time": "",
+     "event": "밀레도에서 에베소 장로들을 청해 고별 설교함",
+     "verses": "행 20:15–17",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "cos",
+     "name": "고스",
+     "time": "",
+     "event": "고스에 이름",
+     "verses": "행 21:1",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "rhodes",
+     "name": "로도",
+     "time": "",
+     "event": "로도에 이름",
+     "verses": "행 21:1",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "patara",
+     "name": "바다라",
+     "time": "",
+     "event": "바다라에서 배를 갈아탐",
+     "verses": "행 21:1",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "tyre",
+     "name": "두로",
+     "time": "",
+     "event": "두로에서 칠 일 머묾",
+     "verses": "행 21:3–4",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "ptolemais",
+     "name": "돌레마이",
+     "time": "",
+     "event": "돌레마이에서 형제들에게 문안함",
+     "verses": "행 21:7",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "caesarea",
+     "name": "가이사랴",
+     "time": "",
+     "event": "가이사랴에서 전도자 빌립의 집에 머묾. 아가보가 바울의 결박을 예언함",
+     "verses": "행 21:8–11",
+     "refs": [
+      263
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "예루살렘에 올라가 형제들의 환영을 받음",
+     "verses": "행 21:15–17",
+     "refs": [
+      263
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-to-rome",
+   "title": "바울의 로마행(예루살렘 체포 → 가이사랴 → 로마)",
+   "period": "사도행전 21:27–28:31",
+   "note": "예루살렘에서 체포된 바울이 가이사랴에서 재판을 받은 뒤 가이사에게 상소하여 배로 로마까지 가는 여정.",
+   "color": "#C0392B",
+   "lineStyle": "dashed",
+   "lineMinScore": 150,
+   "books": [
+    44
+   ],
+   "stops": [
+    {
+     "order": 1,
+     "placeId": "jerusalem",
+     "name": "예루살렘",
+     "time": "",
+     "event": "성전에서 붙잡힘",
+     "verses": "행 21:27–33",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 2,
+     "placeId": "caesarea",
+     "name": "가이사랴",
+     "time": "",
+     "event": "총독 벨릭스·베스도 앞에서 재판받고 가이사에게 상소함",
+     "verses": "행 23:23–24; 25:11",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 3,
+     "placeId": "sidon",
+     "name": "시돈",
+     "time": "",
+     "event": "시돈에 이름. 백부장 율리오가 친구들에게 가도록 허락함",
+     "verses": "행 27:3",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 4,
+     "placeId": "myra",
+     "name": "무라",
+     "time": "",
+     "event": "루기아 무라에서 알렉산드리아 배로 갈아탐",
+     "verses": "행 27:5–6",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 5,
+     "placeId": "cnidus",
+     "name": "니도",
+     "time": "",
+     "event": "니도 맞은편에 이름",
+     "verses": "행 27:7",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 6,
+     "placeId": "salmone",
+     "name": "살모네",
+     "time": "",
+     "event": "살모네 앞을 지나 그레데 해안을 따라 감",
+     "verses": "행 27:7",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 7,
+     "placeId": "fairhavens",
+     "name": "미항",
+     "time": "",
+     "event": "미항에 이름. 바울이 항해가 위험하다고 경고함",
+     "verses": "행 27:8–10",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 8,
+     "placeId": "phoenix",
+     "name": "뵈닉스",
+     "time": "",
+     "event": "뵈닉스에서 겨울을 지내려 하다가 광풍(유라굴로)을 만남",
+     "verses": "행 27:12–14",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 9,
+     "placeId": "cauda",
+     "name": "가우다",
+     "time": "",
+     "event": "가우다라는 작은 섬 아래로 지남",
+     "verses": "행 27:16",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 10,
+     "placeId": "malta",
+     "name": "멜리데",
+     "time": "",
+     "event": "배가 난파하고 멜리데 섬에 상륙함. 독사에 물려도 해를 입지 않음",
+     "verses": "행 28:1–6",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 11,
+     "placeId": "syracuse",
+     "name": "수라구사",
+     "time": "",
+     "event": "수라구사에 대어 사흘 머묾",
+     "verses": "행 28:12",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 12,
+     "placeId": "rhegium",
+     "name": "레기온",
+     "time": "",
+     "event": "레기온에 이름",
+     "verses": "행 28:13",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 13,
+     "placeId": "puteoli",
+     "name": "보디올",
+     "time": "",
+     "event": "보디올에서 형제들을 만나 이레 머묾",
+     "verses": "행 28:13–14",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 14,
+     "placeId": "forum",
+     "name": "압비오 광장",
+     "time": "",
+     "event": "압비오 광장까지 형제들이 맞으러 나옴",
+     "verses": "행 28:15",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 15,
+     "placeId": "taverns",
+     "name": "세 여관",
+     "time": "",
+     "event": "세 여관까지 형제들이 나옴",
+     "verses": "행 28:15",
+     "refs": [
+      264
+     ]
+    },
+    {
+     "order": 16,
+     "placeId": "rome",
+     "name": "로마",
+     "time": "",
+     "event": "로마에 들어가 이 년 동안 셋집에 머물며 하나님 나라를 전함",
+     "verses": "행 28:14, 16, 30–31",
+     "refs": [
+      264
      ]
     }
    ]
