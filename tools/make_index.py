@@ -6,7 +6,7 @@ root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 p = os.path.join(root, 'index.json')
 idx = json.load(open(p, encoding='utf-8'))
 def rev(rel):
-    b = open(os.path.join(root, rel), 'rb').read().replace(b'\r\n', b'\n')
+    b = open(os.path.join(root, rel), 'rb').read().replace(b'\r\n', b'\n').rstrip(b'\n')
     return hashlib.sha1(b).hexdigest()[:12]
 n = 0
 for key in ('books', 'shared'):
