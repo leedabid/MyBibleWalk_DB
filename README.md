@@ -1,5 +1,7 @@
 # MyBibleWalk_DB
 
+**처음 설치하시는 분은 [설치 안내](docs/설치안내.md)를 먼저 보세요.** 설치 파일(APK): [Releases 최신 버전](https://github.com/leedabid/MyBibleWalk_DB/releases/latest)
+
 MyBibleWalk 앱이 내려받아 읽기 전용으로 보여 주는 **검증본 권 개관** 자료 저장소입니다.
 (앱 소스는 이 저장소에 없습니다.)
 
