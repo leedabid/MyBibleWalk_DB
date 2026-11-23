@@ -1,6 +1,6 @@
 {
  "versionCode": 43,
  "versionName": "1.14.11",
- "notes": "",
- "url": ""
+ "notes": "- 홈 '성경 역본 안내': 목록·설명 영역이 터치로 스크롤되지 않던 문제 수정(바깥 화면 스크롤이 터치를 가로채던 것을 막음).",
+ "url": "https://github.com/leedabid/MyBibleWalk_DB/releases/download/v1.14.11/MyBibleWalk_1.14.11.apk"
 }
