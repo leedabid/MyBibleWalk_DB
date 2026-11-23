@@ -1,6 +1,6 @@
 {
- "versionCode": 41,
- "versionName": "1.14.9",
- "notes": "- 홈: '성경 역본 안내' 카드 추가. 설치된 역본 이름 목록에서 이름을 누르면 설명(만든 곳·연도·번역 방식)과 출처 번호·출처 목록을 보여 줌. 설명은 공개 DB의 shared/versions.json(34개 역본, 출처 50개)을 처음 열 때 받아 앱 안에 저장하고, 설정 > 업데이트에서 새 판을 받음. 출처를 확인하지 못한 문장은 '(출처 없음)'으로 표시.",
- "url": "https://github.com/leedabid/MyBibleWalk_DB/releases/download/v1.14.9/MyBibleWalk_1.14.9.apk"
+ "versionCode": 42,
+ "versionName": "1.14.10",
+ "notes": "",
+ "url": ""
 }
