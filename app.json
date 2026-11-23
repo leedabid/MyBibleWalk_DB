@@ -1,6 +1,6 @@
 {
- "versionCode": 39,
- "versionName": "1.14.7",
- "notes": "- 낭독(TTS): 화면을 끄거나 앱을 내려놓아도 낭독이 끊기지 않음. 낭독하는 동안만 알림(\"성경 낭독 중\", 정지 버튼)이 뜨고, 끝나거나 멈추면 사라짐. 일시정지 중에는 화면 꺼짐 방지를 풀어 배터리를 아낌. (처음 낭독할 때 알림 허용을 한 번 물음) - 읽던 위치: 낭독 중 절이 바뀔 때마다, 그리고 앱을 내려놓는 순간 보던 절 위치를 다시 계산해 저장함(앱이 다시 시작돼도 읽던 곳으로 돌아오게).",
- "url": "https://github.com/leedabid/MyBibleWalk_DB/releases/download/v1.14.7/MyBibleWalk_1.14.7.apk"
+ "versionCode": 40,
+ "versionName": "1.14.8",
+ "notes": "",
+ "url": ""
 }
