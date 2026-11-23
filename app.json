@@ -1,6 +1,6 @@
 {
  "versionCode": 42,
  "versionName": "1.14.10",
- "notes": "",
- "url": ""
+ "notes": "- 홈: '성경 역본 안내'를 맨 아래로 옮기고 카드 안을 위(역본 목록)·아래(설명) 두 영역으로 나눔(각각 스크롤바). 팝업 대신 아래 영역에 설명을 표시. 파일 이름의 kor/eng 접두어를 떼거나 표시 이름으로도 설명을 찾도록 고침(개역개정·우리말성경 등이 '설명 없음'으로 나오던 문제). - 읽기표: 위쪽에 구약/신약 선택과 권 버튼(약칭) 추가, 누르면 그 권으로 스크롤.",
+ "url": "https://github.com/leedabid/MyBibleWalk_DB/releases/download/v1.14.10/MyBibleWalk_1.14.10.apk"
 }
