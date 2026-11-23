@@ -1,0 +1,1580 @@
+{
+ "schema": 1,
+ "id": "versions",
+ "status": "draft",
+ "updated": "2026-11-23",
+ "note": "앱이 읽는 성경 역본 설명. 역본 파일 이름(codes)으로 앱의 역본과 연결한다.",
+ "notes": [
+  "AI와 사람이 함께 정리한 참고 자료이며 오류가 있을 수 있습니다. 중요한 내용은 각 번호의 출처에서 확인하세요.",
+  "출처의 ‘확인 수준’은 대부분 abstract(검색에 나온 부분까지만 확인)이고, 일부는 secondary(백과사전 등 2차 자료)입니다. 전문을 읽고 확인한 것은 앱 내장 성경의 출처 표(번호 40)뿐입니다.",
+  "‘형식 일치(직역)’, ‘뜻 중심’ 같은 분류는 번역 방식을 설명하는 일반적인 구분일 뿐 우열을 뜻하지 않으며, 출처 번호가 없는 문장은 근거를 확인하지 못한 문장입니다.",
+  "성경 역본의 저작권은 각 권리자에게 있습니다. 이 자료는 성경 본문을 싣지 않고 역본의 이력만 요약합니다."
+ ],
+ "versions": [
+  {
+   "id": "nkrv",
+   "codes": [
+    "nkrv",
+    "korkrv"
+   ],
+   "name": "개역개정",
+   "english": "New Korean Revised Version",
+   "language": "한국어",
+   "group": "대한성서공회 공인역",
+   "glance": "1998 · 대한성서공회 · 개역한글판을 고쳐 만듦",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "대한성서공회가 1998년에 펴낸 성경으로, 1961년의 개역한글판을 고쳐서 만들었습니다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "고친 이유는 한글 맞춤법과 일상 언어가 달라졌고 성서학도 발전했기 때문이라고 설명합니다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "1980년대에 개정 원칙을 세웠습니다. 기존 개역의 분위기와 특징은 되도록 그대로 두고, 꼭 필요한 부분만 고친다는 원칙입니다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "1983년 9월부터 약 10년간 개정 원고를 만들었고, 각 교단이 보낸 성서학자·신학자·목회자·국어학자로 이루어진 감수위원회가 4년 동안 157번 읽고 토론했습니다.",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "text": "한국 교회가 예배용 성경으로 쓰고 있다고 대한성서공회가 소개합니다.",
+     "refs": [
+      43
+     ]
+    },
+    {
+     "text": "문장 끝을 ‘-라’로 맺는 옛말투를 이어받은 성경으로 분류하는 국어학 해설이 있습니다.",
+     "refs": [
+      44
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hrv",
+   "codes": [
+    "hrv",
+    "korhrv",
+    "korhan"
+   ],
+   "name": "개역한글",
+   "english": "Korean Revised Version (한글판)",
+   "language": "한국어",
+   "group": "대한성서공회 공인역",
+   "glance": "1961(최종판) · 대한성서공회 · 『셩경 개역』(1938) 계통",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "1911년에 나온 첫 우리말 완역 성경 『셩경젼셔』를 두 번 크게 고친 것의 결과입니다. 첫 번째가 1938년 『셩경 개역』이고, 이것을 한글맞춤법통일안에 맞게 표기를 바꾼 첫 판이 1952년에 나왔습니다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "‘한글판’이라는 이름은 ‘국한문판’과 구별하려는 뜻이 아니라, 옛 철자법을 버리고 한글맞춤법통일안을 따랐다는 뜻이라고 대한성서공회가 설명합니다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "번역 내용과 표기를 더 다듬어 낸 결정판이 1961년에 나왔습니다(표제지에는 1956년으로 적혀 있습니다).",
+     "refs": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "구약은 1911년부터 1937년까지 26년, 신약은 1926년부터 1937년까지 12년 동안 개역 작업을 했습니다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "개역 작업에는 팔머의 그리스어 신약(1881), 네슬레의 그리스어 신약(1923년판), 긴즈버그의 히브리어 구약 등이 쓰였다고 합니다.",
+     "refs": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "std",
+   "codes": [
+    "std"
+   ],
+   "name": "표준새번역",
+   "english": "New Korean Standard Bible",
+   "language": "한국어",
+   "group": "대한성서공회 공인역",
+   "glance": "1993 · 대한성서공회 · 쉬운 현대어",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "대한성서공회가 1993년 1월에 첫 판을 낸 성경입니다. 각 교단 신학자 16명이 10여 년 동안 새로 번역했습니다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "가장 눈에 띄는 특징은 개역과 달리 현대어로, 쉬운 말로 번역했다는 점입니다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "번역 원칙은 원문의 뜻을 우리말 독자가 이해하도록 정확하게, 쉬운 현대어로, 우리말 어법에 맞게 옮기는 것이었습니다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "2001년에 개정판이 나왔고, 2004년에 이름을 ‘새번역’으로 바꿨습니다.",
+     "refs": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nkr",
+   "codes": [
+    "nkr"
+   ],
+   "name": "새번역",
+   "english": "Revised New Korean Standard Version",
+   "language": "한국어",
+   "group": "대한성서공회 공인역",
+   "glance": "2004 이름 변경(개정판 2001) · 대한성서공회",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "표준새번역 개정판(2001)의 이름을 2004년에 ‘새번역’으로 바꾼 성경입니다.",
+     "refs": [
+      4
+     ]
+    },
+    {
+     "text": "표준새번역에 대한 비판을 검토하려고 각 교단이 보낸 개정위원들로 위원회를 만들었고, 꼭 필요한 부분만 고치는 방식으로 개정했다고 합니다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "개정 때 신경 쓴 점으로 뜻이 불분명한 곳을 분명하게 고친 것, 번역 어투를 줄이되 신학적으로 중요한 곳은 원문의 뜻을 그대로 살린 것, 대화에 현대 우리말 존대법을 쓴 것, 성경 전체에서 ‘주’를 ‘주님’으로 고친 것이 꼽힙니다.",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "text": "‘-다’로 끝나는 현대어 문체 계열의 성경으로 설명됩니다.",
+     "refs": [
+      44
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nkcb",
+   "codes": [
+    "nkcb"
+   ],
+   "name": "공동번역 개정판",
+   "english": "Revised Common Translation Bible",
+   "language": "한국어",
+   "group": "대한성서공회 공인역",
+   "glance": "1971 신약·1977 전체 · 개정판 1999 · 천주교·개신교 공동 번역",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "천주교와 개신교가 함께 한 번역입니다. 공동번역 신약이 1971년 부활절에, 외경을 포함한 구약이 1977년 부활절에 나왔습니다.",
+     "refs": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "1999년에 개정판이 나왔습니다. 한글 맞춤법을 반영해 달라는 요청, 천주교 주교회의가 가톨릭용 편집(제2경전)의 순서를 노바 불가타 기준으로 조정해 달라는 요청, 사용 중 발견된 오류를 고쳐야 할 필요가 이유였습니다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "개정위원회는 1995년 1월 21일에 만들어졌고, 번역 원본과 번역 원칙은 초판과 같습니다. 명백히 틀린 것만 고치는 ‘소폭 개정’이 원칙이었습니다.",
+     "refs": [
+      5
+     ]
+    },
+    {
+     "text": "외경을 뺀 개신교용 판도 있었지만 많이 쓰이지 못했고, 가톨릭용에는 외경이 ‘제2경전’이라는 이름으로 실려 있습니다.",
+     "refs": [
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cath",
+   "codes": [
+    "cath"
+   ],
+   "name": "가톨릭 성경",
+   "english": "Korean Catholic Bible (성경)",
+   "language": "한국어",
+   "group": "천주교",
+   "glance": "2005 · 한국천주교주교회의 · 천주교 공용 성경",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "한국천주교주교회의가 펴낸 성경으로, 2005년 9월 20일에 완간되었습니다.",
+     "refs": [
+      7
+     ]
+    },
+    {
+     "text": "1988년에 주교회의가 새 성경 번역 사업을 꾸렸고, 2005년부터 한국 천주교의 표준 성경이 되어 공동번역을 대신하게 되었다고 합니다.",
+     "refs": [
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "klb",
+   "codes": [
+    "klb"
+   ],
+   "name": "현대인의 성경",
+   "english": "Korean Living Bible (KLB)",
+   "language": "한국어",
+   "group": "개신교 출판사 역본",
+   "glance": "1985 · 생명의말씀사",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "생명의말씀사가 1985년에 낸 성경으로, 영어 『The Living Bible』을 우리말로 다시 옮긴 성경이라고 백과사전은 적습니다. 다만 번역 방식은 공식 자료로 확인하지 못했습니다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "판권은 Biblica, Inc.의 1985년 저작으로 표시됩니다.",
+     "refs": [
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "viw",
+   "codes": [
+    "viw",
+    "dob",
+    "korviw"
+   ],
+   "name": "우리말성경",
+   "english": "Woorimal Bible",
+   "language": "한국어",
+   "group": "개신교 출판사 역본",
+   "glance": "2004(개정 2022) · 두란노서원",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "두란노서원이 2004년에 낸 성경으로 소개되며, 2022년에 개정되었다고 합니다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "한 교회 블로그는 원어 전문가들이 약 11년 동안 번역한 성경이라고 소개합니다. 이 내용은 공식 자료로 확인하지 못했습니다.",
+     "refs": [
+      41
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ktv",
+   "codes": [
+    "ktv"
+   ],
+   "name": "바른성경",
+   "english": "True Bible (바른성경)",
+   "language": "한국어",
+   "group": "개신교 출판사 역본",
+   "glance": "1997 또는 2009(자료마다 다름) · 한국성경공회",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "백과사전 항목은 한국성경공회가 1997년에 낸 성경으로 적습니다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "한편 대한성서공회 연구지의 한 논문은 비교 예시에서 바른성경을 2009년판으로 표기합니다. 자료마다 연도가 다르니 판본에 따라 구별해서 보세요.",
+     "refs": [
+      45
+     ]
+    },
+    {
+     "text": "번역 방식과 번역 대본은 공식 자료로 확인하지 못했습니다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "tkv",
+   "codes": [
+    "tkv"
+   ],
+   "name": "현대어성경",
+   "english": "Today's Korean Version (TKV)",
+   "language": "한국어",
+   "group": "개신교 출판사 역본",
+   "glance": "1991 · 성서원",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "성서원이 1991년에 낸 현대어 성경으로, 2012년에 ‘쉬운말성경’으로 대체되었다고 합니다.",
+     "refs": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "easy",
+   "codes": [
+    "easy",
+    "koreasy"
+   ],
+   "name": "쉬운성경",
+   "english": "Easy Bible (아가페 쉬운성경)",
+   "language": "한국어",
+   "group": "개신교 출판사 역본",
+   "glance": "2001 · 아가페출판사",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "아가페출판사가 2001년에 낸 쉬운 우리말 성경으로 소개됩니다.",
+     "refs": [
+      8
+     ]
+    },
+    {
+     "text": "서점 정보에는 ‘쉬운성경 편찬위원회’가 엮고 아가페출판사가 낸 것으로 나옵니다.",
+     "refs": [
+      46
+     ]
+    },
+    {
+     "text": "성서원이 2012년에 낸 ‘쉬운말성경’은 이름이 비슷하지만 다른 성경입니다.",
+     "refs": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hkjv",
+   "codes": [
+    "hkjv"
+   ],
+   "name": "킹제임스 흠정역",
+   "english": "King James 흠정역(우리말)",
+   "language": "한국어",
+   "group": "킹제임스 계열",
+   "glance": "2000년대~ · 그리스도예수안에(2021 마제스티 에디션)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "영어 킹제임스 성경을 우리말로 옮긴 성경으로, 도서출판 그리스도예수안에가 펴냅니다.",
+     "refs": [
+      14
+     ]
+    },
+    {
+     "text": "주번역자인 정동수 목사는 이 성경을 약 30년간 번역해 왔고 2000년부터 생명의말씀사를 통해 보급했다고 직접 밝힙니다. 번역하는 쪽이 쓴 글이어서 제3자가 확인한 내용은 아닙니다.",
+     "refs": [
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kkjv",
+   "codes": [
+    "kkjv"
+   ],
+   "name": "한글 킹제임스",
+   "english": "한글 킹제임스 성경",
+   "language": "한국어",
+   "group": "킹제임스 계열",
+   "glance": "말씀보존학회",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "말씀보존학회가 내는 한글킹제임스성경으로, 앱 소개에는 서문이 1994년 이송오 목사의 글로 표시되어 있습니다.",
+     "refs": [
+      15
+     ]
+    },
+    {
+     "text": "번역 대본과 번역 방식은 공식 자료로 확인하지 못했습니다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "lit",
+   "codes": [
+    "lit"
+   ],
+   "name": "리빙바이블",
+   "english": "The Living Bible (TLB)",
+   "language": "한국어",
+   "group": "영어 풀어쓰기 성경",
+   "glance": "영어 원본 1971 · 풀어쓰기",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "영어 『The Living Bible』은 케네스 테일러가 쓴 풀어쓰기(paraphrase) 성경으로, 1971년에 처음 나왔고 바탕 본문은 1901년의 American Standard Version입니다.",
+     "refs": [
+      10
+     ]
+    },
+    {
+     "text": "이 성경의 신약은 1967년에 먼저 나왔습니다.",
+     "refs": [
+      11
+     ]
+    },
+    {
+     "text": "이 앱의 ‘리빙바이블’이 어느 한국어판인지, 번역과 출판 경위는 확인하지 못했습니다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "kor1910",
+   "codes": [
+    "kor1910"
+   ],
+   "name": "한글 1910",
+   "english": "Korean Bible 1910",
+   "language": "한국어",
+   "group": "앱 내장(퍼블릭 도메인)",
+   "glance": "1910년대 · 앱 내장",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "이 앱에 처음부터 들어 있는 한국어 성경입니다. eBible.org의 파일(2024-11-05판)을 가져왔고, 이용에 제한이 없는 퍼블릭 도메인입니다.",
+     "refs": [
+      40
+     ]
+    },
+    {
+     "text": "1910년대에 나온 번역으로 표시되며, 번역·편집에 참여한 이로 레널즈, 이승두, 김정삼이 적혀 있습니다.",
+     "refs": [
+      40
+     ]
+    },
+    {
+     "text": "백과사전도 1910년에 레널즈가 이승두·김정삼과 함께 구약을 완성했다고 적습니다.",
+     "refs": [
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bsb",
+   "codes": [
+    "bsb"
+   ],
+   "name": "BSB (Berean Standard Bible)",
+   "english": "Berean Standard Bible",
+   "language": "English",
+   "group": "앱 내장(퍼블릭 도메인)",
+   "glance": "앱 내장 · 퍼블릭 도메인",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "이 앱에 처음부터 들어 있는 영어 성경입니다. berean.bible의 파일을 가져왔고, 2023년 4월 30일에 퍼블릭 도메인으로 공개한다고 선언되었습니다.",
+     "refs": [
+      40
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kjv",
+   "codes": [
+    "kjv",
+    "engkjv"
+   ],
+   "name": "킹제임스역 (KJV)",
+   "english": "King James Version",
+   "language": "English",
+   "group": "영어 전통 역본",
+   "glance": "1611 · 영국 · 형식 일치",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "영국 왕 제임스 1세의 명으로 1604년에 번역을 시작해 1611년에 마친 영어 성경입니다.",
+     "refs": [
+      13
+     ]
+    },
+    {
+     "text": "지금 널리 쓰는 본문은 주로 1769년판입니다. 교회에서 읽도록 권위를 인정받았다는 뜻에서 ‘Authorized Version’이라고도 부릅니다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "1954년에 영국성서공회가 1769년 본문은 그대로 두고 소제목과 단락을 더한 판을 냈습니다.",
+     "refs": [
+      12
+     ]
+    },
+    {
+     "text": "단어를 하나하나 맞추는 쪽(형식 일치)의 성경으로 분류됩니다.",
+     "refs": [
+      47
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nkjv",
+   "codes": [
+    "nkjv",
+    "enknkjv"
+   ],
+   "name": "뉴킹제임스역 (NKJV)",
+   "english": "New King James Version",
+   "language": "English",
+   "group": "영어 개정 역본",
+   "glance": "1982 · Thomas Nelson · KJV 개정",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "Thomas Nelson이 낸 킹제임스역의 개정판입니다. 신약이 1979년, 구약까지 포함한 전체가 1982년에 나왔고, 작업에 7년이 걸렸다고 합니다.",
+     "refs": [
+      25
+     ]
+    },
+    {
+     "text": "킹제임스역이 바탕으로 삼았다고 여겨지는 본문의 읽기를 그대로 따르는 보수적인 개정으로 소개됩니다.",
+     "refs": [
+      26
+     ]
+    },
+    {
+     "text": "단어를 하나하나 맞추는 쪽(형식 일치)의 성경으로 분류됩니다.",
+     "refs": [
+      47
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nasb",
+   "codes": [
+    "nasb",
+    "engnasb"
+   ],
+   "name": "새미국표준성경 (NASB)",
+   "english": "New American Standard Bible",
+   "language": "English",
+   "group": "영어 직역 계열",
+   "glance": "1971 · Lockman Foundation · 형식 일치(직역에 가까움)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "The Lockman Foundation이 만든 성경으로, 전체가 1971년에 완성되었고 1977년, 1995년, 2020년에 개정되었습니다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "낱말 대 낱말에 가깝게 옮기는 ‘형식 일치’ 방식을 일관되게 쓴다고 소개합니다.",
+     "refs": [
+      19
+     ]
+    },
+    {
+     "text": "바탕이 된 것은 1901년의 American Standard Version이며, 신약은 1963년에 먼저 나왔습니다.",
+     "refs": [
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esv",
+   "codes": [
+    "esv",
+    "engesv"
+   ],
+   "name": "영어표준역 (ESV)",
+   "english": "English Standard Version",
+   "language": "English",
+   "group": "영어 직역 계열",
+   "glance": "2001 · Crossway · 본질적 직역",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "Crossway가 2001년에 낸 성경으로, 100명이 넘는 복음주의 학자와 목회자가 만들었다고 합니다.",
+     "refs": [
+      17
+     ]
+    },
+    {
+     "text": "1971년판 Revised Standard Version의 본문을 출발점으로 삼았습니다.",
+     "refs": [
+      18
+     ]
+    },
+    {
+     "text": "‘본질적으로 직역(essentially literal)’을 내세우며, 원문의 낱말과 저자마다의 문체를 가능한 한 살리려 한다고 설명합니다.",
+     "refs": [
+      16
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nrsv",
+   "codes": [
+    "nrsv",
+    "engnrsv"
+   ],
+   "name": "새개정표준역 (NRSV)",
+   "english": "New Revised Standard Version",
+   "language": "English",
+   "group": "영어 직역 계열",
+   "glance": "1989 · NCC · 개신교·가톨릭·정교회 학자 참여",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "1989년에 미국 NCC(전국교회협의회) 산하 기관이 낸 성경으로, Revised Standard Version을 고친 것입니다.",
+     "refs": [
+      23,
+      24
+     ]
+    },
+    {
+     "text": "번역 위원회는 약 30명이며 개신교, 가톨릭, 그리스 정교회 학자와 유대인 학자가 함께했다고 소개합니다.",
+     "refs": [
+      23
+     ]
+    },
+    {
+     "text": "‘가능한 한 직역으로, 뜻이 통하는 데 필요한 만큼만 자유롭게’라는 표어로 설명됩니다.",
+     "refs": [
+      23,
+      24
+     ]
+    },
+    {
+     "text": "2021년에는 개정판(NRSVue)이 나왔습니다.",
+     "refs": [
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "id": "niv",
+   "codes": [
+    "niv",
+    "engniv"
+   ],
+   "name": "새국제역 (NIV)",
+   "english": "New International Version",
+   "language": "English",
+   "group": "영어 뜻 중심 계열",
+   "glance": "1978(개정 1984·2011) · Biblica · 뜻 중심",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "전체가 1978년에 완간되었고(신약은 1973년), 1984년에 가벼운 개정, 2011년에 큰 개정이 있었습니다. 발행은 Biblica가 맡습니다.",
+     "refs": [
+      22
+     ]
+    },
+    {
+     "text": "100명이 넘는 학자가 히브리어·아람어·그리스어 원문에서 직접 번역했다고 소개하며, 15명으로 이루어진 번역 위원회가 책임을 졌습니다.",
+     "refs": [
+      21
+     ]
+    },
+    {
+     "text": "뜻을 자연스러운 영어로 옮기는 쪽(뜻 중심)에 가까운 성경으로 분류됩니다.",
+     "refs": [
+      47
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tniv",
+   "codes": [
+    "tniv",
+    "engtniv"
+   ],
+   "name": "오늘의 새국제역 (TNIV)",
+   "english": "Today's New International Version",
+   "language": "English",
+   "group": "영어 뜻 중심 계열",
+   "glance": "2005 · NIV 개정 시도 · 2011년 이후 중단",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "NIV를 만든 위원회가 NIV를 바탕으로 고친 성경으로, 신약이 2002년, 전체가 2005년에 나왔습니다.",
+     "refs": [
+      37
+     ]
+    },
+    {
+     "text": "2011년에 개정된 NIV가 나오면서 TNIV와 1984년판 NIV는 더 이상 내지 않게 되었습니다.",
+     "refs": [
+      37
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nlt",
+   "codes": [
+    "nlt",
+    "engnlt"
+   ],
+   "name": "새생활영어역 (NLT)",
+   "english": "New Living Translation",
+   "language": "English",
+   "group": "영어 뜻 중심 계열",
+   "glance": "1996(개정 2004·2015) · Tyndale House · 뜻 중심",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "Tyndale House Foundation이 1996년에 낸 성경으로, 90명가량의 학자가 만들었다고 합니다. 이후 2004년, 2015년 등에 개정되었습니다.",
+     "refs": [
+      27
+     ]
+    },
+    {
+     "text": "1980년대 말에 『The Living Bible』을 원문에 더 맞게 고치려는 작업으로 시작했고, 그 결과 새로운 번역이 나왔습니다.",
+     "refs": [
+      28
+     ]
+    },
+    {
+     "text": "쉬운 현대 영어로 읽히되, 분명하고 자연스러운 영어가 되는 곳에서는 가능한 한 직역한다는 입장을 밝힙니다.",
+     "refs": [
+      48
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gnt",
+   "codes": [
+    "gnt"
+   ],
+   "name": "굿뉴스역 (GNT)",
+   "english": "Good News Translation",
+   "language": "English",
+   "group": "영어 뜻 중심 계열",
+   "glance": "1976(신약 1966) · 미국성서공회 · 뜻 중심",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "미국성서공회가 만든 성경입니다. 신약 『Good News for Modern Man』이 1966년에 먼저 나왔고, 번역은 로버트 브래처가 맡았습니다.",
+     "refs": [
+      30
+     ]
+    },
+    {
+     "text": "전체 성경은 1976년에 나왔고, 예전 이름은 Today's English Version(TEV)입니다.",
+     "refs": [
+      29
+     ]
+    },
+    {
+     "text": "누구나 쓰는 쉬운 말로 뜻과 문체를 전하려는 ‘역동적 등가(뜻 중심)’ 방식의 성경입니다.",
+     "refs": [
+      29
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hcsb",
+   "codes": [
+    "hcsb"
+   ],
+   "name": "홀먼 기독교 표준성경 (HCSB)",
+   "english": "Holman Christian Standard Bible",
+   "language": "English",
+   "group": "영어 절충 계열",
+   "glance": "2004 · Holman · 최적 등가(절충)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "Holman Bible Publishers가 낸 성경으로, 신약이 1999년에 먼저 나왔고 전체는 2004년에 나왔습니다.",
+     "refs": [
+      49,
+      31
+     ]
+    },
+    {
+     "text": "직역과 의역의 균형을 찾는다는 뜻으로 ‘최적 등가(Optimal Equivalence)’라는 방식을 내세웠습니다.",
+     "refs": [
+      31
+     ]
+    },
+    {
+     "text": "2017년에 크게 고쳐 ‘Christian Standard Bible(CSB)’로 이름을 바꾸어 대체했습니다.",
+     "refs": [
+      32
+     ]
+    }
+   ]
+  },
+  {
+   "id": "isv",
+   "codes": [
+    "isv"
+   ],
+   "name": "국제표준역 (ISV)",
+   "english": "International Standard Version",
+   "language": "English",
+   "group": "영어 절충 계열",
+   "glance": "2011(전자) · ISV Foundation · 적당한 직역",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "ISV Foundation이 낸 성경으로, 신약이 1998년, 전체가 2011년에 전자 출판으로 나왔습니다.",
+     "refs": [
+      34
+     ]
+    },
+    {
+     "text": "직역과 의역 사이를 노리는 ‘적당히 직역(moderately literal)’ 성격이라고 소개합니다.",
+     "refs": [
+      33
+     ]
+    },
+    {
+     "text": "구약 본문을 사해사본과 비교한 각주가 달린 점이 특징이라고 합니다.",
+     "refs": [
+      33
+     ]
+    }
+   ]
+  },
+  {
+   "id": "msg",
+   "codes": [
+    "msg"
+   ],
+   "name": "메시지 성경 (MSG)",
+   "english": "The Message",
+   "language": "English",
+   "group": "영어 풀어쓰기 성경",
+   "glance": "2002(신약 1993) · NavPress · 풀어쓰기",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "유진 피터슨이 쓴 풀어쓰기(paraphrase) 성경으로, NavPress에서 신약이 1993년, 전체가 2002년에 나왔습니다.",
+     "refs": [
+      35,
+      36
+     ]
+    },
+    {
+     "text": "원문의 어조와 대화 같은 느낌을 오늘의 영어로 살리려 했다고 소개되며, 낱말을 하나씩 맞춘 번역이 아니라 ‘읽는 성경’으로 이해해야 한다고 설명합니다.",
+     "refs": [
+      36
+     ]
+    }
+   ]
+  },
+  {
+   "id": "amp",
+   "codes": [
+    "amp",
+    "engamp"
+   ],
+   "name": "확대성경 (AMP)",
+   "english": "Amplified Bible",
+   "language": "English",
+   "group": "영어 설명 덧붙임 성경",
+   "glance": "1965(개정 2015) · Lockman Foundation · 뜻풀이를 덧붙임",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "The Lockman Foundation과 Zondervan이 만든 성경입니다. 신약이 1958년, 구약이 1962·1964년에 나왔고 전체는 1965년에 나왔습니다.",
+     "refs": [
+      39,
+      50
+     ]
+    },
+    {
+     "text": "한 낱말에 동의어, 정의, 설명 구절을 덧붙여 원문의 뜻을 넓게 보여 주는 ‘확대(amplified)’ 방식이 특징입니다.",
+     "refs": [
+      38
+     ]
+    },
+    {
+     "text": "2015년에 영어 표현을 다듬은 개정판이 나왔습니다.",
+     "refs": [
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hchv",
+   "codes": [
+    "hchv"
+   ],
+   "name": "개역 국한문",
+   "english": "",
+   "language": "한국어",
+   "group": "국한문(한자 섞어 씀)",
+   "glance": "개역 계열 국한문판(추정)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "‘국한문’ 판은 한글과 한자를 섞어 쓴 판을 뜻합니다. 대한성서공회가 예전에 낸 개역 계열의 국한문판(예: 1964년 개역간이국한문한글판)이 있었습니다.",
+     "refs": [
+      1,
+      42
+     ]
+    },
+    {
+     "text": "이 파일이 어느 출판 판본인지는 확인하지 못했습니다. 파일 이름으로 보면 개역 계열로 보이지만 이것은 추정입니다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "kchhrv",
+   "codes": [
+    "kchhrv"
+   ],
+   "name": "개역 한글판 국한문",
+   "english": "",
+   "language": "한국어",
+   "group": "국한문(한자 섞어 씀)",
+   "glance": "개역한글 국한문판(추정)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "‘국한문’ 판은 한글과 한자를 섞어 쓴 판을 뜻합니다. 대한성서공회가 예전에 낸 개역 계열의 국한문판(예: 1964년 개역간이국한문한글판)이 있었습니다.",
+     "refs": [
+      1,
+      42
+     ]
+    },
+    {
+     "text": "이 파일이 어느 출판 판본인지는 확인하지 못했습니다. 파일 이름으로 보면 개역한글판의 국한문 판으로 보이지만 이것은 추정입니다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "kchnkrv",
+   "codes": [
+    "kchnkrv"
+   ],
+   "name": "개역개정판 국한문",
+   "english": "",
+   "language": "한국어",
+   "group": "국한문(한자 섞어 씀)",
+   "glance": "개역개정 국한문판(추정)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "‘국한문’ 판은 한글과 한자를 섞어 쓴 판을 뜻합니다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "이 파일이 어느 출판 판본인지는 확인하지 못했습니다. 파일 이름으로 보면 개역개정판의 국한문 판으로 보이지만 이것은 추정입니다. 본문 번역은 개역개정 설명을 참고하세요.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "kchktv",
+   "codes": [
+    "kchktv"
+   ],
+   "name": "바른성경 국한문",
+   "english": "",
+   "language": "한국어",
+   "group": "국한문(한자 섞어 씀)",
+   "glance": "바른성경 국한문판(추정)",
+   "status": "draft",
+   "sentences": [
+    {
+     "text": "‘국한문’ 판은 한글과 한자를 섞어 쓴 판을 뜻합니다.",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "text": "이 파일이 어느 출판 판본인지는 확인하지 못했습니다. 파일 이름으로 보면 바른성경의 국한문 판으로 보이지만 이것은 추정입니다. 본문 번역은 바른성경 설명을 참고하세요.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  },
+  {
+   "id": "hgl",
+   "codes": [
+    "hgl",
+    "korhgl"
+   ],
+   "name": "한글",
+   "english": "",
+   "language": "한국어",
+   "group": "확인 못 함",
+   "glance": "설명 준비 중",
+   "status": "pending",
+   "sentences": [
+    {
+     "text": "‘한글’이 어느 번역·판본을 가리키는지 확인하지 못했습니다. 설명은 준비 중입니다.",
+     "refs": [],
+     "unsourced": true
+    }
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "n": 1,
+   "cite": "대한성서공회, 우리말 주요 성경 역본 — 성경전서 개역한글판(1961)",
+   "where": "‘개정 배경’, ‘개정 대본’ 항목",
+   "url": "https://bskorea.or.kr/prog/trans_feature2.php",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 2,
+   "cite": "대한성서공회, 성서에 관하여 — 한글성경 번역사 — 「성경전서 개역 개정판」(1998)",
+   "where": "‘(1) 연혁’ 항목",
+   "url": "https://bskorea.or.kr/biblecom/bibcome05_08.php",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 3,
+   "cite": "대한성서공회, 우리말 주요 성경 역본 — 새번역 성경전서",
+   "where": "‘개정 배경’, ‘개정 원칙’ 항목",
+   "url": "https://bskorea.or.kr/prog/trans_feature3.php",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 4,
+   "cite": "대한성서공회, 성서에 관하여 — 한글성경 번역사 (표준 새번역·공동번역 부분)",
+   "where": "표준 새번역(1993), 공동번역 성서(1977), 명칭 변경(2004)을 다룬 부분",
+   "url": "https://bskorea.or.kr/biblecom/bibcome05_07.php",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 5,
+   "cite": "대한성서공회, 우리말 주요 성경 역본 — 공동번역성서 개정판(1999)",
+   "where": "‘개정 배경’, ‘개정 원칙’ 항목",
+   "url": "https://bskorea.or.kr/prog/trans_feature4.php",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 6,
+   "cite": "한국민족문화대백과사전, 공동번역성서",
+   "where": "‘구성과 내용’ 항목",
+   "url": "https://encykorea.aks.ac.kr/Article/E0066208",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 7,
+   "cite": "Wikipedia, Korean Catholic Bible",
+   "where": "첫 부분(출간일·발행처)과 ‘History’ 첫 문단",
+   "url": "https://en.wikipedia.org/wiki/Korean_Catholic_Bible",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 8,
+   "cite": "Wikipedia, Bible translations into Korean",
+   "where": "1945년 이후 역본 목록(1985~2005년 항목)",
+   "url": "https://en.wikipedia.org/wiki/Bible_translations_into_Korean",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 9,
+   "cite": "Bible Gateway, Korean Living Bible (현대인의 성경) 판권 안내",
+   "where": "‘Copyright Information’ 항목",
+   "url": "https://BibleGateWay.com/versions/Korean-Living-Bible-KLB/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 10,
+   "cite": "Wikipedia, The Living Bible",
+   "where": "첫 문단(저자·1971년·바탕 본문)",
+   "url": "https://en.wikipedia.org/wiki/The_Living_Bible",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 11,
+   "cite": "Bible-Researcher, The Living Bible (1971)",
+   "where": "서지 사항(신약 1967년) 부분",
+   "url": "https://bible-researcher.com/lbp.html",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 12,
+   "cite": "Bible.com(YouVersion), King James Version 안내",
+   "where": "‘King James Version (KJV)’ 설명 항목",
+   "url": "https://www.bible.com/ko/versions/1",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 13,
+   "cite": "위키백과, 킹 제임스 성경",
+   "where": "첫 문단",
+   "url": "https://ko.wikipedia.com/wiki/KJV",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 14,
+   "cite": "정동수, 『킹제임스 흠정역 성경 이야기』 중 ‘정동수 목사와 킹제임스 흠정역 성경 소개’ (도서출판 그리스도예수안에 자료)",
+   "where": "소개 글 앞부분(번역자 본인의 설명)",
+   "url": "https://cbck.org/Pds1//BoardAdtDownload/7283",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": "번역·출판하는 쪽이 쓴 자료라 제3자의 확인은 아님"
+  },
+  {
+   "n": 15,
+   "cite": "App Store, 한글킹제임스성경(말씀보존학회) 앱 소개",
+   "where": "앱 설명 중 서문 인용 부분",
+   "url": "https://apps.apple.com/us/app/%ED%95%9C%EA%B8%80%ED%82%B9%EC%A0%9C%EC%9E%84%EC%8A%A4%EC%84%B1%EA%B2%BD-%EB%A7%90%EC%94%80%EB%B3%B4%EC%A1%B4%ED%95%99%ED%9A%8C/id6472695815",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": "앱 소개문이라 공식 번역 설명은 아님"
+  },
+  {
+   "n": 16,
+   "cite": "ESV.org, Translation Philosophy",
+   "where": "첫 부분(‘essentially literal’ 설명)",
+   "url": "https://www.esv.org/translation/philosophy/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 17,
+   "cite": "Crossway, 10 Things You Should Know about the ESV Translation",
+   "where": "1~4번 항목",
+   "url": "https://www.crossway.org/articles/10-things-you-should-know-about-the-esv-translation/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 18,
+   "cite": "Bible Gateway, English Standard Version (ESV) 안내",
+   "where": "‘Version Information’ 항목",
+   "url": "https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 19,
+   "cite": "The Lockman Foundation, New American Standard Bible (NASB)",
+   "where": "‘What is the New American Standard Bible (NASB)?’ 항목",
+   "url": "https://www.lockman.org/?p=765",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 20,
+   "cite": "Wikipedia, New American Standard Bible",
+   "where": "첫 부분(출간 연도·바탕 역본)",
+   "url": "https://en.wikipedia.org/wiki/New_American_Standard_Bible",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 21,
+   "cite": "Bible Gateway, New International Version (NIV) 안내",
+   "where": "‘Version Information’ 항목",
+   "url": "https://www.biblegateway.com/versions/new-international-version-niv-bible",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 22,
+   "cite": "Wikipedia, New International Version",
+   "where": "첫 부분(출간 연도·개정)",
+   "url": "https://en.wikipedia.org/wiki/New_International_Version",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 23,
+   "cite": "Bible Gateway, New Revised Standard Version (NRSV) 안내",
+   "where": "‘Version Information’ 항목",
+   "url": "https://www.biblegateway.com/versions/New-Revised-Standard-Version-Anglicised-NRSVA-Bible/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 24,
+   "cite": "Wikiwand(Wikipedia), New Revised Standard Version",
+   "where": "첫 부분(출간 연도·위원회·표어·NRSVue)",
+   "url": "https://www.wikiwand.com/en/articles/NRSV",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 25,
+   "cite": "Wikipedia, New King James Version",
+   "where": "첫 부분(출간 연도·발행처)",
+   "url": "https://en.wikipedia.org/wiki/New_King_James_Version",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 26,
+   "cite": "Bible-Researcher, New King James Version",
+   "where": "‘History of the Version’ 항목",
+   "url": "https://bible-researcher.com/nkjv.html",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 27,
+   "cite": "Wikipedia, New Living Translation",
+   "where": "첫 부분(출간 연도·개정)",
+   "url": "https://www.wikipedia.org/wiki/NLT_Study_Bible",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 28,
+   "cite": "Bible Gateway Blog, The Mission and Impact of the New Living Translation (NLT)",
+   "where": "글 앞부분(1980년대 말~1996년)",
+   "url": "https://www.biblegateway.com/blog/2018/09/the-mission-and-impact-of-the-new-living-translation-bible/amp/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 29,
+   "cite": "Good News Translation, About the Good News Translation",
+   "where": "첫 부분",
+   "url": "https://gnt.bible/?p=368",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 30,
+   "cite": "Bible Gateway, Good News Translation (GNT) 안내",
+   "where": "‘Version Information’ 항목",
+   "url": "https://biblegateway.com/versions/Good-News-Translation-GNT-Bible/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 31,
+   "cite": "Bible Gateway Blog, Do you know the Holman Christian Standard Bible?",
+   "where": "글 앞부분",
+   "url": "https://www.biblegateway.com/blog/?p=2397",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 32,
+   "cite": "Mark L. Strauss, A Review of the Christian Standard Bible (Themelios 44:2)",
+   "where": "초록(Abstract)과 1장 앞부분",
+   "url": "https://www.thegospelcoalition.org/themelios/article/a-review-of-the-christian-standard-bible/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 33,
+   "cite": "Bible Gateway, International Standard Version (ISV) 안내",
+   "where": "‘Version Information’ 항목",
+   "url": "https://biblegateway.com/versions/International-Standard-Version-ISV-Bible/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 34,
+   "cite": "Wikipedia, International Standard Version",
+   "where": "첫 부분(출간 연도)",
+   "url": "https://en.wikipedia.org/wiki/International_Standard_Version",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 35,
+   "cite": "Bible-Researcher, The Message",
+   "where": "서지 사항·본문 앞부분",
+   "url": "https://bible-researcher.com/themessage.html",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 36,
+   "cite": "Bible Study Tools, The Message Bible (MSG) 소개",
+   "where": "‘About the The Message Bible’ 항목",
+   "url": "https://www.biblestudytools.com/msg/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 37,
+   "cite": "Wikipedia, Today's New International Version",
+   "where": "첫 부분(출간·중단)",
+   "url": "https://www.wikipedia.org/wiki/TNIV",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 38,
+   "cite": "The Lockman Foundation, Amplified Bible (AMP)",
+   "where": "첫 부분",
+   "url": "https://www.lockman.org/?p=761",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 39,
+   "cite": "Bible Gateway, Amplified Bible (AMP) 안내",
+   "where": "‘Version Information’ 항목",
+   "url": "https://biblegateway.com/versions/Amplified-Bible-AMP/",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 40,
+   "cite": "MyBibleWalk 저장소 NOTICE_BIBLES.md, ‘앱에 들어 있는 성경 본문의 출처’ 표",
+   "where": "표의 두 행(bible_kor1910.json, bible_bsb.json)",
+   "url": "",
+   "accessed": "2026-11-23",
+   "level": "full",
+   "evidence": [],
+   "note": "이 앱의 출처 표시 문서를 직접 읽음"
+  },
+  {
+   "n": 41,
+   "cite": "Fox CG(교회 블로그), 성경 역본 비교 — 개역한글, 새번역, 공동번역, 우리말성경, 현대인의 성경 등",
+   "where": "‘우리말성경 (2004)’ 소개 문단",
+   "url": "https://foxcg.com/bible-translation-comparison/",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "개인·교회 블로그라 신뢰도가 낮음. 공식 자료 확인 필요"
+  },
+  {
+   "n": 42,
+   "cite": "대한성서공회 성경원문연구 38호, 이환진, 한글 성경 시편 5편의 번역 변화 연구",
+   "where": "‘개역간이국한문한글판(1964)’을 언급한 부분",
+   "url": "https://bskorea.or.kr/data/pdf/38-01 한글 성경 시편 5편의 번역 변화 연구 (이환진) doi.pdf",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 43,
+   "cite": "대한성서공회, 성경 카탈로그 상세(개역개정판 안내)",
+   "where": "소개 문단",
+   "url": "https://bskorea.or.kr/prog/catalogue_detail.php?sn=209",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 44,
+   "cite": "민현식, 『새한글성경』 국어 해설 (대한성서공회)",
+   "where": "‘1. 한글 성경 번역의 두 흐름’",
+   "url": "https://issuu.com/koreanbiblesociety/docs/_8674455197db68",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 45,
+   "cite": "대한성서공회 성경원문연구 별책 31호, 강사문, 차세대를 위한 새로운 성경 번역에 대한 제안",
+   "where": "역본 비교 예시(바른성경 2009 표기) 부분",
+   "url": "https://www.bskorea.or.kr/data/pdf/31-별-07 차세대를 위한 새로운 성경 번역에 대한 제안 (강사문) doi.pdf",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 46,
+   "cite": "알라딘, 아가페 쉬운성경(쉬운성경 편찬위원회 지음, 아가페출판사, 2017년판) 상품 정보",
+   "where": "상품 정보(지은이·출판사)",
+   "url": "https://www.aladin.co.kr/shop/wbrowse.aspx?cid=263532",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": "서점 상품 정보라 번역 경위를 설명하지는 않음"
+  },
+  {
+   "n": 47,
+   "cite": "Tyndale House Publishers, English Bible Translations (성경 번역 설명 자료)",
+   "where": "‘Formal Equivalence’와 ‘Dynamic Equivalence’ 구분 부분",
+   "url": "https://tyndale.com/sites/bibletraining/PDFs/english-bible-translations.pdf",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 48,
+   "cite": "BibleGateway/Biblia, Introduction to the New Living Translation — Translation Philosophy and Methodology",
+   "where": "‘Translation Philosophy and Methodology’ 항목",
+   "url": "https://biblia.com/books/nlt/offset/306731",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  },
+  {
+   "n": 49,
+   "cite": "Wikiwand(Wikipedia), Holman Christian Standard Bible",
+   "where": "첫 문단(신약 1999년, 전체 2004년)",
+   "url": "https://www.wikiwand.com/en/articles/HCSB",
+   "accessed": "2026-11-23",
+   "level": "secondary",
+   "evidence": [],
+   "note": "백과사전 항목이라 공식 자료로 다시 확인이 필요함"
+  },
+  {
+   "n": 50,
+   "cite": "ebible.org, Amplified Bible 2015 — Preface",
+   "where": "서문 첫 문단(1958년 신약, 1962·1964년 구약)",
+   "url": "https://ebible.org/study/content/texts/engamp/FR0.html",
+   "accessed": "2026-11-23",
+   "level": "abstract",
+   "evidence": [],
+   "note": ""
+  }
+ ]
+}

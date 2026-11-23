@@ -543,6 +543,12 @@
    "file": "shared/timeline.json",
    "updated": "2026-11-05",
    "rev": "f0a756fd4cec"
+  },
+  {
+   "id": "versions",
+   "file": "shared/versions.json",
+   "updated": "2026-11-23",
+   "rev": "668dacc7c5e7"
   }
  ]
 }
